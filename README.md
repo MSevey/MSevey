@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Engineering Manager and Software Developer
 - 💼 Currently working on [Skynet](https://siasky.net)
-<!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Currently living in a [Van!](https://www.instagram.com/trek2gether/) 
+<!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
 
 ## Languages and Tools  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
