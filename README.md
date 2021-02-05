@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MSevey/skytemplates/pull/2) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-2. 💪 Opened PR [#2](https://github.com/MSevey/skytemplates/pull/2) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-3. 🎉 Merged PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-4. 💪 Opened PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-5. 🗣 Commented on [#608](https://github.com/NebulousLabs/skynet-webportal/issues/608) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
+1. 💪 Opened PR [#3](https://github.com/MSevey/skytemplates/pull/3) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+2. 🎉 Merged PR [#2](https://github.com/MSevey/skytemplates/pull/2) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+3. 💪 Opened PR [#2](https://github.com/MSevey/skytemplates/pull/2) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+4. 🎉 Merged PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+5. 💪 Opened PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
