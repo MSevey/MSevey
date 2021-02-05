@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Engineering Manager and Software Developer
-- 💼 Currently working on [Skynet](https://siasky.net)  <img alt="Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" /> 
+- 💼 Currently working on [<img src="https://siasky.net/OACSa6AlWYA_RMifCvTmuhFSx4hhzuBLDy5CKJ7AFnmAVA" height="30em" align="center" alt="Skynet" title="Skynet"/>](https://siasky.net)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Currently living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
