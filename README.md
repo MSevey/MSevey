@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Matthew Sevey
 
-<a href="sevey.hns.to">
+<a href="http://sevey.hns.to">
   <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
 </a>
 <a href="https://twitter.com/mjsevey">
