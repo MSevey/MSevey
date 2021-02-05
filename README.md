@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Matthew Sevey
 
-<!-- 
-TODO
- - Add GitLab
- - Add Instagram 
--->
 <a href="sevey.hns.to">
   <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
 </a>
@@ -17,17 +12,17 @@ TODO
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<!-- 
+<a href="https://siasky.net/vAMDPhsJeRSDDBqu1s-X6aCQxr_XnyBr9CqIvNFE5Em3lw/">
+  <img align="left" alt="Skynet Certificate" width="22px" src="https://siasky.net/PAGc2jf3RAll7vw4w8a9xnhtArlmnRvSjKCbu6rcPVBeSg" />
+</a>
+<a href="https://gitlab.com/MSevey">
+  <img align="left" alt="Matthew Sevey | Gitlab" width="22px" src="https://siasky.net/EAArRH4UAWJ-pjFu8V6XHiIFYLx4ch0xWruGhoStZzm5hg" />
+</a>
+<!--
 <a href="https://www.instagram.com/trek2gether">
-  <img align="left" alt="Trek2gether Instagram" width="22px" src="https://siasky.net/TAC5DahlFsd1rwhi3hlRfJ-0D7GcdcHljojwNia6bBL33Q" />
+  <img align="left" alt="Trek2gether Instagram" width="22px" src="https://siasky.net/OAC__tLuDnjkesLyUfnF9Bd6Y0cSI4zPjvuXCGAnLiUCBw" />
 </a>
 -->
-<!-- 
-<a href="Link to Certificate">
-  <img align="left" alt="Skynet Certificate" width="22px" src="https://siasky.net/<link>" />
-</a>
--->
-
 
 <!--
 **MSevey/MSevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
