@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#608](https://github.com/NebulousLabs/skynet-webportal/issues/608) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
-2. 💪 Opened PR [#608](https://github.com/NebulousLabs/skynet-webportal/pull/608) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
-3. 💪 Opened PR [#11](https://github.com/NebulousLabs/skynet-workshop/pull/11) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-4. 🗣 Commented on [#240](https://github.com/NebulousLabs/skynet-js/issues/240) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-5. 🗣 Commented on [#240](https://github.com/NebulousLabs/skynet-js/issues/240) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
+1. 💪 Opened PR [#2](https://github.com/MSevey/skytemplates/pull/2) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+2. 🎉 Merged PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+3. 💪 Opened PR [#1](https://github.com/MSevey/skytemplates/pull/1) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+4. 🗣 Commented on [#608](https://github.com/NebulousLabs/skynet-webportal/issues/608) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
+5. 💪 Opened PR [#608](https://github.com/NebulousLabs/skynet-webportal/pull/608) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
