@@ -5,7 +5,9 @@ TODO
  - Add GitLab
  - Add Instagram 
 -->
-
+<a href="sevey.hns.to">
+  <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
+</a>
 <a href="https://twitter.com/mjsevey">
   <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -15,6 +17,12 @@ TODO
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+<!-- 
+<a href="https://www.instagram.com/trek2gether">
+  <img align="left" alt="Matthew's Reddit" width="22px" src="https://siasky.net/TAC5DahlFsd1rwhi3hlRfJ-0D7GcdcHljojwNia6bBL33Q" />
+</a>
+-->
+
 
 <!--
 **MSevey/MSevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +46,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Engineering Manager and Software Developer
-- 💼 Currently working on [Skynet](https://siasky.net)
+- 💼 Currently working on [Skynet](https://siasky.net)  <img alt="Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" /> 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Currently living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
