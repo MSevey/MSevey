@@ -6,20 +6,25 @@ TODO
  - Add Instagram 
 -->
 <a href="sevey.hns.to">
-  <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
+  <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
 </a>
 <a href="https://twitter.com/mjsevey">
   <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sevey/">
-  <img align="left" alt="Matthew's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Matthew's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <!-- 
 <a href="https://www.instagram.com/trek2gether">
-  <img align="left" alt="Matthew's Reddit" width="22px" src="https://siasky.net/TAC5DahlFsd1rwhi3hlRfJ-0D7GcdcHljojwNia6bBL33Q" />
+  <img align="left" alt="Trek2gether Instagram" width="22px" src="https://siasky.net/TAC5DahlFsd1rwhi3hlRfJ-0D7GcdcHljojwNia6bBL33Q" />
+</a>
+-->
+<!-- 
+<a href="Link to Certificate">
+  <img align="left" alt="Skynet Certificate" width="22px" src="https://siasky.net/<link>" />
 </a>
 -->
 
