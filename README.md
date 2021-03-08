@@ -12,7 +12,7 @@
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<a href="https://siasky.net/vAMDPhsJeRSDDBqu1s-X6aCQxr_XnyBr9CqIvNFE5Em3lw/">
+<a href="https://siasky.net/AADZA6UAqnXIRrSjP4QR7jB417_o8ma9T4M11KwPfDxdww/">
   <img align="left" alt="Skynet Certificate" width="22px" src="https://siasky.net/PAGc2jf3RAll7vw4w8a9xnhtArlmnRvSjKCbu6rcPVBeSg" />
 </a>
 <a href="https://gitlab.com/MSevey">
