@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/NebulousLabs/skynet-workshop/pull/13) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-2. 🗣 Commented on [#13](https://github.com/NebulousLabs/skynet-workshop/issues/13) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-3. 🎉 Merged PR [#12](https://github.com/NebulousLabs/docker-sia-ant-farm/pull/12) in [NebulousLabs/docker-sia-ant-farm](https://github.com/NebulousLabs/docker-sia-ant-farm)
-4. 🎉 Merged PR [#12](https://github.com/NebulousLabs/skynet-workshop/pull/12) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-5. 💪 Opened PR [#12](https://github.com/NebulousLabs/skynet-workshop/pull/12) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+1. 🎉 Merged PR [#14](https://github.com/NebulousLabs/skynet-workshop/pull/14) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+2. 🎉 Merged PR [#13](https://github.com/NebulousLabs/docker-sia-ant-farm/pull/13) in [NebulousLabs/docker-sia-ant-farm](https://github.com/NebulousLabs/docker-sia-ant-farm)
+3. ❌ Closed PR [#13](https://github.com/NebulousLabs/skynet-workshop/pull/13) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+4. 🗣 Commented on [#13](https://github.com/NebulousLabs/skynet-workshop/issues/13) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+5. 🎉 Merged PR [#12](https://github.com/NebulousLabs/docker-sia-ant-farm/pull/12) in [NebulousLabs/docker-sia-ant-farm](https://github.com/NebulousLabs/docker-sia-ant-farm)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
