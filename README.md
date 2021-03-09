@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/NebulousLabs/skynet-workshop/issues/16) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-2. 🎉 Merged PR [#15](https://github.com/NebulousLabs/skynet-workshop/pull/15) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-3. 💪 Opened PR [#15](https://github.com/NebulousLabs/skynet-workshop/pull/15) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-4. 🎉 Merged PR [#14](https://github.com/NebulousLabs/skynet-workshop/pull/14) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-5. 🎉 Merged PR [#13](https://github.com/NebulousLabs/docker-sia-ant-farm/pull/13) in [NebulousLabs/docker-sia-ant-farm](https://github.com/NebulousLabs/docker-sia-ant-farm)
+1. 🎉 Merged PR [#17](https://github.com/NebulousLabs/skynet-workshop/pull/17) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+2. ❗️ Opened issue [#16](https://github.com/NebulousLabs/skynet-workshop/issues/16) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+3. 🎉 Merged PR [#15](https://github.com/NebulousLabs/skynet-workshop/pull/15) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+4. 💪 Opened PR [#15](https://github.com/NebulousLabs/skynet-workshop/pull/15) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+5. 🎉 Merged PR [#14](https://github.com/NebulousLabs/skynet-workshop/pull/14) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
