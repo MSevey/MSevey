@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#363](https://github.com/NebulousLabs/skynet-js/pull/363) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-2. 🎉 Merged PR [#18](https://github.com/NebulousLabs/skynet-workshop/pull/18) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-3. 🎉 Merged PR [#17](https://github.com/NebulousLabs/skynet-workshop/pull/17) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-4. ❗️ Opened issue [#16](https://github.com/NebulousLabs/skynet-workshop/issues/16) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-5. 🎉 Merged PR [#15](https://github.com/NebulousLabs/skynet-workshop/pull/15) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+1. 🗣 Commented on [#364](https://github.com/NebulousLabs/skynet-js/issues/364) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
+2. 🎉 Merged PR [#1](https://github.com/MSevey/rclone/pull/1) in [MSevey/rclone](https://github.com/MSevey/rclone)
+3. 🎉 Merged PR [#363](https://github.com/NebulousLabs/skynet-js/pull/363) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
+4. 🎉 Merged PR [#18](https://github.com/NebulousLabs/skynet-workshop/pull/18) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+5. 🎉 Merged PR [#17](https://github.com/NebulousLabs/skynet-workshop/pull/17) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
