@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/SkynetHQ/skynet-docs/issues/9) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
-2. ❗️ Opened issue [#8](https://github.com/SkynetHQ/skynet-docs/issues/8) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
-3. ❗️ Opened issue [#7](https://github.com/SkynetHQ/skynet-docs/issues/7) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
-4. ❗️ Opened issue [#6](https://github.com/SkynetHQ/skynet-docs/issues/6) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
-5. ❗️ Opened issue [#5](https://github.com/SkynetHQ/skynet-docs/issues/5) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+1. ❗️ Opened issue [#175](https://github.com/NebulousLabs/skynet-blogger/issues/175) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
+2. ❌ Closed PR [#174](https://github.com/NebulousLabs/skynet-blogger/pull/174) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
+3. ❌ Closed PR [#172](https://github.com/NebulousLabs/skynet-blogger/pull/172) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
+4. ❌ Closed PR [#170](https://github.com/NebulousLabs/skynet-blogger/pull/170) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
+5. ❌ Closed PR [#168](https://github.com/NebulousLabs/skynet-blogger/pull/168) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
