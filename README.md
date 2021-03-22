@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/NebulousLabs/skynet-js/issues/364) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-2. 🎉 Merged PR [#1](https://github.com/MSevey/rclone/pull/1) in [MSevey/rclone](https://github.com/MSevey/rclone)
-3. 🎉 Merged PR [#363](https://github.com/NebulousLabs/skynet-js/pull/363) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-4. 🎉 Merged PR [#18](https://github.com/NebulousLabs/skynet-workshop/pull/18) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
-5. 🎉 Merged PR [#17](https://github.com/NebulousLabs/skynet-workshop/pull/17) in [NebulousLabs/skynet-workshop](https://github.com/NebulousLabs/skynet-workshop)
+1. ❗️ Opened issue [#9](https://github.com/SkynetHQ/skynet-docs/issues/9) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+2. ❗️ Opened issue [#8](https://github.com/SkynetHQ/skynet-docs/issues/8) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+3. ❗️ Opened issue [#7](https://github.com/SkynetHQ/skynet-docs/issues/7) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+4. ❗️ Opened issue [#6](https://github.com/SkynetHQ/skynet-docs/issues/6) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+5. ❗️ Opened issue [#5](https://github.com/SkynetHQ/skynet-docs/issues/5) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
