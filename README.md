@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/NebulousLabs/skystandards/pull/9) in [NebulousLabs/skystandards](https://github.com/NebulousLabs/skystandards)
-2. 🎉 Merged PR [#40](https://github.com/NebulousLabs/skynet-accounts/pull/40) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
-3. 💪 Opened PR [#1](https://github.com/SkynetHQ/docker-skyd/pull/1) in [SkynetHQ/docker-skyd](https://github.com/SkynetHQ/docker-skyd)
-4. ❗️ Opened issue [#175](https://github.com/NebulousLabs/skynet-blogger/issues/175) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
-5. ❌ Closed PR [#174](https://github.com/NebulousLabs/skynet-blogger/pull/174) in [NebulousLabs/skynet-blogger](https://github.com/NebulousLabs/skynet-blogger)
+1. 🗣 Commented on [#598](https://github.com/NebulousLabs/skynet-webportal/issues/598) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
+2. 💪 Opened PR [#650](https://github.com/NebulousLabs/skynet-webportal/pull/650) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
+3. 💪 Opened PR [#9](https://github.com/NebulousLabs/skystandards/pull/9) in [NebulousLabs/skystandards](https://github.com/NebulousLabs/skystandards)
+4. 🎉 Merged PR [#40](https://github.com/NebulousLabs/skynet-accounts/pull/40) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+5. 💪 Opened PR [#1](https://github.com/SkynetHQ/docker-skyd/pull/1) in [SkynetHQ/docker-skyd](https://github.com/SkynetHQ/docker-skyd)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
