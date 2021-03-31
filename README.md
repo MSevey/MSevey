@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SkynetHQ/Skynet-Hive/pull/7) in [SkynetHQ/Skynet-Hive](https://github.com/SkynetHQ/Skynet-Hive)
-2. 🎉 Merged PR [#1](https://github.com/SkynetHQ/skystandards/pull/1) in [SkynetHQ/skystandards](https://github.com/SkynetHQ/skystandards)
-3. 🗣 Commented on [#598](https://github.com/NebulousLabs/skynet-webportal/issues/598) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
-4. 💪 Opened PR [#650](https://github.com/NebulousLabs/skynet-webportal/pull/650) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
-5. 💪 Opened PR [#9](https://github.com/NebulousLabs/skystandards/pull/9) in [NebulousLabs/skystandards](https://github.com/NebulousLabs/skystandards)
+1. 💪 Opened PR [#10](https://github.com/SkynetHQ/skynet-docs/pull/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+2. 🎉 Merged PR [#7](https://github.com/SkynetHQ/Skynet-Hive/pull/7) in [SkynetHQ/Skynet-Hive](https://github.com/SkynetHQ/Skynet-Hive)
+3. 🎉 Merged PR [#1](https://github.com/SkynetHQ/skystandards/pull/1) in [SkynetHQ/skystandards](https://github.com/SkynetHQ/skystandards)
+4. 🗣 Commented on [#598](https://github.com/NebulousLabs/skynet-webportal/issues/598) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
+5. 💪 Opened PR [#650](https://github.com/NebulousLabs/skynet-webportal/pull/650) in [NebulousLabs/skynet-webportal](https://github.com/NebulousLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
