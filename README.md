@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#402](https://github.com/NebulousLabs/skynet-js/pull/402) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-2. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
-3. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
-4. ❗️ Opened issue [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
-5. ❗️ Opened issue [#11](https://github.com/SkynetHQ/skynet-js/issues/11) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
+1. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+2. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+3. 💪 Opened PR [#402](https://github.com/NebulousLabs/skynet-js/pull/402) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
+4. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
+5. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
