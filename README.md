@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+1. 💪 Opened PR [#61](https://github.com/electric-capital/crypto-ecosystems/pull/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
 2. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
-3. 💪 Opened PR [#402](https://github.com/NebulousLabs/skynet-js/pull/402) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
-4. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
+3. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+4. 💪 Opened PR [#402](https://github.com/NebulousLabs/skynet-js/pull/402) in [NebulousLabs/skynet-js](https://github.com/NebulousLabs/skynet-js)
 5. 🗣 Commented on [#12](https://github.com/SkynetHQ/skynet-js/issues/12) in [SkynetHQ/skynet-js](https://github.com/SkynetHQ/skynet-js)
 <!--END_SECTION:activity-->
 
