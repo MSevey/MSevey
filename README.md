@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
-2. 💪 Opened PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
-3. 💪 Opened PR [#61](https://github.com/electric-capital/crypto-ecosystems/pull/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
-4. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
+1. 🗣 Commented on [#38](https://github.com/NebulousLabs/skynet-accounts/issues/38) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+2. 🎉 Merged PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
+3. 💪 Opened PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
+4. 💪 Opened PR [#61](https://github.com/electric-capital/crypto-ecosystems/pull/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
 5. 🗣 Commented on [#10](https://github.com/SkynetHQ/skynet-docs/issues/10) in [SkynetHQ/skynet-docs](https://github.com/SkynetHQ/skynet-docs)
 <!--END_SECTION:activity-->
 
