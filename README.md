@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetHQ/skynet-workshop/pull/3) in [SkynetHQ/skynet-workshop](https://github.com/SkynetHQ/skynet-workshop)
-2. 🗣 Commented on [#38](https://github.com/NebulousLabs/skynet-accounts/issues/38) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
-3. 🎉 Merged PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
-4. 💪 Opened PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
-5. 💪 Opened PR [#61](https://github.com/electric-capital/crypto-ecosystems/pull/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+1. 🗣 Commented on [#12](https://github.com/SkynetLabs/skynet-docs/issues/12) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
+2. 🎉 Merged PR [#3](https://github.com/SkynetHQ/skynet-workshop/pull/3) in [SkynetHQ/skynet-workshop](https://github.com/SkynetHQ/skynet-workshop)
+3. 🗣 Commented on [#38](https://github.com/NebulousLabs/skynet-accounts/issues/38) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+4. 🎉 Merged PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
+5. 💪 Opened PR [#1](https://github.com/SkynetHQ/support-guide/pull/1) in [SkynetHQ/support-guide](https://github.com/SkynetHQ/support-guide)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
