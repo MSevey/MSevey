@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/NebulousLabs/skynet-accounts/issues/45) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+1. 🗣 Commented on [#44](https://github.com/SkynetLabs/skynet-accounts/issues/44) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
 2. 🗣 Commented on [#45](https://github.com/NebulousLabs/skynet-accounts/issues/45) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
-3. 🗣 Commented on [#44](https://github.com/NebulousLabs/skynet-accounts/issues/44) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
-4. 🎉 Merged PR [#12](https://github.com/SkynetLabs/skynet-docs/pull/12) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
-5. 🗣 Commented on [#12](https://github.com/SkynetLabs/skynet-docs/issues/12) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
+3. 🗣 Commented on [#45](https://github.com/NebulousLabs/skynet-accounts/issues/45) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+4. 🗣 Commented on [#44](https://github.com/NebulousLabs/skynet-accounts/issues/44) in [NebulousLabs/skynet-accounts](https://github.com/NebulousLabs/skynet-accounts)
+5. 🎉 Merged PR [#12](https://github.com/SkynetLabs/skynet-docs/pull/12) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
