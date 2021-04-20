@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#120](https://github.com/NebulousLabs/nodejs-skynet/pull/120) in [NebulousLabs/nodejs-skynet](https://github.com/NebulousLabs/nodejs-skynet)
-2. ❌ Closed PR [#121](https://github.com/NebulousLabs/nodejs-skynet/pull/121) in [NebulousLabs/nodejs-skynet](https://github.com/NebulousLabs/nodejs-skynet)
-3. 🎉 Merged PR [#673](https://github.com/SkynetLabs/skynet-webportal/pull/673) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 🎉 Merged PR [#2](https://github.com/SkynetLabs/skystandards/pull/2) in [SkynetLabs/skystandards](https://github.com/SkynetLabs/skystandards)
-5. 💪 Opened PR [#673](https://github.com/SkynetLabs/skynet-webportal/pull/673) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🗣 Commented on [#61](https://github.com/electric-capital/crypto-ecosystems/issues/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+2. ❌ Closed PR [#120](https://github.com/NebulousLabs/nodejs-skynet/pull/120) in [NebulousLabs/nodejs-skynet](https://github.com/NebulousLabs/nodejs-skynet)
+3. ❌ Closed PR [#121](https://github.com/NebulousLabs/nodejs-skynet/pull/121) in [NebulousLabs/nodejs-skynet](https://github.com/NebulousLabs/nodejs-skynet)
+4. 🎉 Merged PR [#673](https://github.com/SkynetLabs/skynet-webportal/pull/673) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 🎉 Merged PR [#2](https://github.com/SkynetLabs/skystandards/pull/2) in [SkynetLabs/skystandards](https://github.com/SkynetLabs/skystandards)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
