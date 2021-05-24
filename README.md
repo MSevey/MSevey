@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/rajatbeladiya/SkyNetGram/issues/4) in [rajatbeladiya/SkyNetGram](https://github.com/rajatbeladiya/SkyNetGram)
-2. 💪 Opened PR [#3](https://github.com/SiaFoundation/siad/pull/3) in [SiaFoundation/siad](https://github.com/SiaFoundation/siad)
-3. 🎉 Merged PR [#65](https://github.com/SkynetLabs/skynet-js/pull/65) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
-4. 💪 Opened PR [#695](https://github.com/SkynetLabs/skynet-webportal/pull/695) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🗣 Commented on [#61](https://github.com/electric-capital/crypto-ecosystems/issues/61) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+1. 🎉 Merged PR [#781](https://github.com/SkynetLabs/skynet-webportal/pull/781) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. ❗️ Opened issue [#4](https://github.com/rajatbeladiya/SkyNetGram/issues/4) in [rajatbeladiya/SkyNetGram](https://github.com/rajatbeladiya/SkyNetGram)
+3. 💪 Opened PR [#3](https://github.com/SiaFoundation/siad/pull/3) in [SiaFoundation/siad](https://github.com/SiaFoundation/siad)
+4. 🎉 Merged PR [#65](https://github.com/SkynetLabs/skynet-js/pull/65) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
+5. 💪 Opened PR [#695](https://github.com/SkynetLabs/skynet-webportal/pull/695) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
