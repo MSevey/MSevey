@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SkynetLabs/docker-skyd/issues/1) in [SkynetLabs/docker-skyd](https://github.com/SkynetLabs/docker-skyd)
-2. 🎉 Merged PR [#781](https://github.com/SkynetLabs/skynet-webportal/pull/781) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. ❗️ Opened issue [#4](https://github.com/rajatbeladiya/SkyNetGram/issues/4) in [rajatbeladiya/SkyNetGram](https://github.com/rajatbeladiya/SkyNetGram)
-4. 💪 Opened PR [#3](https://github.com/SiaFoundation/siad/pull/3) in [SiaFoundation/siad](https://github.com/SiaFoundation/siad)
-5. 🎉 Merged PR [#65](https://github.com/SkynetLabs/skynet-js/pull/65) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
+1. 🎉 Merged PR [#879](https://github.com/SkynetLabs/skynet-webportal/pull/879) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🗣 Commented on [#1](https://github.com/SkynetLabs/docker-skyd/issues/1) in [SkynetLabs/docker-skyd](https://github.com/SkynetLabs/docker-skyd)
+3. 🎉 Merged PR [#781](https://github.com/SkynetLabs/skynet-webportal/pull/781) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. ❗️ Opened issue [#4](https://github.com/rajatbeladiya/SkyNetGram/issues/4) in [rajatbeladiya/SkyNetGram](https://github.com/rajatbeladiya/SkyNetGram)
+5. 💪 Opened PR [#3](https://github.com/SiaFoundation/siad/pull/3) in [SiaFoundation/siad](https://github.com/SiaFoundation/siad)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
