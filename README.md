@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetLabs/skystandards/pull/3) in [SkynetLabs/skystandards](https://github.com/SkynetLabs/skystandards)
-2. 🎉 Merged PR [#4](https://github.com/SkynetLabs/skyblog/pull/4) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-3. 🎉 Merged PR [#11](https://github.com/MSevey/skytemplates/pull/11) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-4. 💪 Opened PR [#11](https://github.com/MSevey/skytemplates/pull/11) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
-5. 🎉 Merged PR [#1055](https://github.com/SkynetLabs/skynet-webportal/pull/1055) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 💪 Opened PR [#1062](https://github.com/SkynetLabs/skynet-webportal/pull/1062) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🎉 Merged PR [#3](https://github.com/SkynetLabs/skystandards/pull/3) in [SkynetLabs/skystandards](https://github.com/SkynetLabs/skystandards)
+3. 🎉 Merged PR [#4](https://github.com/SkynetLabs/skyblog/pull/4) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+4. 🎉 Merged PR [#11](https://github.com/MSevey/skytemplates/pull/11) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
+5. 💪 Opened PR [#11](https://github.com/MSevey/skytemplates/pull/11) in [MSevey/skytemplates](https://github.com/MSevey/skytemplates)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
