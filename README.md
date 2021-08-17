@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetLabs/skyblog/pull/3) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-2. ❌ Closed PR [#1](https://github.com/SkynetLabs/skymd/pull/1) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
-3. 🗣 Commented on [#1062](https://github.com/SkynetLabs/skynet-webportal/issues/1062) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 💪 Opened PR [#1062](https://github.com/SkynetLabs/skynet-webportal/pull/1062) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🎉 Merged PR [#3](https://github.com/SkynetLabs/skystandards/pull/3) in [SkynetLabs/skystandards](https://github.com/SkynetLabs/skystandards)
+1. 🎉 Merged PR [#1071](https://github.com/SkynetLabs/skynet-webportal/pull/1071) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🎉 Merged PR [#3](https://github.com/SkynetLabs/skyblog/pull/3) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+3. ❌ Closed PR [#1](https://github.com/SkynetLabs/skymd/pull/1) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
+4. 🗣 Commented on [#1062](https://github.com/SkynetLabs/skynet-webportal/issues/1062) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 💪 Opened PR [#1062](https://github.com/SkynetLabs/skynet-webportal/pull/1062) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
