@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/SkynetLabs/ansible-playbooks/pull/84) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 💪 Opened PR [#83](https://github.com/SkynetLabs/ansible-playbooks/pull/83) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. ❗️ Closed issue [#14](https://github.com/SkynetLabs/skyblog/issues/14) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-4. 🎉 Merged PR [#20](https://github.com/SkynetLabs/skyblog/pull/20) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-5. ❗️ Closed issue [#6](https://github.com/SkynetLabs/skyblog/issues/6) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+1. ❗️ Opened issue [#23](https://github.com/SkynetLabs/skyblog/issues/23) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+2. 🎉 Merged PR [#84](https://github.com/SkynetLabs/ansible-playbooks/pull/84) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 💪 Opened PR [#83](https://github.com/SkynetLabs/ansible-playbooks/pull/83) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. ❗️ Closed issue [#14](https://github.com/SkynetLabs/skyblog/issues/14) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+5. 🎉 Merged PR [#20](https://github.com/SkynetLabs/skyblog/pull/20) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
