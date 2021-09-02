@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-2. 🎉 Merged PR [#1121](https://github.com/SkynetLabs/skynet-webportal/pull/1121) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-4. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-5. 🗣 Commented on [#1107](https://github.com/SkynetLabs/skynet-webportal/issues/1107) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🗣 Commented on [#40](https://github.com/SkynetLabs/skyblog/issues/40) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+3. 🗣 Commented on [#40](https://github.com/SkynetLabs/skyblog/issues/40) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+4. 🗣 Commented on [#40](https://github.com/SkynetLabs/skyblog/issues/40) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+5. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
