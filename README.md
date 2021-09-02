@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/SkynetLabs/ansible-playbooks/pull/95) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 💪 Opened PR [#1124](https://github.com/SkynetLabs/skynet-webportal/pull/1124) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 💪 Opened PR [#66](https://github.com/SkynetLabs/skynet-accounts/pull/66) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-4. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-5. 🗣 Commented on [#40](https://github.com/SkynetLabs/skyblog/issues/40) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+1. ❗️ Opened issue [#42](https://github.com/SkynetLabs/skyblog/issues/42) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+2. 💪 Opened PR [#95](https://github.com/SkynetLabs/ansible-playbooks/pull/95) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 💪 Opened PR [#1124](https://github.com/SkynetLabs/skynet-webportal/pull/1124) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 💪 Opened PR [#66](https://github.com/SkynetLabs/skynet-accounts/pull/66) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+5. 🗣 Commented on [#39](https://github.com/SkynetLabs/skyblog/issues/39) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
