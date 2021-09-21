@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/SkynetLabs/ansible-playbooks/pull/120) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🗣 Commented on [#46](https://github.com/SkynetLabs/skyblog/issues/46) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-3. 🗣 Commented on [#46](https://github.com/SkynetLabs/skyblog/issues/46) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+1. 🎉 Merged PR [#9](https://github.com/SkynetLabs/skynet-workshop/pull/9) in [SkynetLabs/skynet-workshop](https://github.com/SkynetLabs/skynet-workshop)
+2. 🎉 Merged PR [#4](https://github.com/SkynetLabs/content-record-library/pull/4) in [SkynetLabs/content-record-library](https://github.com/SkynetLabs/content-record-library)
+3. 💪 Opened PR [#120](https://github.com/SkynetLabs/ansible-playbooks/pull/120) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 4. 🗣 Commented on [#46](https://github.com/SkynetLabs/skyblog/issues/46) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
 5. 🗣 Commented on [#46](https://github.com/SkynetLabs/skyblog/issues/46) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
 <!--END_SECTION:activity-->
