@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/SkynetLabs/Awesome-Homescreen/pull/16) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-2. ❌ Closed PR [#3](https://github.com/SkynetLabs/skymd/pull/3) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
-3. 🗣 Commented on [#3](https://github.com/SkynetLabs/skymd/issues/3) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
-4. 🎉 Merged PR [#114](https://github.com/SkynetLabs/ansible-playbooks/pull/114) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 💪 Opened PR [#124](https://github.com/SkynetLabs/ansible-playbooks/pull/124) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 💪 Opened PR [#127](https://github.com/SkynetLabs/ansible-playbooks/pull/127) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 💪 Opened PR [#16](https://github.com/SkynetLabs/Awesome-Homescreen/pull/16) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+3. ❌ Closed PR [#3](https://github.com/SkynetLabs/skymd/pull/3) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
+4. 🗣 Commented on [#3](https://github.com/SkynetLabs/skymd/issues/3) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
+5. 🎉 Merged PR [#114](https://github.com/SkynetLabs/ansible-playbooks/pull/114) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
