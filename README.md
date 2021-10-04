@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/SkynetLabs/skyblog/pull/50) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-2. ❗️ Closed issue [#49](https://github.com/SkynetLabs/skyblog/issues/49) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-3. ❗️ Opened issue [#51](https://github.com/SkynetLabs/skyblog/issues/51) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-4. 🎉 Merged PR [#19](https://github.com/SkynetLabs/Awesome-Homescreen/pull/19) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-5. 🎉 Merged PR [#8](https://github.com/SkynetLabs/skymd/pull/8) in [SkynetLabs/skymd](https://github.com/SkynetLabs/skymd)
+1. 🗣 Commented on [#81](https://github.com/SkynetLabs/skynet-accounts/issues/81) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+2. 🎉 Merged PR [#50](https://github.com/SkynetLabs/skyblog/pull/50) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+3. ❗️ Closed issue [#49](https://github.com/SkynetLabs/skyblog/issues/49) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+4. ❗️ Opened issue [#51](https://github.com/SkynetLabs/skyblog/issues/51) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+5. 🎉 Merged PR [#19](https://github.com/SkynetLabs/Awesome-Homescreen/pull/19) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
