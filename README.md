@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/SkynetLabs/ansible-playbooks/pull/131) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🎉 Merged PR [#3](https://github.com/SkynetLabs/ansiblecm/pull/3) in [SkynetLabs/ansiblecm](https://github.com/SkynetLabs/ansiblecm)
-3. 🗣 Commented on [#52](https://github.com/SkynetLabs/skyblog/issues/52) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
-4. 🎉 Merged PR [#4](https://github.com/SkynetLabs/testing-corpus/pull/4) in [SkynetLabs/testing-corpus](https://github.com/SkynetLabs/testing-corpus)
-5. 💪 Opened PR [#4](https://github.com/SkynetLabs/testing-corpus/pull/4) in [SkynetLabs/testing-corpus](https://github.com/SkynetLabs/testing-corpus)
+1. 🗣 Commented on [#52](https://github.com/SkynetLabs/skyblog/issues/52) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+2. 🎉 Merged PR [#131](https://github.com/SkynetLabs/ansible-playbooks/pull/131) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 🎉 Merged PR [#3](https://github.com/SkynetLabs/ansiblecm/pull/3) in [SkynetLabs/ansiblecm](https://github.com/SkynetLabs/ansiblecm)
+4. 🗣 Commented on [#52](https://github.com/SkynetLabs/skyblog/issues/52) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+5. 🎉 Merged PR [#4](https://github.com/SkynetLabs/testing-corpus/pull/4) in [SkynetLabs/testing-corpus](https://github.com/SkynetLabs/testing-corpus)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
