@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/SkynetLabs/skynet-mysky/issues/81) in [SkynetLabs/skynet-mysky](https://github.com/SkynetLabs/skynet-mysky)
-2. 🎉 Merged PR [#1263](https://github.com/SkynetLabs/skynet-webportal/pull/1263) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#24](https://github.com/SkynetLabs/Awesome-Homescreen/pull/24) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-4. 💪 Opened PR [#24](https://github.com/SkynetLabs/Awesome-Homescreen/pull/24) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-5. 🎉 Merged PR [#23](https://github.com/SkynetLabs/Awesome-Homescreen/pull/23) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+1. 💪 Opened PR [#25](https://github.com/SkynetLabs/Awesome-Homescreen/pull/25) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+2. 🗣 Commented on [#81](https://github.com/SkynetLabs/skynet-mysky/issues/81) in [SkynetLabs/skynet-mysky](https://github.com/SkynetLabs/skynet-mysky)
+3. 🎉 Merged PR [#1263](https://github.com/SkynetLabs/skynet-webportal/pull/1263) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#24](https://github.com/SkynetLabs/Awesome-Homescreen/pull/24) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+5. 💪 Opened PR [#24](https://github.com/SkynetLabs/Awesome-Homescreen/pull/24) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
