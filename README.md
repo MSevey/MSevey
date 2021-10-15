@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/SkynetLabs/Awesome-Homescreen/issues/26) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-2. 🎉 Merged PR [#141](https://github.com/SkynetLabs/ansible-playbooks/pull/141) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. ❗️ Closed issue [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. ❗️ Opened issue [#3788](https://github.com/JonathanGin52/JonathanGin52/issues/3788) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. 🗣 Commented on [#30](https://github.com/SkynetLabs/Awesome-Homescreen/issues/30) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+1. 🗣 Commented on [#47](https://github.com/SkynetLabs/skyblog/issues/47) in [SkynetLabs/skyblog](https://github.com/SkynetLabs/skyblog)
+2. 🗣 Commented on [#26](https://github.com/SkynetLabs/Awesome-Homescreen/issues/26) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+3. 🎉 Merged PR [#141](https://github.com/SkynetLabs/ansible-playbooks/pull/141) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. ❗️ Closed issue [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. ❗️ Opened issue [#3788](https://github.com/JonathanGin52/JonathanGin52/issues/3788) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
