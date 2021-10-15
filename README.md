@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/SkynetLabs/ansible-playbooks/pull/139) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🗣 Commented on [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 💪 Opened PR [#30](https://github.com/SkynetLabs/Awesome-Homescreen/pull/30) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+2. 🎉 Merged PR [#139](https://github.com/SkynetLabs/ansible-playbooks/pull/139) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 3. 🗣 Commented on [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 4. 🗣 Commented on [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 5. 🗣 Commented on [#140](https://github.com/SkynetLabs/ansible-playbooks/issues/140) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
