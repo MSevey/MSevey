@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SkynetLabs/blocker/pull/7) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-2. ❗️ Opened issue [#8](https://github.com/SkynetLabs/blocker/issues/8) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-3. 🎉 Merged PR [#1441](https://github.com/SkynetLabs/skynet-webportal/pull/1441) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. ❗️ Opened issue [#1429](https://github.com/SkynetLabs/skynet-webportal/issues/1429) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 💪 Opened PR [#1428](https://github.com/SkynetLabs/skynet-webportal/pull/1428) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🎉 Merged PR [#1430](https://github.com/SkynetLabs/skynet-webportal/pull/1430) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🎉 Merged PR [#1443](https://github.com/SkynetLabs/skynet-webportal/pull/1443) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. 🎉 Merged PR [#7](https://github.com/SkynetLabs/blocker/pull/7) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+4. ❗️ Opened issue [#8](https://github.com/SkynetLabs/blocker/issues/8) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+5. 🎉 Merged PR [#1441](https://github.com/SkynetLabs/skynet-webportal/pull/1441) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
