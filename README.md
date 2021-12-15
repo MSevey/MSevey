@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#178](https://github.com/SkynetLabs/ansible-playbooks/pull/178) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🎉 Merged PR [#1460](https://github.com/SkynetLabs/skynet-webportal/pull/1460) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#71](https://github.com/SkynetLabs/homescreen/pull/71) in [SkynetLabs/homescreen](https://github.com/SkynetLabs/homescreen)
-4. ❗️ Closed issue [#33](https://github.com/SkynetLabs/Awesome-Homescreen/issues/33) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
-5. 🎉 Merged PR [#38](https://github.com/SkynetLabs/Awesome-Homescreen/pull/38) in [SkynetLabs/Awesome-Homescreen](https://github.com/SkynetLabs/Awesome-Homescreen)
+1. 🗣 Commented on [#2](https://github.com/SkynetLabs/abuse-scanner/issues/2) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+2. 🗣 Commented on [#1452](https://github.com/SkynetLabs/skynet-webportal/issues/1452) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. 💪 Opened PR [#178](https://github.com/SkynetLabs/ansible-playbooks/pull/178) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. 🎉 Merged PR [#1460](https://github.com/SkynetLabs/skynet-webportal/pull/1460) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 🎉 Merged PR [#71](https://github.com/SkynetLabs/homescreen/pull/71) in [SkynetLabs/homescreen](https://github.com/SkynetLabs/homescreen)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
