@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/SkynetLabs/ansible-playbooks/issues/206) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. ❗️ Opened issue [#208](https://github.com/SkynetLabs/ansible-playbooks/issues/208) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 2. 🗣 Commented on [#206](https://github.com/SkynetLabs/ansible-playbooks/issues/206) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. ❗️ Opened issue [#207](https://github.com/SkynetLabs/ansible-playbooks/issues/207) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. ❗️ Opened issue [#206](https://github.com/SkynetLabs/ansible-playbooks/issues/206) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#17](https://github.com/SkynetLabs/blocker/pull/17) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+3. 🗣 Commented on [#206](https://github.com/SkynetLabs/ansible-playbooks/issues/206) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. ❗️ Opened issue [#207](https://github.com/SkynetLabs/ansible-playbooks/issues/207) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. ❗️ Opened issue [#206](https://github.com/SkynetLabs/ansible-playbooks/issues/206) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
