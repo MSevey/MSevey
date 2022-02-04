@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1648](https://github.com/SkynetLabs/skynet-webportal/pull/1648) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. ❗️ Closed issue [#1645](https://github.com/SkynetLabs/skynet-webportal/issues/1645) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#171](https://github.com/SkynetLabs/ansible-playbooks/pull/171) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. ❗️ Opened issue [#23](https://github.com/SkynetLabs/siasky-tools/issues/23) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
-5. 🎉 Merged PR [#1644](https://github.com/SkynetLabs/skynet-webportal/pull/1644) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🎉 Merged PR [#120](https://github.com/SkynetLabs/skynet-accounts/pull/120) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+2. 🎉 Merged PR [#1648](https://github.com/SkynetLabs/skynet-webportal/pull/1648) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. ❗️ Closed issue [#1645](https://github.com/SkynetLabs/skynet-webportal/issues/1645) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#171](https://github.com/SkynetLabs/ansible-playbooks/pull/171) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. ❗️ Opened issue [#23](https://github.com/SkynetLabs/siasky-tools/issues/23) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
