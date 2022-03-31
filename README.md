@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/SkynetLabs/skynet-workshop/pull/10) in [SkynetLabs/skynet-workshop](https://github.com/SkynetLabs/skynet-workshop)
-2. 🎉 Merged PR [#282](https://github.com/SkynetLabs/ansible-playbooks/pull/282) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. 🎉 Merged PR [#281](https://github.com/SkynetLabs/ansible-playbooks/pull/281) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. 🎉 Merged PR [#279](https://github.com/SkynetLabs/ansible-playbooks/pull/279) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#278](https://github.com/SkynetLabs/ansible-playbooks/pull/278) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🎉 Merged PR [#16](https://github.com/SkynetLabs/abuse-scanner/pull/16) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+2. 🎉 Merged PR [#283](https://github.com/SkynetLabs/ansible-playbooks/pull/283) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 🎉 Merged PR [#10](https://github.com/SkynetLabs/skynet-workshop/pull/10) in [SkynetLabs/skynet-workshop](https://github.com/SkynetLabs/skynet-workshop)
+4. 🎉 Merged PR [#282](https://github.com/SkynetLabs/ansible-playbooks/pull/282) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. 🎉 Merged PR [#281](https://github.com/SkynetLabs/ansible-playbooks/pull/281) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
