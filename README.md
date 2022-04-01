@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1953](https://github.com/SkynetLabs/skynet-webportal/pull/1953) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 💪 Opened PR [#1956](https://github.com/SkynetLabs/skynet-webportal/pull/1956) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#16](https://github.com/SkynetLabs/abuse-scanner/pull/16) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-4. 🎉 Merged PR [#283](https://github.com/SkynetLabs/ansible-playbooks/pull/283) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#10](https://github.com/SkynetLabs/skynet-workshop/pull/10) in [SkynetLabs/skynet-workshop](https://github.com/SkynetLabs/skynet-workshop)
+1. 🎉 Merged PR [#19](https://github.com/SkynetLabs/malware-scanner/pull/19) in [SkynetLabs/malware-scanner](https://github.com/SkynetLabs/malware-scanner)
+2. 🎉 Merged PR [#1953](https://github.com/SkynetLabs/skynet-webportal/pull/1953) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. 💪 Opened PR [#1956](https://github.com/SkynetLabs/skynet-webportal/pull/1956) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#16](https://github.com/SkynetLabs/abuse-scanner/pull/16) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+5. 🎉 Merged PR [#283](https://github.com/SkynetLabs/ansible-playbooks/pull/283) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
