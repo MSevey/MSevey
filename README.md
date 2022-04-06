@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/MSevey/fdsafdsa/pull/5) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
-2. 💪 Opened PR [#5](https://github.com/MSevey/fdsafdsa/pull/5) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
-3. 🎉 Merged PR [#4](https://github.com/MSevey/fdsafdsa/pull/4) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
-4. 💪 Opened PR [#4](https://github.com/MSevey/fdsafdsa/pull/4) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
-5. 🎉 Merged PR [#3](https://github.com/MSevey/fdsafdsa/pull/3) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
+1. ❌ Closed PR [#4](https://github.com/SkynetLabs/.github/pull/4) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+2. 💪 Opened PR [#5](https://github.com/SkynetLabs/.github/pull/5) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+3. 🎉 Merged PR [#5](https://github.com/MSevey/fdsafdsa/pull/5) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
+4. 💪 Opened PR [#5](https://github.com/MSevey/fdsafdsa/pull/5) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
+5. 🎉 Merged PR [#4](https://github.com/MSevey/fdsafdsa/pull/4) in [MSevey/fdsafdsa](https://github.com/MSevey/fdsafdsa)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
