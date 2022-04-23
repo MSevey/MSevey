@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Matthew Sevey
 
 <a href="http://sevey.hns.to">
-  <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="https://siasky.net/AAAW-h21PPBfkDsDaL1HwKasKBKc08i6Euz8I_9CLM3eww" />
+  <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="icons/skynet.svg" />
 </a>
 <a href="https://twitter.com/mjsevey">
   <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -10,13 +10,13 @@
   <img align="left" alt="Matthew's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/MSevey">
-  <img align="left" alt="Matthew's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Matthew's Reddit" width="22px" src="icons/reddit.svg" />
 </a>
 <a href="https://siasky.net/AADZA6UAqnXIRrSjP4QR7jB417_o8ma9T4M11KwPfDxdww/">
-  <img align="left" alt="Skynet Certificate" width="22px" src="https://siasky.net/PAGc2jf3RAll7vw4w8a9xnhtArlmnRvSjKCbu6rcPVBeSg" />
+  <img align="left" alt="Skynet Certificate" width="22px" src="icons/skynet.svg" />
 </a>
 <a href="https://gitlab.com/MSevey">
-  <img align="left" alt="Matthew Sevey | Gitlab" width="22px" src="https://siasky.net/EAArRH4UAWJ-pjFu8V6XHiIFYLx4ch0xWruGhoStZzm5hg" />
+  <img align="left" alt="Matthew Sevey | Gitlab" width="22px" src="icons/gitlab.svg" />
 </a>
 <!--
 <a href="https://www.instagram.com/trek2gether">
