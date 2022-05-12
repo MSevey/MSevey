@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/SkynetLabs/pinner/pull/14) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-2. 🎉 Merged PR [#308](https://github.com/SkynetLabs/ansible-playbooks/pull/308) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 💪 Opened PR [#16](https://github.com/SkynetLabs/.github/pull/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+2. 🎉 Merged PR [#14](https://github.com/SkynetLabs/pinner/pull/14) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
 3. 🎉 Merged PR [#306](https://github.com/SkynetLabs/ansible-playbooks/pull/306) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 4. 🗣 Commented on [#302](https://github.com/SkynetLabs/ansible-playbooks/issues/302) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 5. ❗️ Closed issue [#255](https://github.com/SkynetLabs/ansible-playbooks/issues/255) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
