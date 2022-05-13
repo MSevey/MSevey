@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/SkynetLabs/malware-scanner/pull/23) in [SkynetLabs/malware-scanner](https://github.com/SkynetLabs/malware-scanner)
-2. 🎉 Merged PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-3. 💪 Opened PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-4. 🗣 Commented on [#16](https://github.com/SkynetLabs/.github/issues/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
-5. ❌ Closed PR [#17](https://github.com/SkynetLabs/.github/pull/17) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+1. 💪 Opened PR [#30](https://github.com/SkynetLabs/abuse-scanner/pull/30) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+2. 💪 Opened PR [#23](https://github.com/SkynetLabs/malware-scanner/pull/23) in [SkynetLabs/malware-scanner](https://github.com/SkynetLabs/malware-scanner)
+3. 🎉 Merged PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+4. 💪 Opened PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+5. 🗣 Commented on [#16](https://github.com/SkynetLabs/.github/issues/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
