@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-2. 🗣 Commented on [#16](https://github.com/SkynetLabs/.github/issues/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
-3. ❌ Closed PR [#17](https://github.com/SkynetLabs/.github/pull/17) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
-4. 🎉 Merged PR [#4](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/4) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
-5. 💪 Opened PR [#17](https://github.com/SkynetLabs/.github/pull/17) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+1. 🎉 Merged PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+2. 💪 Opened PR [#208](https://github.com/SkynetLabs/skynet-accounts/pull/208) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+3. 🗣 Commented on [#16](https://github.com/SkynetLabs/.github/issues/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+4. ❌ Closed PR [#17](https://github.com/SkynetLabs/.github/pull/17) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+5. 🎉 Merged PR [#4](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/4) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
