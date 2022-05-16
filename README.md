@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/SkynetLabs/siasky-tools/pull/33) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
-2. 🎉 Merged PR [#30](https://github.com/SkynetLabs/abuse-scanner/pull/30) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-3. ❗️ Opened issue [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-4. 🎉 Merged PR [#42](https://github.com/SkynetLabs/blocker/pull/42) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-5. 🗣 Commented on [#42](https://github.com/SkynetLabs/blocker/issues/42) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+1. 🗣 Commented on [#2099](https://github.com/SkynetLabs/skynet-webportal/issues/2099) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. 🎉 Merged PR [#33](https://github.com/SkynetLabs/siasky-tools/pull/33) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
+3. 🎉 Merged PR [#30](https://github.com/SkynetLabs/abuse-scanner/pull/30) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+4. ❗️ Opened issue [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+5. 🎉 Merged PR [#42](https://github.com/SkynetLabs/blocker/pull/42) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
