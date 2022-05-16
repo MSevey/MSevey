@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/SkynetLabs/pinner/pull/21) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-2. 🗣 Commented on [#2099](https://github.com/SkynetLabs/skynet-webportal/issues/2099) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#33](https://github.com/SkynetLabs/siasky-tools/pull/33) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
-4. 🎉 Merged PR [#30](https://github.com/SkynetLabs/abuse-scanner/pull/30) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-5. ❗️ Opened issue [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+1. 💪 Opened PR [#2100](https://github.com/SkynetLabs/skynet-webportal/pull/2100) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. ❗️ Closed issue [#7](https://github.com/SkynetLabs/.github/issues/7) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+3. 🗣 Commented on [#7](https://github.com/SkynetLabs/.github/issues/7) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+4. 💪 Opened PR [#21](https://github.com/SkynetLabs/pinner/pull/21) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+5. 🗣 Commented on [#2099](https://github.com/SkynetLabs/skynet-webportal/issues/2099) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
