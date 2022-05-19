@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/SkynetLabs/blocker/issues/44) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-2. 🗣 Commented on [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-3. 🎉 Merged PR [#16](https://github.com/SkynetLabs/.github/pull/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
-4. 🎉 Merged PR [#21](https://github.com/SkynetLabs/pinner/pull/21) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-5. ❌ Closed PR [#19](https://github.com/SkynetLabs/.github/pull/19) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+1. 🎉 Merged PR [#24](https://github.com/SkynetLabs/pinner/pull/24) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+2. ❗️ Closed issue [#10](https://github.com/SkynetLabs/pinner/issues/10) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+3. 🗣 Commented on [#44](https://github.com/SkynetLabs/blocker/issues/44) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+4. 🗣 Commented on [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+5. 🎉 Merged PR [#16](https://github.com/SkynetLabs/.github/pull/16) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
