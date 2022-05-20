@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-nginx/pull/1) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-2. 💪 Opened PR [#18](https://github.com/SkynetLabs/skynet-websites/pull/18) in [SkynetLabs/skynet-websites](https://github.com/SkynetLabs/skynet-websites)
-3. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/1) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
-4. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-handshake/pull/1) in [SkynetLabs/webportal-handshake](https://github.com/SkynetLabs/webportal-handshake)
-5. 💪 Opened PR [#312](https://github.com/SkynetLabs/ansible-playbooks/pull/312) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. ❗️ Closed issue [#270](https://github.com/SkynetLabs/ansible-playbooks/issues/270) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. ❌ Closed PR [#1](https://github.com/SkynetLabs/docker-skyd/pull/1) in [SkynetLabs/docker-skyd](https://github.com/SkynetLabs/docker-skyd)
+3. ❌ Closed PR [#2100](https://github.com/SkynetLabs/skynet-webportal/pull/2100) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-nginx/pull/1) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+5. 💪 Opened PR [#18](https://github.com/SkynetLabs/skynet-websites/pull/18) in [SkynetLabs/skynet-websites](https://github.com/SkynetLabs/skynet-websites)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
