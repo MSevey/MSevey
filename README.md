@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#312](https://github.com/SkynetLabs/ansible-playbooks/pull/312) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-dnslink/pull/1) in [SkynetLabs/webportal-dnslink](https://github.com/SkynetLabs/webportal-dnslink)
-3. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-health-checks/pull/1) in [SkynetLabs/webportal-health-checks](https://github.com/SkynetLabs/webportal-health-checks)
-4. 🎉 Merged PR [#311](https://github.com/SkynetLabs/ansible-playbooks/pull/311) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#24](https://github.com/SkynetLabs/skynet-docs/pull/24) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
+1. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-handshake/pull/1) in [SkynetLabs/webportal-handshake](https://github.com/SkynetLabs/webportal-handshake)
+2. 💪 Opened PR [#312](https://github.com/SkynetLabs/ansible-playbooks/pull/312) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-dnslink/pull/1) in [SkynetLabs/webportal-dnslink](https://github.com/SkynetLabs/webportal-dnslink)
+4. 💪 Opened PR [#1](https://github.com/SkynetLabs/webportal-health-checks/pull/1) in [SkynetLabs/webportal-health-checks](https://github.com/SkynetLabs/webportal-health-checks)
+5. 🎉 Merged PR [#311](https://github.com/SkynetLabs/ansible-playbooks/pull/311) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
