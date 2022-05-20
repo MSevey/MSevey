@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/SkynetLabs/skynet-docs/pull/24) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
-2. 🎉 Merged PR [#24](https://github.com/SkynetLabs/pinner/pull/24) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-3. ❗️ Closed issue [#10](https://github.com/SkynetLabs/pinner/issues/10) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-4. 🗣 Commented on [#44](https://github.com/SkynetLabs/blocker/issues/44) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-5. 🗣 Commented on [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+1. 🎉 Merged PR [#311](https://github.com/SkynetLabs/ansible-playbooks/pull/311) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#24](https://github.com/SkynetLabs/skynet-docs/pull/24) in [SkynetLabs/skynet-docs](https://github.com/SkynetLabs/skynet-docs)
+3. 🎉 Merged PR [#24](https://github.com/SkynetLabs/pinner/pull/24) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+4. ❗️ Closed issue [#10](https://github.com/SkynetLabs/pinner/issues/10) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+5. 🗣 Commented on [#44](https://github.com/SkynetLabs/blocker/issues/44) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
