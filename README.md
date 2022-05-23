@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#312](https://github.com/SkynetLabs/ansible-playbooks/pull/312) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🗣 Commented on [#313](https://github.com/SkynetLabs/ansible-playbooks/issues/313) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. ❗️ Closed issue [#270](https://github.com/SkynetLabs/ansible-playbooks/issues/270) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. ❌ Closed PR [#1](https://github.com/SkynetLabs/docker-skyd/pull/1) in [SkynetLabs/docker-skyd](https://github.com/SkynetLabs/docker-skyd)
-5. ❌ Closed PR [#2100](https://github.com/SkynetLabs/skynet-webportal/pull/2100) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🎉 Merged PR [#1](https://github.com/SkynetLabs/webportal-nginx/pull/1) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+2. 🎉 Merged PR [#1](https://github.com/SkynetLabs/webportal-health-checks/pull/1) in [SkynetLabs/webportal-health-checks](https://github.com/SkynetLabs/webportal-health-checks)
+3. 🎉 Merged PR [#312](https://github.com/SkynetLabs/ansible-playbooks/pull/312) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. 🗣 Commented on [#313](https://github.com/SkynetLabs/ansible-playbooks/issues/313) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. ❗️ Closed issue [#270](https://github.com/SkynetLabs/ansible-playbooks/issues/270) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
