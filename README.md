@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/SkynetLabs/pinner/pull/28) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-2. 🎉 Merged PR [#147](https://github.com/SkynetLabs/nodejs-skynet/pull/147) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
-3. 🎉 Merged PR [#1](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/1) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
-4. 💪 Opened PR [#21](https://github.com/SkynetLabs/.github/pull/21) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
-5. ❗️ Closed issue [#2](https://github.com/SkynetLabs/webportal-dnslink-api/issues/2) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+1. ❌ Closed PR [#2](https://github.com/SkynetLabs/webportal-nginx/pull/2) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+2. 💪 Opened PR [#22](https://github.com/SkynetLabs/.github/pull/22) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+3. 💪 Opened PR [#2](https://github.com/SkynetLabs/webportal-nginx/pull/2) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+4. 🎉 Merged PR [#28](https://github.com/SkynetLabs/pinner/pull/28) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+5. 💪 Opened PR [#28](https://github.com/SkynetLabs/pinner/pull/28) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
