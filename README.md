@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2110](https://github.com/SkynetLabs/skynet-webportal/pull/2110) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 🎉 Merged PR [#8](https://github.com/SkynetLabs/webportal-health-check/pull/8) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
-3. 💪 Opened PR [#2109](https://github.com/SkynetLabs/skynet-webportal/pull/2109) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 💪 Opened PR [#2108](https://github.com/SkynetLabs/skynet-webportal/pull/2108) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🎉 Merged PR [#1](https://github.com/SkynetLabs/webportal-handshake-api/pull/1) in [SkynetLabs/webportal-handshake-api](https://github.com/SkynetLabs/webportal-handshake-api)
+1. 🗣 Commented on [#3](https://github.com/SkynetLabs/webportal-dnslink-api/issues/3) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+2. 🗣 Commented on [#3](https://github.com/SkynetLabs/webportal-dnslink-api/issues/3) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+3. 💪 Opened PR [#2110](https://github.com/SkynetLabs/skynet-webportal/pull/2110) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#8](https://github.com/SkynetLabs/webportal-health-check/pull/8) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
+5. 💪 Opened PR [#2109](https://github.com/SkynetLabs/skynet-webportal/pull/2109) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
