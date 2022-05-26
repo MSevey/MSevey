@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#316](https://github.com/SkynetLabs/ansible-playbooks/pull/316) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 💪 Opened PR [#2112](https://github.com/SkynetLabs/skynet-webportal/pull/2112) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 💪 Opened PR [#2111](https://github.com/SkynetLabs/skynet-webportal/pull/2111) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 🗣 Commented on [#2012](https://github.com/SkynetLabs/skynet-webportal/issues/2012) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 💪 Opened PR [#315](https://github.com/SkynetLabs/ansible-playbooks/pull/315) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. ❌ Closed PR [#2](https://github.com/SkynetLabs/test/pull/2) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
+2. ❌ Closed PR [#4](https://github.com/SkynetLabs/test/pull/4) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
+3. ❌ Closed PR [#1](https://github.com/SkynetLabs/test/pull/1) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
+4. ❌ Closed PR [#5](https://github.com/SkynetLabs/test/pull/5) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
+5. ❌ Closed PR [#3](https://github.com/SkynetLabs/test/pull/3) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
