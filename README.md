@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2112](https://github.com/SkynetLabs/skynet-webportal/issues/2112) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 💪 Opened PR [#2](https://github.com/SkynetLabs/webportal-nginx/pull/2) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-3. 💪 Opened PR [#2113](https://github.com/SkynetLabs/skynet-webportal/pull/2113) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. ❌ Closed PR [#18](https://github.com/SkynetLabs/skynet-websites/pull/18) in [SkynetLabs/skynet-websites](https://github.com/SkynetLabs/skynet-websites)
-5. 🗣 Commented on [#2110](https://github.com/SkynetLabs/skynet-webportal/issues/2110) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🗣 Commented on [#30](https://github.com/SkynetLabs/pinner/issues/30) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
+2. 🗣 Commented on [#2111](https://github.com/SkynetLabs/skynet-webportal/issues/2111) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. 🗣 Commented on [#2108](https://github.com/SkynetLabs/skynet-webportal/issues/2108) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🗣 Commented on [#2112](https://github.com/SkynetLabs/skynet-webportal/issues/2112) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 💪 Opened PR [#2](https://github.com/SkynetLabs/webportal-nginx/pull/2) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
