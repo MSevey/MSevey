@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/SkynetLabs/webportal-website/pull/12) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
-2. ❌ Closed PR [#2](https://github.com/SkynetLabs/test/pull/2) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
-3. ❌ Closed PR [#4](https://github.com/SkynetLabs/test/pull/4) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
-4. ❌ Closed PR [#1](https://github.com/SkynetLabs/test/pull/1) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
-5. ❌ Closed PR [#5](https://github.com/SkynetLabs/test/pull/5) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
+1. 💪 Opened PR [#2113](https://github.com/SkynetLabs/skynet-webportal/pull/2113) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+2. ❌ Closed PR [#18](https://github.com/SkynetLabs/skynet-websites/pull/18) in [SkynetLabs/skynet-websites](https://github.com/SkynetLabs/skynet-websites)
+3. 🗣 Commented on [#2110](https://github.com/SkynetLabs/skynet-webportal/issues/2110) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#12](https://github.com/SkynetLabs/webportal-website/pull/12) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+5. ❌ Closed PR [#2](https://github.com/SkynetLabs/test/pull/2) in [SkynetLabs/test](https://github.com/SkynetLabs/test)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
