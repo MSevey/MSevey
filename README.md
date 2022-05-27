@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/SkynetLabs/webportal-nginx/issues/3) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-2. ❗️ Opened issue [#7](https://github.com/SkynetLabs/webportal-health-check/issues/7) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
-3. 🎉 Merged PR [#2109](https://github.com/SkynetLabs/skynet-webportal/pull/2109) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 🎉 Merged PR [#2108](https://github.com/SkynetLabs/skynet-webportal/pull/2108) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🎉 Merged PR [#2111](https://github.com/SkynetLabs/skynet-webportal/pull/2111) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+1. 🎉 Merged PR [#11](https://github.com/SkynetLabs/tus-js-client/pull/11) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
+2. 🎉 Merged PR [#1](https://github.com/SkynetLabs/webportal-dnslink-api/pull/1) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+3. 🎉 Merged PR [#25](https://github.com/SkynetLabs/.github/pull/25) in [SkynetLabs/.github](https://github.com/SkynetLabs/.github)
+4. ❗️ Opened issue [#3](https://github.com/SkynetLabs/webportal-nginx/issues/3) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+5. ❗️ Opened issue [#7](https://github.com/SkynetLabs/webportal-health-check/issues/7) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
