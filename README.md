@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/SkynetLabs/webportal-health-check/pull/10) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
-2. 🎉 Merged PR [#20](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/20) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
-3. 🎉 Merged PR [#210](https://github.com/SkynetLabs/skynet-accounts/pull/210) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-4. ❗️ Closed issue [#107](https://github.com/SkynetLabs/skynet-accounts/issues/107) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-5. 🎉 Merged PR [#3](https://github.com/SkynetLabs/webportal-dnslink-api/pull/3) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+1. 🎉 Merged PR [#209](https://github.com/SkynetLabs/skynet-accounts/pull/209) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+2. 🎉 Merged PR [#10](https://github.com/SkynetLabs/webportal-health-check/pull/10) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
+3. 🎉 Merged PR [#20](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/20) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
+4. 🎉 Merged PR [#210](https://github.com/SkynetLabs/skynet-accounts/pull/210) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+5. ❗️ Closed issue [#107](https://github.com/SkynetLabs/skynet-accounts/issues/107) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
