@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetLabs/webportal-handshake-api/pull/3) in [SkynetLabs/webportal-handshake-api](https://github.com/SkynetLabs/webportal-handshake-api)
-2. 🎉 Merged PR [#12](https://github.com/SkynetLabs/webportal-health-check/pull/12) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
-3. 🎉 Merged PR [#16](https://github.com/SkynetLabs/webportal-website/pull/16) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
-4. 🎉 Merged PR [#6](https://github.com/SkynetLabs/webportal-dnslink-api/pull/6) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
-5. 🎉 Merged PR [#11](https://github.com/SkynetLabs/webportal-nginx/pull/11) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+1. 🗣 Commented on [#317](https://github.com/SkynetLabs/ansible-playbooks/issues/317) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#3](https://github.com/SkynetLabs/webportal-handshake-api/pull/3) in [SkynetLabs/webportal-handshake-api](https://github.com/SkynetLabs/webportal-handshake-api)
+3. 🎉 Merged PR [#12](https://github.com/SkynetLabs/webportal-health-check/pull/12) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
+4. 🎉 Merged PR [#16](https://github.com/SkynetLabs/webportal-website/pull/16) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+5. 🎉 Merged PR [#6](https://github.com/SkynetLabs/webportal-dnslink-api/pull/6) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
