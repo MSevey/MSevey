@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#222](https://github.com/SkynetLabs/skynet-accounts/pull/222) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-2. 🎉 Merged PR [#34](https://github.com/SkynetLabs/abuse-scanner/pull/34) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-3. ❗️ Closed issue [#21](https://github.com/SkynetLabs/abuse-scanner/issues/21) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-4. ❗️ Closed issue [#32](https://github.com/SkynetLabs/abuse-scanner/issues/32) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-5. 🎉 Merged PR [#47](https://github.com/SkynetLabs/blocker/pull/47) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
+1. 🗣 Commented on [#33](https://github.com/SkynetLabs/webportal-accounts-dashboard/issues/33) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
+2. 🗣 Commented on [#22](https://github.com/SkynetLabs/webportal-accounts-dashboard/issues/22) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
+3. 🎉 Merged PR [#222](https://github.com/SkynetLabs/skynet-accounts/pull/222) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+4. 🎉 Merged PR [#34](https://github.com/SkynetLabs/abuse-scanner/pull/34) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+5. ❗️ Closed issue [#21](https://github.com/SkynetLabs/abuse-scanner/issues/21) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
