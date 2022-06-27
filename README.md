@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/SkynetLabs/webportal-website/pull/18) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
-2. 🎉 Merged PR [#13](https://github.com/SkynetLabs/webportal-health-check/pull/13) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
-3. 💪 Opened PR [#2152](https://github.com/SkynetLabs/skynet-webportal/pull/2152) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. ❌ Closed PR [#38](https://github.com/SkynetLabs/siasky-tools/pull/38) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
-5. 💪 Opened PR [#38](https://github.com/SkynetLabs/siasky-tools/pull/38) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
+1. 🗣 Commented on [#509](https://github.com/SkynetLabs/skynet-js/issues/509) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
+2. 🗣 Commented on [#36](https://github.com/SkynetLabs/webportal-accounts-dashboard/issues/36) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
+3. 🎉 Merged PR [#18](https://github.com/SkynetLabs/webportal-website/pull/18) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+4. 🎉 Merged PR [#13](https://github.com/SkynetLabs/webportal-health-check/pull/13) in [SkynetLabs/webportal-health-check](https://github.com/SkynetLabs/webportal-health-check)
+5. 💪 Opened PR [#2152](https://github.com/SkynetLabs/skynet-webportal/pull/2152) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
