@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/SkynetLabs/webportal-website/pull/19) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
-2. 🎉 Merged PR [#36](https://github.com/SkynetLabs/pinner/pull/36) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-3. 🗣 Commented on [#509](https://github.com/SkynetLabs/skynet-js/issues/509) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
-4. 🗣 Commented on [#36](https://github.com/SkynetLabs/webportal-accounts-dashboard/issues/36) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
-5. 🎉 Merged PR [#18](https://github.com/SkynetLabs/webportal-website/pull/18) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+1. 🎉 Merged PR [#403](https://github.com/SkynetLabs/skynet-mysky/pull/403) in [SkynetLabs/skynet-mysky](https://github.com/SkynetLabs/skynet-mysky)
+2. 🎉 Merged PR [#111](https://github.com/SkynetLabs/skynet-mysky-utils/pull/111) in [SkynetLabs/skynet-mysky-utils](https://github.com/SkynetLabs/skynet-mysky-utils)
+3. 🎉 Merged PR [#170](https://github.com/SkynetLabs/nodejs-skynet/pull/170) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
+4. 🎉 Merged PR [#39](https://github.com/SkynetLabs/siasky-tools/pull/39) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
+5. 🎉 Merged PR [#226](https://github.com/SkynetLabs/skynet-accounts/pull/226) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
