@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#331](https://github.com/SkynetLabs/ansible-playbooks/pull/331) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/37) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
-3. 🎉 Merged PR [#2161](https://github.com/SkynetLabs/skynet-webportal/pull/2161) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. 🎉 Merged PR [#514](https://github.com/SkynetLabs/skynet-js/pull/514) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
-5. 🎉 Merged PR [#403](https://github.com/SkynetLabs/skynet-mysky/pull/403) in [SkynetLabs/skynet-mysky](https://github.com/SkynetLabs/skynet-mysky)
+1. 🎉 Merged PR [#22](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/22) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
+2. 🗣 Commented on [#6](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/issues/6) in [SkynetLabs/skynet-substrate-offchain-worker-node](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node)
+3. 🎉 Merged PR [#131](https://github.com/SkynetLabs/skynet-kernel/pull/131) in [SkynetLabs/skynet-kernel](https://github.com/SkynetLabs/skynet-kernel)
+4. 🎉 Merged PR [#331](https://github.com/SkynetLabs/ansible-playbooks/pull/331) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/37) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
