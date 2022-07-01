@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/22) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
-2. 🗣 Commented on [#6](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/issues/6) in [SkynetLabs/skynet-substrate-offchain-worker-node](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node)
-3. 🎉 Merged PR [#131](https://github.com/SkynetLabs/skynet-kernel/pull/131) in [SkynetLabs/skynet-kernel](https://github.com/SkynetLabs/skynet-kernel)
-4. 🎉 Merged PR [#331](https://github.com/SkynetLabs/ansible-playbooks/pull/331) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-accounts-dashboard/pull/37) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
+1. 🎉 Merged PR [#1](https://github.com/SkynetLabs/skynet-substrate/pull/1) in [SkynetLabs/skynet-substrate](https://github.com/SkynetLabs/skynet-substrate)
+2. 🎉 Merged PR [#22](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/22) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
+3. 🗣 Commented on [#6](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/issues/6) in [SkynetLabs/skynet-substrate-offchain-worker-node](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node)
+4. 🎉 Merged PR [#131](https://github.com/SkynetLabs/skynet-kernel/pull/131) in [SkynetLabs/skynet-kernel](https://github.com/SkynetLabs/skynet-kernel)
+5. 🎉 Merged PR [#331](https://github.com/SkynetLabs/ansible-playbooks/pull/331) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
