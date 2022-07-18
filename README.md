@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetLabs/gundb-relay/pull/3) in [SkynetLabs/gundb-relay](https://github.com/SkynetLabs/gundb-relay)
-2. 🎉 Merged PR [#2152](https://github.com/SkynetLabs/skynet-webportal/pull/2152) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#1](https://github.com/SkynetLabs/skynet-substrate/pull/1) in [SkynetLabs/skynet-substrate](https://github.com/SkynetLabs/skynet-substrate)
-4. 🎉 Merged PR [#22](https://github.com/SkynetLabs/skynet-token-wallet-foundation/pull/22) in [SkynetLabs/skynet-token-wallet-foundation](https://github.com/SkynetLabs/skynet-token-wallet-foundation)
-5. 🗣 Commented on [#6](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node/issues/6) in [SkynetLabs/skynet-substrate-offchain-worker-node](https://github.com/SkynetLabs/skynet-substrate-offchain-worker-node)
+1. 🎉 Merged PR [#335](https://github.com/SkynetLabs/ansible-playbooks/pull/335) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#5](https://github.com/SkynetLabs/ansiblecm/pull/5) in [SkynetLabs/ansiblecm](https://github.com/SkynetLabs/ansiblecm)
+3. 🎉 Merged PR [#3](https://github.com/SkynetLabs/gundb-relay/pull/3) in [SkynetLabs/gundb-relay](https://github.com/SkynetLabs/gundb-relay)
+4. 🎉 Merged PR [#2152](https://github.com/SkynetLabs/skynet-webportal/pull/2152) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 🎉 Merged PR [#1](https://github.com/SkynetLabs/skynet-substrate/pull/1) in [SkynetLabs/skynet-substrate](https://github.com/SkynetLabs/skynet-substrate)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
