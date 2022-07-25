@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. ❗️ Closed issue [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#341](https://github.com/SkynetLabs/ansible-playbooks/pull/341) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. 🎉 Merged PR [#19](https://github.com/SkynetLabs/tus-js-client/pull/19) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
-5. 🎉 Merged PR [#340](https://github.com/SkynetLabs/ansible-playbooks/pull/340) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🎉 Merged PR [#229](https://github.com/SkynetLabs/skynet-accounts/pull/229) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+2. 🗣 Commented on [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. ❗️ Closed issue [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. 🎉 Merged PR [#341](https://github.com/SkynetLabs/ansible-playbooks/pull/341) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. 🎉 Merged PR [#19](https://github.com/SkynetLabs/tus-js-client/pull/19) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
