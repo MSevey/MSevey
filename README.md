@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SkynetLabs/ansible-role-skynet-webportal/pull/3) in [SkynetLabs/ansible-role-skynet-webportal](https://github.com/SkynetLabs/ansible-role-skynet-webportal)
-2. 🎉 Merged PR [#229](https://github.com/SkynetLabs/skynet-accounts/pull/229) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-3. 🗣 Commented on [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. ❗️ Closed issue [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🎉 Merged PR [#341](https://github.com/SkynetLabs/ansible-playbooks/pull/341) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🗣 Commented on [#339](https://github.com/SkynetLabs/ansible-playbooks/issues/339) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#3](https://github.com/SkynetLabs/ansible-role-skynet-webportal/pull/3) in [SkynetLabs/ansible-role-skynet-webportal](https://github.com/SkynetLabs/ansible-role-skynet-webportal)
+3. 🎉 Merged PR [#229](https://github.com/SkynetLabs/skynet-accounts/pull/229) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
+4. 🗣 Commented on [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. ❗️ Closed issue [#2153](https://github.com/SkynetLabs/skynet-webportal/issues/2153) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
