@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2185](https://github.com/SkynetLabs/skynet-webportal/pull/2185) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 🎉 Merged PR [#44](https://github.com/SkynetLabs/abuse-scanner/pull/44) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-3. 🎉 Merged PR [#42](https://github.com/SkynetLabs/siasky-tools/pull/42) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
-4. 🎉 Merged PR [#15](https://github.com/SkynetLabs/docker-hsd/pull/15) in [SkynetLabs/docker-hsd](https://github.com/SkynetLabs/docker-hsd)
-5. 🗣 Commented on [#339](https://github.com/SkynetLabs/ansible-playbooks/issues/339) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🎉 Merged PR [#26](https://github.com/SkynetLabs/skynet-workshop/pull/26) in [SkynetLabs/skynet-workshop](https://github.com/SkynetLabs/skynet-workshop)
+2. 🎉 Merged PR [#2185](https://github.com/SkynetLabs/skynet-webportal/pull/2185) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+3. 🎉 Merged PR [#44](https://github.com/SkynetLabs/abuse-scanner/pull/44) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
+4. 🎉 Merged PR [#42](https://github.com/SkynetLabs/siasky-tools/pull/42) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
+5. 🎉 Merged PR [#15](https://github.com/SkynetLabs/docker-hsd/pull/15) in [SkynetLabs/docker-hsd](https://github.com/SkynetLabs/docker-hsd)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
