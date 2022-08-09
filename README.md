@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/SkynetLabs/skynetlabs-website/pull/100) in [SkynetLabs/skynetlabs-website](https://github.com/SkynetLabs/skynetlabs-website)
-2. 🎉 Merged PR [#338](https://github.com/SkynetLabs/ansible-playbooks/pull/338) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. 🎉 Merged PR [#50](https://github.com/SkynetLabs/webportal-website-skynetlabs/pull/50) in [SkynetLabs/webportal-website-skynetlabs](https://github.com/SkynetLabs/webportal-website-skynetlabs)
-4. 🎉 Merged PR [#101](https://github.com/SkynetLabs/skynetlabs-website/pull/101) in [SkynetLabs/skynetlabs-website](https://github.com/SkynetLabs/skynetlabs-website)
-5. 🎉 Merged PR [#103](https://github.com/SkynetLabs/skynetlabs-website/pull/103) in [SkynetLabs/skynetlabs-website](https://github.com/SkynetLabs/skynetlabs-website)
+1. ❗️ Opened issue [#350](https://github.com/SkynetLabs/ansible-playbooks/issues/350) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#100](https://github.com/SkynetLabs/skynetlabs-website/pull/100) in [SkynetLabs/skynetlabs-website](https://github.com/SkynetLabs/skynetlabs-website)
+3. 🎉 Merged PR [#338](https://github.com/SkynetLabs/ansible-playbooks/pull/338) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. 🎉 Merged PR [#50](https://github.com/SkynetLabs/webportal-website-skynetlabs/pull/50) in [SkynetLabs/webportal-website-skynetlabs](https://github.com/SkynetLabs/webportal-website-skynetlabs)
+5. 🎉 Merged PR [#101](https://github.com/SkynetLabs/skynetlabs-website/pull/101) in [SkynetLabs/skynetlabs-website](https://github.com/SkynetLabs/skynetlabs-website)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
