@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/SkynetLabs/abuse-scanner/issues/48) in [SkynetLabs/abuse-scanner](https://github.com/SkynetLabs/abuse-scanner)
-2. ❗️ Opened issue [#53](https://github.com/SkynetLabs/blocker/issues/53) in [SkynetLabs/blocker](https://github.com/SkynetLabs/blocker)
-3. ❗️ Opened issue [#2194](https://github.com/SkynetLabs/skynet-webportal/issues/2194) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-4. ❗️ Opened issue [#234](https://github.com/SkynetLabs/skynet-accounts/issues/234) in [SkynetLabs/skynet-accounts](https://github.com/SkynetLabs/skynet-accounts)
-5. ❗️ Opened issue [#347](https://github.com/SkynetLabs/ansible-playbooks/issues/347) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. ❗️ Opened issue [#191](https://github.com/SkynetLabs/nodejs-skynet/issues/191) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
+2. ❗️ Opened issue [#190](https://github.com/SkynetLabs/nodejs-skynet/issues/190) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
+3. ❗️ Opened issue [#2195](https://github.com/SkynetLabs/skynet-webportal/issues/2195) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+4. ❗️ Opened issue [#541](https://github.com/SkynetLabs/skynet-js/issues/541) in [SkynetLabs/skynet-js](https://github.com/SkynetLabs/skynet-js)
+5. ❗️ Opened issue [#77](https://github.com/SkynetLabs/webportal-accounts-dashboard/issues/77) in [SkynetLabs/webportal-accounts-dashboard](https://github.com/SkynetLabs/webportal-accounts-dashboard)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
