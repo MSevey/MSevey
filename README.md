@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🖥 Engineering Manager and Software Developer
 - 💼 Currently working on [<img src="https://siasky.net/OACSa6AlWYA_RMifCvTmuhFSx4hhzuBLDy5CKJ7AFnmAVA" height="30em" align="center" alt="Skynet" title="Skynet"/>](https://siasky.net)
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: Currently living in a [Van!](https://www.instagram.com/trek2gether/) 
+- ⚡ Fun fact: Spent almost a year living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
 
 ## Languages and Tools  
