@@ -12,9 +12,6 @@
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="icons/reddit.svg" />
 </a>
-<a href="https://siasky.net/AADZA6UAqnXIRrSjP4QR7jB417_o8ma9T4M11KwPfDxdww/">
-  <img align="left" alt="Skynet Certificate" width="22px" src="icons/skynet.svg" />
-</a>
 <a href="https://gitlab.com/MSevey">
   <img align="left" alt="Matthew Sevey | Gitlab" width="22px" src="icons/gitlab.svg" />
 </a>
