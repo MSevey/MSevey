@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2204](https://github.com/SkynetLabs/skynet-webportal/pull/2204) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 🎉 Merged PR [#53](https://github.com/SkynetLabs/pinner/pull/53) in [SkynetLabs/pinner](https://github.com/SkynetLabs/pinner)
-3. 🎉 Merged PR [#352](https://github.com/SkynetLabs/ansible-playbooks/pull/352) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. 🎉 Merged PR [#2202](https://github.com/SkynetLabs/skynet-webportal/pull/2202) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-5. 🎉 Merged PR [#44](https://github.com/SkynetLabs/siasky-tools/pull/44) in [SkynetLabs/siasky-tools](https://github.com/SkynetLabs/siasky-tools)
+1. 🎉 Merged PR [#42](https://github.com/SkynetLabs/webportal-website/pull/42) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+2. 🎉 Merged PR [#43](https://github.com/SkynetLabs/webportal-website/pull/43) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+3. 🎉 Merged PR [#44](https://github.com/SkynetLabs/webportal-website/pull/44) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+4. 🎉 Merged PR [#45](https://github.com/SkynetLabs/webportal-website/pull/45) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+5. 🎉 Merged PR [#46](https://github.com/SkynetLabs/webportal-website/pull/46) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
