@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2211](https://github.com/SkynetLabs/skynet-webportal/pull/2211) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-2. 🎉 Merged PR [#2212](https://github.com/SkynetLabs/skynet-webportal/pull/2212) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
-3. 🎉 Merged PR [#355](https://github.com/SkynetLabs/ansible-playbooks/pull/355) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. 💪 Opened PR [#355](https://github.com/SkynetLabs/ansible-playbooks/pull/355) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#50](https://github.com/SkynetLabs/webportal-website/pull/50) in [SkynetLabs/webportal-website](https://github.com/SkynetLabs/webportal-website)
+1. ❗️ Closed issue [#16](https://github.com/SkynetLabs/webportal-dnslink-api/issues/16) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+2. 🎉 Merged PR [#17](https://github.com/SkynetLabs/webportal-dnslink-api/pull/17) in [SkynetLabs/webportal-dnslink-api](https://github.com/SkynetLabs/webportal-dnslink-api)
+3. 💪 Opened PR [#356](https://github.com/SkynetLabs/ansible-playbooks/pull/356) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. 🎉 Merged PR [#2211](https://github.com/SkynetLabs/skynet-webportal/pull/2211) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
+5. 🎉 Merged PR [#2212](https://github.com/SkynetLabs/skynet-webportal/pull/2212) in [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
