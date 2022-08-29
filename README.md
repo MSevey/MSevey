@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#369](https://github.com/SkynetLabs/ansible-playbooks/pull/369) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-2. ❗️ Closed issue [#35](https://github.com/SkynetLabs/webportal-nginx/issues/35) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-3. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-nginx/pull/37) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-4. 🎉 Merged PR [#370](https://github.com/SkynetLabs/ansible-playbooks/pull/370) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 💪 Opened PR [#368](https://github.com/SkynetLabs/ansible-playbooks/pull/368) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🎉 Merged PR [#371](https://github.com/SkynetLabs/ansible-playbooks/pull/371) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#369](https://github.com/SkynetLabs/ansible-playbooks/pull/369) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. ❗️ Closed issue [#35](https://github.com/SkynetLabs/webportal-nginx/issues/35) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+4. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-nginx/pull/37) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+5. 🎉 Merged PR [#370](https://github.com/SkynetLabs/ansible-playbooks/pull/370) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
