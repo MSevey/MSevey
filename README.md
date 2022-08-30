@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/SkynetLabs/tus-js-client/pull/27) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
-2. 🎉 Merged PR [#371](https://github.com/SkynetLabs/ansible-playbooks/pull/371) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. 🎉 Merged PR [#369](https://github.com/SkynetLabs/ansible-playbooks/pull/369) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-4. ❗️ Closed issue [#35](https://github.com/SkynetLabs/webportal-nginx/issues/35) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-5. 🎉 Merged PR [#37](https://github.com/SkynetLabs/webportal-nginx/pull/37) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+1. 🎉 Merged PR [#1](https://github.com/SkynetLabs/siacoin-promoter/pull/1) in [SkynetLabs/siacoin-promoter](https://github.com/SkynetLabs/siacoin-promoter)
+2. 🎉 Merged PR [#27](https://github.com/SkynetLabs/tus-js-client/pull/27) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
+3. 🎉 Merged PR [#371](https://github.com/SkynetLabs/ansible-playbooks/pull/371) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+4. 🎉 Merged PR [#369](https://github.com/SkynetLabs/ansible-playbooks/pull/369) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. ❗️ Closed issue [#35](https://github.com/SkynetLabs/webportal-nginx/issues/35) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
