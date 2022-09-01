@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SkynetLabs/siacoin-promoter/pull/2) in [SkynetLabs/siacoin-promoter](https://github.com/SkynetLabs/siacoin-promoter)
-2. 🎉 Merged PR [#372](https://github.com/SkynetLabs/ansible-playbooks/pull/372) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-3. 🎉 Merged PR [#1](https://github.com/SkynetLabs/siacoin-promoter/pull/1) in [SkynetLabs/siacoin-promoter](https://github.com/SkynetLabs/siacoin-promoter)
-4. 🎉 Merged PR [#27](https://github.com/SkynetLabs/tus-js-client/pull/27) in [SkynetLabs/tus-js-client](https://github.com/SkynetLabs/tus-js-client)
-5. 🎉 Merged PR [#371](https://github.com/SkynetLabs/ansible-playbooks/pull/371) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🗣 Commented on [#373](https://github.com/SkynetLabs/ansible-playbooks/issues/373) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+2. 🎉 Merged PR [#374](https://github.com/SkynetLabs/ansible-playbooks/pull/374) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+3. 🎉 Merged PR [#2](https://github.com/SkynetLabs/siacoin-promoter/pull/2) in [SkynetLabs/siacoin-promoter](https://github.com/SkynetLabs/siacoin-promoter)
+4. 🎉 Merged PR [#372](https://github.com/SkynetLabs/ansible-playbooks/pull/372) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+5. 🎉 Merged PR [#1](https://github.com/SkynetLabs/siacoin-promoter/pull/1) in [SkynetLabs/siacoin-promoter](https://github.com/SkynetLabs/siacoin-promoter)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
