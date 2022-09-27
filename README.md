@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/SkynetLabs/nodejs-skynet/issues/195) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
-2. ❗️ Closed issue [#32](https://github.com/SkynetLabs/webportal-nginx/issues/32) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-3. 🎉 Merged PR [#34](https://github.com/SkynetLabs/webportal-nginx/pull/34) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
-4. 🎉 Merged PR [#353](https://github.com/SkynetLabs/ansible-playbooks/pull/353) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
-5. 🎉 Merged PR [#378](https://github.com/SkynetLabs/ansible-playbooks/pull/378) in [SkynetLabs/ansible-playbooks](https://github.com/SkynetLabs/ansible-playbooks)
+1. 🗣 Commented on [#101](https://github.com/celestiaorg/celestia.org/issues/101) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+2. 💪 Opened PR [#101](https://github.com/celestiaorg/celestia.org/pull/101) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+3. 🗣 Commented on [#195](https://github.com/SkynetLabs/nodejs-skynet/issues/195) in [SkynetLabs/nodejs-skynet](https://github.com/SkynetLabs/nodejs-skynet)
+4. ❗️ Closed issue [#32](https://github.com/SkynetLabs/webportal-nginx/issues/32) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
+5. 🎉 Merged PR [#34](https://github.com/SkynetLabs/webportal-nginx/pull/34) in [SkynetLabs/webportal-nginx](https://github.com/SkynetLabs/webportal-nginx)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
