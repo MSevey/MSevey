@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Director of Engineering and Career Coach
-- 💼 Currently working on [<img src="https://siasky.net/OACSa6AlWYA_RMifCvTmuhFSx4hhzuBLDy5CKJ7AFnmAVA" height="30em" align="center" alt="Skynet" title="Skynet"/>](https://siasky.net)
+- 💼 Currently working on modular blockchains at [Celestia](https://celestia.org)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Spent almost a year living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
