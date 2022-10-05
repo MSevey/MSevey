@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/mycodecareer/mycodecareer.github.io/issues/2) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🗣 Commented on [#1](https://github.com/mycodecareer/mycodecareer.github.io/issues/1) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. ❗️ Opened issue [#1](https://github.com/mycodecareer/mycodecareer.github.io/issues/1) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#1191](https://github.com/celestiaorg/celestia-node/issues/1191) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 🗣 Commented on [#1191](https://github.com/celestiaorg/celestia-node/issues/1191) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. 🗣 Commented on [#1191](https://github.com/celestiaorg/celestia-node/issues/1191) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#101](https://github.com/celestiaorg/celestia.org/issues/101) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+3. ❗️ Opened issue [#2](https://github.com/mycodecareer/mycodecareer.github.io/issues/2) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#1](https://github.com/mycodecareer/mycodecareer.github.io/issues/1) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❗️ Opened issue [#1](https://github.com/mycodecareer/mycodecareer.github.io/issues/1) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
