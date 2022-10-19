@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/celestiaorg/.github/pull/1) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. ❌ Closed PR [#14](https://github.com/mycodecareer/mycodecareer.github.io/pull/14) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. ❌ Closed PR [#8](https://github.com/mycodecareer/mycodecareer.github.io/pull/8) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. ❗️ Opened issue [#887](https://github.com/celestiaorg/celestia-app/issues/887) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 🗣 Commented on [#886](https://github.com/celestiaorg/celestia-app/issues/886) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#9](https://github.com/celestiaorg/.github/pull/9) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 💪 Opened PR [#8](https://github.com/celestiaorg/.github/pull/8) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🎉 Merged PR [#1](https://github.com/celestiaorg/.github/pull/1) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❌ Closed PR [#14](https://github.com/mycodecareer/mycodecareer.github.io/pull/14) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❌ Closed PR [#8](https://github.com/mycodecareer/mycodecareer.github.io/pull/8) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
