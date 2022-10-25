@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/mycodecareer/mycodecareer.github.io/pull/32) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. ❗️ Opened issue [#31](https://github.com/mycodecareer/mycodecareer.github.io/issues/31) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. ❗️ Opened issue [#30](https://github.com/mycodecareer/mycodecareer.github.io/issues/30) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. ❗️ Opened issue [#29](https://github.com/mycodecareer/mycodecareer.github.io/issues/29) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. ❗️ Closed issue [#2](https://github.com/mycodecareer/mycodecareer.github.io/issues/2) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. ❗️ Opened issue [#34](https://github.com/mycodecareer/mycodecareer.github.io/issues/34) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. ❗️ Opened issue [#33](https://github.com/mycodecareer/mycodecareer.github.io/issues/33) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#32](https://github.com/mycodecareer/mycodecareer.github.io/pull/32) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. ❗️ Opened issue [#31](https://github.com/mycodecareer/mycodecareer.github.io/issues/31) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❗️ Opened issue [#30](https://github.com/mycodecareer/mycodecareer.github.io/issues/30) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
