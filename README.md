@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#275](https://github.com/celestiaorg/docs/issues/275) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
 2. 🗣 Commented on [#275](https://github.com/celestiaorg/docs/issues/275) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-3. 🗣 Commented on [#33](https://github.com/mycodecareer/mycodecareer.github.io/issues/33) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🎉 Merged PR [#32](https://github.com/mycodecareer/mycodecareer.github.io/pull/32) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. ❗️ Opened issue [#34](https://github.com/mycodecareer/mycodecareer.github.io/issues/34) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🗣 Commented on [#275](https://github.com/celestiaorg/docs/issues/275) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+4. 🗣 Commented on [#275](https://github.com/celestiaorg/docs/issues/275) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+5. 🗣 Commented on [#275](https://github.com/celestiaorg/docs/issues/275) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
