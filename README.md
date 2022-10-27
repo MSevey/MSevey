@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🗣 Commented on [#1274](https://github.com/celestiaorg/celestia-node/issues/1274) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 🗣 Commented on [#1281](https://github.com/celestiaorg/celestia-node/issues/1281) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 💪 Opened PR [#1281](https://github.com/celestiaorg/celestia-node/pull/1281) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 💪 Opened PR [#1280](https://github.com/celestiaorg/celestia-node/pull/1280) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 🗣 Commented on [#1274](https://github.com/celestiaorg/celestia-node/issues/1274) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🗣 Commented on [#1281](https://github.com/celestiaorg/celestia-node/issues/1281) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+5. 💪 Opened PR [#1281](https://github.com/celestiaorg/celestia-node/pull/1281) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
