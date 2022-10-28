@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. ❗️ Closed issue [#31](https://github.com/mycodecareer/mycodecareer.github.io/issues/31) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🎉 Merged PR [#36](https://github.com/mycodecareer/mycodecareer.github.io/pull/36) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 3. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 🗣 Commented on [#1274](https://github.com/celestiaorg/celestia-node/issues/1274) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 🗣 Commented on [#1281](https://github.com/celestiaorg/celestia-node/issues/1281) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+5. 🗣 Commented on [#1275](https://github.com/celestiaorg/celestia-node/issues/1275) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
