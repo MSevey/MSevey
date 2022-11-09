@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/celestiaorg/iavl/issues/8) in [celestiaorg/iavl](https://github.com/celestiaorg/iavl)
-2. ❗️ Closed issue [#21](https://github.com/mycodecareer/mycodecareer.github.io/issues/21) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🎉 Merged PR [#56](https://github.com/mycodecareer/mycodecareer.github.io/pull/56) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#1280](https://github.com/celestiaorg/celestia-node/issues/1280) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. ❗️ Closed issue [#887](https://github.com/celestiaorg/celestia-app/issues/887) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. ❗️ Closed issue [#10](https://github.com/celestiaorg/.github/issues/10) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. ❗️ Closed issue [#79](https://github.com/celestiaorg/celestia-node/issues/79) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 🎉 Merged PR [#12](https://github.com/celestiaorg/.github/pull/12) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🗣 Commented on [#8](https://github.com/celestiaorg/iavl/issues/8) in [celestiaorg/iavl](https://github.com/celestiaorg/iavl)
+5. ❗️ Closed issue [#21](https://github.com/mycodecareer/mycodecareer.github.io/issues/21) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
