@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/MSevey/workflows/issues/8) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. ❗️ Reopened issue [#4](https://github.com/MSevey/workflows/issues/4) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. ❗️ Opened issue [#7](https://github.com/MSevey/workflows/issues/7) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. ❗️ Opened issue [#6](https://github.com/MSevey/workflows/issues/6) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. ❗️ Closed issue [#2](https://github.com/MSevey/workflows/issues/2) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. ❗️ Opened issue [#13](https://github.com/MSevey/workflows/issues/13) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. ❗️ Closed issue [#12](https://github.com/MSevey/workflows/issues/12) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. ❗️ Closed issue [#11](https://github.com/MSevey/workflows/issues/11) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. ❗️ Opened issue [#12](https://github.com/MSevey/workflows/issues/12) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. ❗️ Opened issue [#11](https://github.com/MSevey/workflows/issues/11) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
