@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/MSevey/workflows/issues/13) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. ❗️ Closed issue [#12](https://github.com/MSevey/workflows/issues/12) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. ❗️ Closed issue [#11](https://github.com/MSevey/workflows/issues/11) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. ❗️ Opened issue [#12](https://github.com/MSevey/workflows/issues/12) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. ❗️ Opened issue [#11](https://github.com/MSevey/workflows/issues/11) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. ❗️ Closed issue [#13](https://github.com/celestiaorg/.github/issues/13) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🎉 Merged PR [#14](https://github.com/celestiaorg/.github/pull/14) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🗣 Commented on [#16](https://github.com/celestiaorg/.github/issues/16) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 💪 Opened PR [#16](https://github.com/celestiaorg/.github/pull/16) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❗️ Opened issue [#15](https://github.com/MSevey/workflows/issues/15) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
