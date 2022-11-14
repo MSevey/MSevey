@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#54](https://github.com/mycodecareer/mycodecareer.github.io/issues/54) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. ❗️ Opened issue [#4](https://github.com/MSevey/workflows/issues/4) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. ❗️ Opened issue [#3](https://github.com/MSevey/workflows/issues/3) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. ❗️ Opened issue [#2](https://github.com/MSevey/workflows/issues/2) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 🎉 Merged PR [#1](https://github.com/MSevey/workflows/pull/1) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. ❗️ Opened issue [#59](https://github.com/mycodecareer/mycodecareer.github.io/issues/59) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. ❗️ Opened issue [#58](https://github.com/mycodecareer/mycodecareer.github.io/issues/58) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🎉 Merged PR [#57](https://github.com/mycodecareer/mycodecareer.github.io/pull/57) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 💪 Opened PR [#57](https://github.com/mycodecareer/mycodecareer.github.io/pull/57) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❗️ Closed issue [#54](https://github.com/mycodecareer/mycodecareer.github.io/issues/54) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
