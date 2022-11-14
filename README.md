@@ -3,7 +3,7 @@
 <a href="http://sevey.hns.to">
   <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="icons/skynet.svg" />
 </a>
-<a href="https://twitter.com/mjsevey">
+<a href="https://twitter.com/matthewsevey">
   <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sevey/">
