@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1332](https://github.com/celestiaorg/celestia-node/issues/1332) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🎉 Merged PR [#3](https://github.com/celestiaorg/utils/pull/3) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-3. 🗣 Commented on [#415](https://github.com/celestiaorg/celestia-node/issues/415) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 🗣 Commented on [#300](https://github.com/celestiaorg/docs/issues/300) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-5. ❌ Closed PR [#16](https://github.com/celestiaorg/go-leopard/pull/16) in [celestiaorg/go-leopard](https://github.com/celestiaorg/go-leopard)
+1. 🗣 Commented on [#415](https://github.com/celestiaorg/celestia-node/issues/415) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#994](https://github.com/celestiaorg/celestia-app/issues/994) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. ❗️ Closed issue [#1332](https://github.com/celestiaorg/celestia-node/issues/1332) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🎉 Merged PR [#3](https://github.com/celestiaorg/utils/pull/3) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+5. 🗣 Commented on [#415](https://github.com/celestiaorg/celestia-node/issues/415) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
