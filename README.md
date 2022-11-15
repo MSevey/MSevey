@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1003](https://github.com/celestiaorg/celestia-app/issues/1003) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🗣 Commented on [#480](https://github.com/actions/runner/issues/480) in [actions/runner](https://github.com/actions/runner)
-3. 🎉 Merged PR [#60](https://github.com/mycodecareer/mycodecareer.github.io/pull/60) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. ❗️ Opened issue [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. ❗️ Opened issue [#62](https://github.com/mycodecareer/mycodecareer.github.io/issues/62) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🗣 Commented on [#415](https://github.com/celestiaorg/celestia-node/issues/415) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#300](https://github.com/celestiaorg/docs/issues/300) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. ❌ Closed PR [#16](https://github.com/celestiaorg/go-leopard/pull/16) in [celestiaorg/go-leopard](https://github.com/celestiaorg/go-leopard)
+4. 🗣 Commented on [#16](https://github.com/celestiaorg/go-leopard/issues/16) in [celestiaorg/go-leopard](https://github.com/celestiaorg/go-leopard)
+5. 🗣 Commented on [#1003](https://github.com/celestiaorg/celestia-app/issues/1003) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
