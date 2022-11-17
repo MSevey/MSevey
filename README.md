@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
-2. 💪 Opened PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
-3. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. ❌ Closed PR [#83](https://github.com/celestiaorg/tendermint/pull/83) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
+1. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🗣 Commented on [#1377](https://github.com/celestiaorg/celestia-node/issues/1377) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 🗣 Commented on [#1377](https://github.com/celestiaorg/celestia-node/issues/1377) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🎉 Merged PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+5. 💪 Opened PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
