@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. ❌ Closed PR [#83](https://github.com/celestiaorg/tendermint/pull/83) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
-3. ❌ Closed PR [#82](https://github.com/celestiaorg/tendermint/pull/82) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
-4. ❌ Closed PR [#77](https://github.com/celestiaorg/tendermint/pull/77) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
-5. ❌ Closed PR [#81](https://github.com/celestiaorg/tendermint/pull/81) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
+1. 🎉 Merged PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+2. 💪 Opened PR [#1](https://github.com/MSevey/celestia-node/pull/1) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+3. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❌ Closed PR [#83](https://github.com/celestiaorg/tendermint/pull/83) in [celestiaorg/tendermint](https://github.com/celestiaorg/tendermint)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
