@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#335](https://github.com/celestiaorg/rollmint/issues/335) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
-2. ❗️ Closed issue [#438](https://github.com/celestiaorg/rollmint/issues/438) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
-3. ❗️ Closed issue [#385](https://github.com/celestiaorg/rollmint/issues/385) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
-4. ❗️ Closed issue [#408](https://github.com/celestiaorg/rollmint/issues/408) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
-5. ❗️ Closed issue [#499](https://github.com/celestiaorg/rollmint/issues/499) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
+1. 💪 Opened PR [#66](https://github.com/mycodecareer/mycodecareer.github.io/pull/66) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. ❗️ Closed issue [#335](https://github.com/celestiaorg/rollmint/issues/335) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
+3. ❗️ Closed issue [#438](https://github.com/celestiaorg/rollmint/issues/438) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
+4. ❗️ Closed issue [#385](https://github.com/celestiaorg/rollmint/issues/385) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
+5. ❗️ Closed issue [#408](https://github.com/celestiaorg/rollmint/issues/408) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
