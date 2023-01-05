@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 💪 Opened PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. ❗️ Closed issue [#11](https://github.com/celestiaorg/.github/issues/11) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🎉 Merged PR [#16](https://github.com/celestiaorg/.github/pull/16) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. ❗️ Closed issue [#1412](https://github.com/celestiaorg/celestia-node/issues/1412) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. 💪 Opened PR [#1179](https://github.com/celestiaorg/celestia-app/pull/1179) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 🎉 Merged PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. ❗️ Closed issue [#11](https://github.com/celestiaorg/.github/issues/11) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#16](https://github.com/celestiaorg/.github/pull/16) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
