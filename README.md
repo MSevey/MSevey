@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1193](https://github.com/celestiaorg/celestia-app/pull/1193) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. ❌ Closed PR [#86](https://github.com/mycodecareer/mycodecareer.github.io/pull/86) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. ❌ Closed PR [#85](https://github.com/mycodecareer/mycodecareer.github.io/pull/85) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 💪 Opened PR [#86](https://github.com/mycodecareer/mycodecareer.github.io/pull/86) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 💪 Opened PR [#85](https://github.com/mycodecareer/mycodecareer.github.io/pull/85) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 💪 Opened PR [#20](https://github.com/celestiaorg/.github/pull/20) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 💪 Opened PR [#84](https://github.com/necojackarc/auto-request-review/pull/84) in [necojackarc/auto-request-review](https://github.com/necojackarc/auto-request-review)
+3. 🗣 Commented on [#83](https://github.com/necojackarc/auto-request-review/issues/83) in [necojackarc/auto-request-review](https://github.com/necojackarc/auto-request-review)
+4. ❌ Closed PR [#6](https://github.com/MSevey/celestia-app/pull/6) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
+5. 💪 Opened PR [#1193](https://github.com/celestiaorg/celestia-app/pull/1193) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
