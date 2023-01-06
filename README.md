@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MSevey/celestia-app/pull/1) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
-2. ❌ Closed PR [#1187](https://github.com/celestiaorg/celestia-app/pull/1187) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 💪 Opened PR [#1187](https://github.com/celestiaorg/celestia-app/pull/1187) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. 🗣 Commented on [#1161](https://github.com/celestiaorg/celestia-app/issues/1161) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. ❗️ Opened issue [#19](https://github.com/celestiaorg/.github/issues/19) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 💪 Opened PR [#6](https://github.com/MSevey/celestia-app/pull/6) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
+2. ❌ Closed PR [#5](https://github.com/MSevey/celestia-app/pull/5) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
+3. ❌ Closed PR [#4](https://github.com/MSevey/celestia-app/pull/4) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
+4. ❌ Closed PR [#3](https://github.com/MSevey/celestia-app/pull/3) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
+5. ❌ Closed PR [#2](https://github.com/MSevey/celestia-app/pull/2) in [MSevey/celestia-app](https://github.com/MSevey/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
