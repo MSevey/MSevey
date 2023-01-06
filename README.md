@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/celestiaorg/.github/issues/19) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. ❗️ Opened issue [#83](https://github.com/necojackarc/auto-request-review/issues/83) in [necojackarc/auto-request-review](https://github.com/necojackarc/auto-request-review)
-3. 💪 Opened PR [#1179](https://github.com/celestiaorg/celestia-app/pull/1179) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. 🎉 Merged PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 💪 Opened PR [#83](https://github.com/mycodecareer/mycodecareer.github.io/pull/83) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 💪 Opened PR [#1187](https://github.com/celestiaorg/celestia-app/pull/1187) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 🗣 Commented on [#1161](https://github.com/celestiaorg/celestia-app/issues/1161) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. ❗️ Opened issue [#19](https://github.com/celestiaorg/.github/issues/19) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❗️ Opened issue [#83](https://github.com/necojackarc/auto-request-review/issues/83) in [necojackarc/auto-request-review](https://github.com/necojackarc/auto-request-review)
+5. 💪 Opened PR [#1179](https://github.com/celestiaorg/celestia-app/pull/1179) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
