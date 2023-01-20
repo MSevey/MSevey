@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1256](https://github.com/celestiaorg/celestia-app/issues/1256) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🗣 Commented on [#697](https://github.com/celestiaorg/rollmint/issues/697) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
-3. 🗣 Commented on [#1256](https://github.com/celestiaorg/celestia-app/issues/1256) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. 🗣 Commented on [#1246](https://github.com/celestiaorg/celestia-app/issues/1246) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 🗣 Commented on [#162](https://github.com/celestiaorg/networks/issues/162) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+1. 🗣 Commented on [#1623](https://github.com/celestiaorg/celestia-node/issues/1623) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#1256](https://github.com/celestiaorg/celestia-app/issues/1256) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. 🗣 Commented on [#697](https://github.com/celestiaorg/rollmint/issues/697) in [celestiaorg/rollmint](https://github.com/celestiaorg/rollmint)
+4. 🗣 Commented on [#1256](https://github.com/celestiaorg/celestia-app/issues/1256) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. 🗣 Commented on [#1246](https://github.com/celestiaorg/celestia-app/issues/1246) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
