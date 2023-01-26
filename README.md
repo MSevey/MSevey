@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/celestiaorg/.github/pull/21) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#5](https://github.com/celestiaorg/utils/issues/5) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-3. 💪 Opened PR [#22](https://github.com/celestiaorg/.github/pull/22) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#1623](https://github.com/celestiaorg/celestia-node/issues/1623) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 🗣 Commented on [#1623](https://github.com/celestiaorg/celestia-node/issues/1623) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. 🎉 Merged PR [#3](https://github.com/mycodecareer/repo-example/pull/3) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
+2. 💪 Opened PR [#3](https://github.com/mycodecareer/repo-example/pull/3) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
+3. ❗️ Closed issue [#1](https://github.com/mycodecareer/repo-example/issues/1) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
+4. 🎉 Merged PR [#2](https://github.com/mycodecareer/repo-example/pull/2) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
+5. 💪 Opened PR [#2](https://github.com/mycodecareer/repo-example/pull/2) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
