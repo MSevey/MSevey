@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mycodecareer/repo-example/pull/3) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
-2. 💪 Opened PR [#3](https://github.com/mycodecareer/repo-example/pull/3) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
-3. ❗️ Closed issue [#1](https://github.com/mycodecareer/repo-example/issues/1) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
-4. 🎉 Merged PR [#2](https://github.com/mycodecareer/repo-example/pull/2) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
-5. 💪 Opened PR [#2](https://github.com/mycodecareer/repo-example/pull/2) in [mycodecareer/repo-example](https://github.com/mycodecareer/repo-example)
+1. 🎉 Merged PR [#1](https://github.com/mycodecareer/py-trader/pull/1) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+2. 💪 Opened PR [#1](https://github.com/mycodecareer/py-trader/pull/1) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+3. ❗️ Closed issue [#88](https://github.com/mycodecareer/mycodecareer.github.io/issues/88) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. ❗️ Closed issue [#87](https://github.com/mycodecareer/mycodecareer.github.io/issues/87) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❗️ Opened issue [#88](https://github.com/mycodecareer/mycodecareer.github.io/issues/88) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
