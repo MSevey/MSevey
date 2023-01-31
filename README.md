@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#436](https://github.com/celestiaorg/docs/pull/436) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-2. 💪 Opened PR [#23](https://github.com/celestiaorg/.github/pull/23) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 💪 Opened PR [#1](https://github.com/rollkit/.github/pull/1) in [rollkit/.github](https://github.com/rollkit/.github)
-4. 🎉 Merged PR [#1](https://github.com/mycodecareer/py-trader/pull/1) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-5. 💪 Opened PR [#1](https://github.com/mycodecareer/py-trader/pull/1) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+1. 🎉 Merged PR [#436](https://github.com/celestiaorg/docs/pull/436) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 💪 Opened PR [#436](https://github.com/celestiaorg/docs/pull/436) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. 💪 Opened PR [#23](https://github.com/celestiaorg/.github/pull/23) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 💪 Opened PR [#1](https://github.com/rollkit/.github/pull/1) in [rollkit/.github](https://github.com/rollkit/.github)
+5. 🎉 Merged PR [#1](https://github.com/mycodecareer/py-trader/pull/1) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
