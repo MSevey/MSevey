@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/mycodecareer/mycodecareer.github.io/issues/89) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🗣 Commented on [#90](https://github.com/mycodecareer/mycodecareer.github.io/issues/90) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🗣 Commented on [#91](https://github.com/mycodecareer/mycodecareer.github.io/issues/91) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#92](https://github.com/mycodecareer/mycodecareer.github.io/issues/92) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#93](https://github.com/mycodecareer/mycodecareer.github.io/issues/93) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🗣 Commented on [#92](https://github.com/mycodecareer/mycodecareer.github.io/issues/92) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🗣 Commented on [#94](https://github.com/mycodecareer/mycodecareer.github.io/issues/94) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🗣 Commented on [#96](https://github.com/mycodecareer/mycodecareer.github.io/issues/96) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#95](https://github.com/mycodecareer/mycodecareer.github.io/issues/95) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 🗣 Commented on [#89](https://github.com/mycodecareer/mycodecareer.github.io/issues/89) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
