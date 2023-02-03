@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/MSevey/workflows/pull/19) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 🗣 Commented on [#963](https://github.com/celestiaorg/celestia-app/issues/963) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 🗣 Commented on [#25](https://github.com/celestiaorg/.github/issues/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#92](https://github.com/mycodecareer/mycodecareer.github.io/issues/92) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#94](https://github.com/mycodecareer/mycodecareer.github.io/issues/94) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 💪 Opened PR [#448](https://github.com/celestiaorg/docs/pull/448) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. ❌ Closed PR [#19](https://github.com/MSevey/workflows/pull/19) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 🗣 Commented on [#963](https://github.com/celestiaorg/celestia-app/issues/963) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 🗣 Commented on [#25](https://github.com/celestiaorg/.github/issues/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🗣 Commented on [#92](https://github.com/mycodecareer/mycodecareer.github.io/issues/92) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
