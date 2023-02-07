@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/celestiaorg/.github/pull/23) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#25](https://github.com/celestiaorg/.github/issues/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. ❌ Closed PR [#20](https://github.com/MSevey/workflows/pull/20) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. ❗️ Opened issue [#5](https://github.com/mycodecareer/py-trader/issues/5) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-5. ❌ Closed PR [#4](https://github.com/mycodecareer/py-trader/pull/4) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+1. 🗣 Commented on [#1342](https://github.com/celestiaorg/celestia-app/issues/1342) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 🎉 Merged PR [#23](https://github.com/celestiaorg/.github/pull/23) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🗣 Commented on [#25](https://github.com/celestiaorg/.github/issues/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❌ Closed PR [#20](https://github.com/MSevey/workflows/pull/20) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. ❗️ Opened issue [#5](https://github.com/mycodecareer/py-trader/issues/5) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
