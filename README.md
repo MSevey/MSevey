@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/celestiaorg/utils/pull/5) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-2. 🎉 Merged PR [#100](https://github.com/mycodecareer/mycodecareer.github.io/pull/100) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 💪 Opened PR [#100](https://github.com/mycodecareer/mycodecareer.github.io/pull/100) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🎉 Merged PR [#99](https://github.com/mycodecareer/mycodecareer.github.io/pull/99) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 💪 Opened PR [#99](https://github.com/mycodecareer/mycodecareer.github.io/pull/99) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🎉 Merged PR [#24](https://github.com/celestiaorg/.github/pull/24) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🎉 Merged PR [#25](https://github.com/celestiaorg/.github/pull/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🎉 Merged PR [#26](https://github.com/celestiaorg/.github/pull/26) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🎉 Merged PR [#27](https://github.com/celestiaorg/.github/pull/27) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#5](https://github.com/celestiaorg/utils/pull/5) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
