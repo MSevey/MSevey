@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/celestiaorg/devops/issues/62) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-2. 🗣 Commented on [#6](https://github.com/mycodecareer/py-trader/issues/6) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-3. 🗣 Commented on [#1342](https://github.com/celestiaorg/celestia-app/issues/1342) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. 🎉 Merged PR [#24](https://github.com/celestiaorg/.github/pull/24) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#25](https://github.com/celestiaorg/.github/pull/25) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 🗣 Commented on [#1407](https://github.com/celestiaorg/celestia-app/issues/1407) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 🗣 Commented on [#62](https://github.com/celestiaorg/devops/issues/62) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🗣 Commented on [#6](https://github.com/mycodecareer/py-trader/issues/6) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+4. 🗣 Commented on [#1342](https://github.com/celestiaorg/celestia-app/issues/1342) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. 🎉 Merged PR [#24](https://github.com/celestiaorg/.github/pull/24) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
