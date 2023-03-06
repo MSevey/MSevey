@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1869](https://github.com/celestiaorg/celestia-node/pull/1869) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🗣 Commented on [#1407](https://github.com/celestiaorg/celestia-app/issues/1407) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 🗣 Commented on [#62](https://github.com/celestiaorg/devops/issues/62) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🗣 Commented on [#6](https://github.com/mycodecareer/py-trader/issues/6) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-5. 🗣 Commented on [#1342](https://github.com/celestiaorg/celestia-app/issues/1342) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#40](https://github.com/celestiaorg/.github/pull/40) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🗣 Commented on [#1415](https://github.com/celestiaorg/celestia-app/issues/1415) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. ❗️ Opened issue [#39](https://github.com/celestiaorg/.github/issues/39) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 💪 Opened PR [#1869](https://github.com/celestiaorg/celestia-node/pull/1869) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+5. 🗣 Commented on [#1407](https://github.com/celestiaorg/celestia-app/issues/1407) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
