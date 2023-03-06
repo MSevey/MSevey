@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/celestiaorg/.github/pull/40) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#1415](https://github.com/celestiaorg/celestia-app/issues/1415) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. ❗️ Opened issue [#39](https://github.com/celestiaorg/.github/issues/39) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 💪 Opened PR [#1869](https://github.com/celestiaorg/celestia-node/pull/1869) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 🗣 Commented on [#1407](https://github.com/celestiaorg/celestia-app/issues/1407) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 🗣 Commented on [#107](https://github.com/mycodecareer/mycodecareer.github.io/issues/107) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🗣 Commented on [#102](https://github.com/mycodecareer/mycodecareer.github.io/issues/102) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🗣 Commented on [#92](https://github.com/mycodecareer/mycodecareer.github.io/issues/92) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#103](https://github.com/mycodecareer/mycodecareer.github.io/issues/103) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 💪 Opened PR [#41](https://github.com/celestiaorg/.github/pull/41) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
