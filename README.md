@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/MSevey/workflows/pull/21) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 💪 Opened PR [#1877](https://github.com/celestiaorg/celestia-node/pull/1877) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 🎉 Merged PR [#7](https://github.com/mycodecareer/py-trader/pull/7) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-4. ❗️ Closed issue [#6](https://github.com/mycodecareer/py-trader/issues/6) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-5. ❗️ Opened issue [#11](https://github.com/mycodecareer/py-trader/issues/11) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+1. 🗣 Commented on [#1456](https://github.com/celestiaorg/celestia-app/issues/1456) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. ❌ Closed PR [#21](https://github.com/MSevey/workflows/pull/21) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 💪 Opened PR [#1877](https://github.com/celestiaorg/celestia-node/pull/1877) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🎉 Merged PR [#7](https://github.com/mycodecareer/py-trader/pull/7) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+5. ❗️ Closed issue [#6](https://github.com/mycodecareer/py-trader/issues/6) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
