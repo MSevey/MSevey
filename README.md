@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/celestiaorg/go-header/pull/8) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-2. 🎉 Merged PR [#770](https://github.com/rollkit/rollkit/pull/770) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
-4. 💪 Opened PR [#48](https://github.com/celestiaorg/go-cnc/pull/48) in [celestiaorg/go-cnc](https://github.com/celestiaorg/go-cnc)
-5. 💪 Opened PR [#127](https://github.com/celestiaorg/nmt/pull/127) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+1. 🎉 Merged PR [#217](https://github.com/celestiaorg/orchestrator-relayer/pull/217) in [celestiaorg/orchestrator-relayer](https://github.com/celestiaorg/orchestrator-relayer)
+2. 💪 Opened PR [#8](https://github.com/celestiaorg/go-header/pull/8) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
+3. 🎉 Merged PR [#770](https://github.com/rollkit/rollkit/pull/770) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 💪 Opened PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
+5. 💪 Opened PR [#48](https://github.com/celestiaorg/go-cnc/pull/48) in [celestiaorg/go-cnc](https://github.com/celestiaorg/go-cnc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
