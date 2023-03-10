@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#377](https://github.com/celestiaorg/celestia-app/issues/377) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🎉 Merged PR [#1887](https://github.com/celestiaorg/celestia-node/pull/1887) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 💪 Opened PR [#770](https://github.com/rollkit/rollkit/pull/770) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#1887](https://github.com/celestiaorg/celestia-node/pull/1887) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. 💪 Opened PR [#139](https://github.com/rollkit/docs/pull/139) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 💪 Opened PR [#127](https://github.com/celestiaorg/nmt/pull/127) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+2. 💪 Opened PR [#217](https://github.com/celestiaorg/orchestrator-relayer/pull/217) in [celestiaorg/orchestrator-relayer](https://github.com/celestiaorg/orchestrator-relayer)
+3. 💪 Opened PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
+4. 💪 Opened PR [#152](https://github.com/celestiaorg/rsmt2d/pull/152) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+5. 💪 Opened PR [#1466](https://github.com/celestiaorg/celestia-app/pull/1466) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
