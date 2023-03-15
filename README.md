@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-2. 💪 Opened PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. 🎉 Merged PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
-4. 🎉 Merged PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
-5. 🎉 Merged PR [#217](https://github.com/celestiaorg/orchestrator-relayer/pull/217) in [celestiaorg/orchestrator-relayer](https://github.com/celestiaorg/orchestrator-relayer)
+1. 🎉 Merged PR [#127](https://github.com/celestiaorg/nmt/pull/127) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+2. 🎉 Merged PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 💪 Opened PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+4. 🎉 Merged PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
+5. 🎉 Merged PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
