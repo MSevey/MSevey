@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
-2. 🎉 Merged PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
-3. 🎉 Merged PR [#217](https://github.com/celestiaorg/orchestrator-relayer/pull/217) in [celestiaorg/orchestrator-relayer](https://github.com/celestiaorg/orchestrator-relayer)
-4. 💪 Opened PR [#8](https://github.com/celestiaorg/go-header/pull/8) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-5. 🎉 Merged PR [#770](https://github.com/rollkit/rollkit/pull/770) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+2. 💪 Opened PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 🎉 Merged PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
+4. 🎉 Merged PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
+5. 🎉 Merged PR [#217](https://github.com/celestiaorg/orchestrator-relayer/pull/217) in [celestiaorg/orchestrator-relayer](https://github.com/celestiaorg/orchestrator-relayer)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
