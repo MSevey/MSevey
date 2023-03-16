@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/celestiaorg/nmt/pull/127) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
-2. 🎉 Merged PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. 💪 Opened PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. 🎉 Merged PR [#198](https://github.com/celestiaorg/test-infra/pull/198) in [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)
-5. 🎉 Merged PR [#14](https://github.com/celestiaorg/local-celestia-devnet/pull/14) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
+1. ❌ Closed PR [#102](https://github.com/mycodecareer/mycodecareer.github.io/pull/102) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. ❌ Closed PR [#107](https://github.com/mycodecareer/mycodecareer.github.io/pull/107) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🗣 Commented on [#1473](https://github.com/celestiaorg/celestia-app/issues/1473) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 🎉 Merged PR [#127](https://github.com/celestiaorg/nmt/pull/127) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+5. 🎉 Merged PR [#1](https://github.com/mycodecareer/30daygroupproject/pull/1) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
