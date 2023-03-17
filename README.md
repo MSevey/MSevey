@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/mycodecareer/30daygroupproject/pull/14) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-2. 🗣 Commented on [#14](https://github.com/mycodecareer/30daygroupproject/issues/14) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. ❗️ Opened issue [#12](https://github.com/mycodecareer/30daygroupproject/issues/12) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. ❗️ Opened issue [#11](https://github.com/mycodecareer/30daygroupproject/issues/11) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-5. ❗️ Opened issue [#10](https://github.com/mycodecareer/30daygroupproject/issues/10) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+1. ❗️ Closed issue [#640](https://github.com/rollkit/rollkit/issues/640) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. ❌ Closed PR [#14](https://github.com/mycodecareer/30daygroupproject/pull/14) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 🗣 Commented on [#14](https://github.com/mycodecareer/30daygroupproject/issues/14) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+4. ❗️ Opened issue [#12](https://github.com/mycodecareer/30daygroupproject/issues/12) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. ❗️ Opened issue [#11](https://github.com/mycodecareer/30daygroupproject/issues/11) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
