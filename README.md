@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/mycodecareer/30daygroupproject/issues/32) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-2. ❗️ Opened issue [#31](https://github.com/mycodecareer/30daygroupproject/issues/31) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. ❗️ Opened issue [#30](https://github.com/mycodecareer/30daygroupproject/issues/30) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. ❗️ Opened issue [#29](https://github.com/mycodecareer/30daygroupproject/issues/29) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-5. ❗️ Opened issue [#28](https://github.com/mycodecareer/30daygroupproject/issues/28) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+1. 🗣 Commented on [#16](https://github.com/mycodecareer/30daygroupproject/issues/16) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+2. ❌ Closed PR [#35](https://github.com/mycodecareer/30daygroupproject/pull/35) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 🗣 Commented on [#35](https://github.com/mycodecareer/30daygroupproject/issues/35) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+4. ❗️ Opened issue [#32](https://github.com/mycodecareer/30daygroupproject/issues/32) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. ❗️ Opened issue [#31](https://github.com/mycodecareer/30daygroupproject/issues/31) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
