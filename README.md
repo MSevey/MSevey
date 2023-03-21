@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/celestiaorg/rsmt2d/pull/152) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
-2. ❌ Closed PR [#145](https://github.com/celestiaorg/nmt/pull/145) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
-3. 💪 Opened PR [#145](https://github.com/celestiaorg/nmt/pull/145) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
-4. 🎉 Merged PR [#8](https://github.com/celestiaorg/utils/pull/8) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-5. ❗️ Closed issue [#5](https://github.com/mycodecareer/30daygroupproject/issues/5) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+1. ❌ Closed PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+2. 💪 Opened PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+3. 🎉 Merged PR [#152](https://github.com/celestiaorg/rsmt2d/pull/152) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+4. ❌ Closed PR [#145](https://github.com/celestiaorg/nmt/pull/145) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+5. 💪 Opened PR [#145](https://github.com/celestiaorg/nmt/pull/145) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
