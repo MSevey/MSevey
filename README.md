@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/mycodecareer/30daygroupproject/issues/39) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-2. ❗️ Opened issue [#38](https://github.com/mycodecareer/30daygroupproject/issues/38) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. 🎉 Merged PR [#15](https://github.com/celestiaorg/local-celestia-devnet/pull/15) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
-4. ❌ Closed PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
-5. 💪 Opened PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+1. 🎉 Merged PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+2. 💪 Opened PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. ❗️ Closed issue [#4](https://github.com/mycodecareer/30daygroupproject/issues/4) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+4. 🎉 Merged PR [#40](https://github.com/mycodecareer/30daygroupproject/pull/40) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. 💪 Opened PR [#40](https://github.com/mycodecareer/30daygroupproject/pull/40) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
