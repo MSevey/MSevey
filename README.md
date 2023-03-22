@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/celestiaorg/local-celestia-devnet/pull/15) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
-2. ❌ Closed PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
-3. 💪 Opened PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
-4. 🎉 Merged PR [#152](https://github.com/celestiaorg/rsmt2d/pull/152) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
-5. ❌ Closed PR [#145](https://github.com/celestiaorg/nmt/pull/145) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+1. ❗️ Opened issue [#39](https://github.com/mycodecareer/30daygroupproject/issues/39) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+2. ❗️ Opened issue [#38](https://github.com/mycodecareer/30daygroupproject/issues/38) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 🎉 Merged PR [#15](https://github.com/celestiaorg/local-celestia-devnet/pull/15) in [celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)
+4. ❌ Closed PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
+5. 💪 Opened PR [#155](https://github.com/celestiaorg/rsmt2d/pull/155) in [celestiaorg/rsmt2d](https://github.com/celestiaorg/rsmt2d)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
