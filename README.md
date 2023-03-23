@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-2. 💪 Opened PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. ❗️ Closed issue [#4](https://github.com/mycodecareer/30daygroupproject/issues/4) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. 🎉 Merged PR [#40](https://github.com/mycodecareer/30daygroupproject/pull/40) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-5. 💪 Opened PR [#40](https://github.com/mycodecareer/30daygroupproject/pull/40) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+1. ❗️ Closed issue [#12](https://github.com/mycodecareer/30daygroupproject/issues/12) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+2. 🎉 Merged PR [#42](https://github.com/mycodecareer/30daygroupproject/pull/42) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+3. 💪 Opened PR [#42](https://github.com/mycodecareer/30daygroupproject/pull/42) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+4. 🎉 Merged PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. 💪 Opened PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
