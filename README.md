@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mycodecareer/py-trader/pull/12) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-2. ❗️ Closed issue [#12](https://github.com/mycodecareer/30daygroupproject/issues/12) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-3. 🎉 Merged PR [#42](https://github.com/mycodecareer/30daygroupproject/pull/42) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. 💪 Opened PR [#42](https://github.com/mycodecareer/30daygroupproject/pull/42) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-5. 🎉 Merged PR [#41](https://github.com/mycodecareer/30daygroupproject/pull/41) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+1. ❗️ Opened issue [#23](https://github.com/MSevey/workflows/issues/23) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. ❗️ Opened issue [#22](https://github.com/MSevey/workflows/issues/22) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 🎉 Merged PR [#12](https://github.com/mycodecareer/py-trader/pull/12) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+4. ❗️ Closed issue [#12](https://github.com/mycodecareer/30daygroupproject/issues/12) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. 🎉 Merged PR [#42](https://github.com/mycodecareer/30daygroupproject/pull/42) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
