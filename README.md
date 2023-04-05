@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/celestiaorg/.github/issues/51) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. ❗️ Opened issue [#50](https://github.com/celestiaorg/.github/issues/50) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. ❗️ Closed issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. ❗️ Opened issue [#49](https://github.com/celestiaorg/.github/issues/49) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 💪 Opened PR [#48](https://github.com/celestiaorg/.github/pull/48) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. ❗️ Opened issue [#53](https://github.com/celestiaorg/.github/issues/53) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. ❗️ Opened issue [#52](https://github.com/celestiaorg/.github/issues/52) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. ❗️ Opened issue [#51](https://github.com/celestiaorg/.github/issues/51) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❗️ Opened issue [#50](https://github.com/celestiaorg/.github/issues/50) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❗️ Closed issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
