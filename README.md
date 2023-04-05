@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/celestiaorg/.github/pull/46) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🎉 Merged PR [#87](https://github.com/celestiaorg/ethermint/pull/87) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
-3. 🗣 Commented on [#1586](https://github.com/celestiaorg/celestia-app/issues/1586) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. ❗️ Opened issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🗣 Commented on [#1551](https://github.com/celestiaorg/celestia-app/issues/1551) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 🗣 Commented on [#173](https://github.com/celestiaorg/devops/issues/173) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 💪 Opened PR [#46](https://github.com/celestiaorg/.github/pull/46) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🎉 Merged PR [#87](https://github.com/celestiaorg/ethermint/pull/87) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+4. 🗣 Commented on [#1586](https://github.com/celestiaorg/celestia-app/issues/1586) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. ❗️ Opened issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
