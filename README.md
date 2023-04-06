@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 2. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 3. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#189](https://github.com/celestiaorg/devops/issues/189) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 5. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
