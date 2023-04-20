@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#58](https://github.com/mycodecareer/mycodecareer.github.io/issues/58) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🎉 Merged PR [#119](https://github.com/mycodecareer/mycodecareer.github.io/pull/119) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 💪 Opened PR [#119](https://github.com/mycodecareer/mycodecareer.github.io/pull/119) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🎉 Merged PR [#118](https://github.com/mycodecareer/mycodecareer.github.io/pull/118) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 💪 Opened PR [#118](https://github.com/mycodecareer/mycodecareer.github.io/pull/118) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. ❗️ Closed issue [#55](https://github.com/mycodecareer/mycodecareer.github.io/issues/55) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🎉 Merged PR [#120](https://github.com/mycodecareer/mycodecareer.github.io/pull/120) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#120](https://github.com/mycodecareer/mycodecareer.github.io/pull/120) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. ❗️ Closed issue [#58](https://github.com/mycodecareer/mycodecareer.github.io/issues/58) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 🎉 Merged PR [#119](https://github.com/mycodecareer/mycodecareer.github.io/pull/119) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
