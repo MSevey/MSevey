@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rollkit/.github/pull/1) in [rollkit/.github](https://github.com/rollkit/.github)
-2. 🎉 Merged PR [#48](https://github.com/celestiaorg/.github/pull/48) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 🎉 Merged PR [#49](https://github.com/mycodecareer/30daygroupproject/pull/49) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-4. ❗️ Closed issue [#10](https://github.com/mycodecareer/30daygroupproject/issues/10) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
-5. 🗣 Commented on [#124](https://github.com/mycodecareer/mycodecareer.github.io/issues/124) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🗣 Commented on [#124](https://github.com/mycodecareer/mycodecareer.github.io/issues/124) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🎉 Merged PR [#1](https://github.com/rollkit/.github/pull/1) in [rollkit/.github](https://github.com/rollkit/.github)
+3. 🎉 Merged PR [#48](https://github.com/celestiaorg/.github/pull/48) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🎉 Merged PR [#49](https://github.com/mycodecareer/30daygroupproject/pull/49) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
+5. ❗️ Closed issue [#10](https://github.com/mycodecareer/30daygroupproject/issues/10) in [mycodecareer/30daygroupproject](https://github.com/mycodecareer/30daygroupproject)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
