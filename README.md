@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 🗣 Commented on [#1760](https://github.com/celestiaorg/celestia-app/issues/1760) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. ❗️ Opened issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 3. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. ❗️ Reopened issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🗣 Commented on [#124](https://github.com/mycodecareer/mycodecareer.github.io/issues/124) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❗️ Reopened issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
