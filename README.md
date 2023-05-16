@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 2. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❗️ Opened issue [#306](https://github.com/celestiaorg/devops/issues/306) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🗣 Commented on [#1760](https://github.com/celestiaorg/celestia-app/issues/1760) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. ❗️ Opened issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
