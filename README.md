@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. ❗️ Opened issue [#306](https://github.com/celestiaorg/devops/issues/306) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. 🗣 Commented on [#1760](https://github.com/celestiaorg/celestia-app/issues/1760) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. ❗️ Opened issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🗣 Commented on [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. ❗️ Opened issue [#306](https://github.com/celestiaorg/devops/issues/306) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🗣 Commented on [#1760](https://github.com/celestiaorg/celestia-app/issues/1760) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. ❗️ Opened issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
