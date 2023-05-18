@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/rollkit/celestia-operpc/issues/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
-2. 💪 Opened PR [#5](https://github.com/rollkit/celestia-operpc/pull/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
-3. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#1759](https://github.com/celestiaorg/celestia-app/issues/1759) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. ❌ Closed PR [#132](https://github.com/mycodecareer/mycodecareer.github.io/pull/132) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. ❌ Closed PR [#133](https://github.com/mycodecareer/mycodecareer.github.io/pull/133) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#5](https://github.com/rollkit/celestia-operpc/issues/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
+5. 💪 Opened PR [#5](https://github.com/rollkit/celestia-operpc/pull/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
