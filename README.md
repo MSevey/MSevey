@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#5](https://github.com/rollkit/celestia-operpc/issues/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
+2. 💪 Opened PR [#5](https://github.com/rollkit/celestia-operpc/pull/5) in [rollkit/celestia-operpc](https://github.com/rollkit/celestia-operpc)
 3. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 4. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 5. 🗣 Commented on [#941](https://github.com/rollkit/rollkit/issues/941) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
