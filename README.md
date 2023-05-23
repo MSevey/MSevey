@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/celestiaorg/utils/pull/13) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-2. 🎉 Merged PR [#12](https://github.com/celestiaorg/utils/pull/12) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-3. 🗣 Commented on [#952](https://github.com/rollkit/rollkit/issues/952) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#3](https://github.com/rollkit/.github/pull/3) in [rollkit/.github](https://github.com/rollkit/.github)
-5. ❗️ Opened issue [#951](https://github.com/rollkit/rollkit/issues/951) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#61](https://github.com/celestiaorg/optimism/pull/61) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+2. ❗️ Closed issue [#60](https://github.com/celestiaorg/optimism/issues/60) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. 💪 Opened PR [#61](https://github.com/celestiaorg/optimism/pull/61) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+4. 🎉 Merged PR [#13](https://github.com/celestiaorg/utils/pull/13) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+5. 🎉 Merged PR [#12](https://github.com/celestiaorg/utils/pull/12) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
