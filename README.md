@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-2. 🎉 Merged PR [#61](https://github.com/celestiaorg/optimism/pull/61) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-3. ❗️ Closed issue [#60](https://github.com/celestiaorg/optimism/issues/60) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-4. 💪 Opened PR [#61](https://github.com/celestiaorg/optimism/pull/61) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 🎉 Merged PR [#13](https://github.com/celestiaorg/utils/pull/13) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+1. ❌ Closed PR [#76](https://github.com/celestiaorg/optimism/pull/76) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+2. ❌ Closed PR [#75](https://github.com/celestiaorg/optimism/pull/75) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. ❌ Closed PR [#74](https://github.com/celestiaorg/optimism/pull/74) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+4. ❌ Closed PR [#73](https://github.com/celestiaorg/optimism/pull/73) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+5. ❌ Closed PR [#71](https://github.com/celestiaorg/optimism/pull/71) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
