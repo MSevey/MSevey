@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1843](https://github.com/celestiaorg/celestia-app/issues/1843) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🗣 Commented on [#959](https://github.com/rollkit/rollkit/issues/959) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#1827](https://github.com/celestiaorg/celestia-app/pull/1827) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. 🗣 Commented on [#1369](https://github.com/celestiaorg/celestia-app/issues/1369) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 🗣 Commented on [#1369](https://github.com/celestiaorg/celestia-app/issues/1369) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 🗣 Commented on [#17](https://github.com/celestiaorg/.github/issues/17) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. ❗️ Closed issue [#59](https://github.com/celestiaorg/.github/issues/59) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. ❗️ Closed issue [#44](https://github.com/celestiaorg/.github/issues/44) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❗️ Closed issue [#54](https://github.com/celestiaorg/.github/issues/54) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#130](https://github.com/celestiaorg/optimism/pull/130) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
