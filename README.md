@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#968](https://github.com/rollkit/rollkit/pull/968) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. ❌ Closed PR [#957](https://github.com/rollkit/rollkit/pull/957) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#137](https://github.com/mycodecareer/mycodecareer.github.io/issues/137) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#137](https://github.com/mycodecareer/mycodecareer.github.io/issues/137) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🎉 Merged PR [#56](https://github.com/celestiaorg/go-cnc/pull/56) in [celestiaorg/go-cnc](https://github.com/celestiaorg/go-cnc)
+1. 💪 Opened PR [#972](https://github.com/rollkit/rollkit/pull/972) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🗣 Commented on [#970](https://github.com/rollkit/rollkit/issues/970) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#971](https://github.com/rollkit/rollkit/issues/971) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#971](https://github.com/rollkit/rollkit/issues/971) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 💪 Opened PR [#971](https://github.com/rollkit/rollkit/pull/971) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
