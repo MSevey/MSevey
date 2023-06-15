@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-2. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+2. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+3. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 4. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-5. 🎉 Merged PR [#1011](https://github.com/rollkit/rollkit/pull/1011) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
