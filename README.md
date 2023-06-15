@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+1. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 2. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-3. 🎉 Merged PR [#1011](https://github.com/rollkit/rollkit/pull/1011) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#1010](https://github.com/rollkit/rollkit/pull/1010) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#1011](https://github.com/rollkit/rollkit/pull/1011) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+4. 🎉 Merged PR [#1011](https://github.com/rollkit/rollkit/pull/1011) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🎉 Merged PR [#1010](https://github.com/rollkit/rollkit/pull/1010) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
