@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 2. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-3. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+3. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+4. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 5. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 <!--END_SECTION:activity-->
 
