@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/rollkit/local-celestia-devnet/issues/44) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-2. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
+1. 🗣 Commented on [#204](https://github.com/celestiaorg/nmt/issues/204) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
+2. ❗ Opened issue [#44](https://github.com/rollkit/local-celestia-devnet/issues/44) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
 3. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 4. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-5. ❗ Opened issue [#1013](https://github.com/rollkit/rollkit/issues/1013) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
