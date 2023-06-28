@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/celestiaorg/go-fraud/pull/12) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
-2. 🎉 Merged PR [#15](https://github.com/celestiaorg/go-fraud/pull/15) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
-3. 💪 Opened PR [#15](https://github.com/celestiaorg/go-fraud/pull/15) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
-4. ❗ Opened issue [#1041](https://github.com/rollkit/rollkit/issues/1041) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#4](https://github.com/rollkit/.github/issues/4) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 💪 Opened PR [#846](https://github.com/celestiaorg/docs/pull/846) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 🎉 Merged PR [#12](https://github.com/celestiaorg/go-fraud/pull/12) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
+3. 🎉 Merged PR [#15](https://github.com/celestiaorg/go-fraud/pull/15) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
+4. 💪 Opened PR [#15](https://github.com/celestiaorg/go-fraud/pull/15) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
+5. ❗ Opened issue [#1041](https://github.com/rollkit/rollkit/issues/1041) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
