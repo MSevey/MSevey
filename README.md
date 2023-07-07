@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#326](https://github.com/celestiaorg/devops/issues/326) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-2. 🎉 Merged PR [#62](https://github.com/celestiaorg/.github/pull/62) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 🗣 Commented on [#62](https://github.com/celestiaorg/.github/issues/62) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 💪 Opened PR [#62](https://github.com/celestiaorg/.github/pull/62) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#48](https://github.com/celestiaorg/go-cnc/pull/48) in [celestiaorg/go-cnc](https://github.com/celestiaorg/go-cnc)
+1. 🗣 Commented on [#63](https://github.com/celestiaorg/.github/issues/63) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 💪 Opened PR [#2047](https://github.com/celestiaorg/celestia-app/pull/2047) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. 💪 Opened PR [#63](https://github.com/celestiaorg/.github/pull/63) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🔒 Closed issue [#326](https://github.com/celestiaorg/devops/issues/326) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🎉 Merged PR [#62](https://github.com/celestiaorg/.github/pull/62) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
