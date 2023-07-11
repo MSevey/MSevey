@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#67](https://github.com/celestiaorg/.github/issues/67) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 💪 Opened PR [#6](https://github.com/rollkit/.github/pull/6) in [rollkit/.github](https://github.com/rollkit/.github)
-3. 🗣 Commented on [#64](https://github.com/celestiaorg/.github/issues/64) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. ❌ Closed PR [#2047](https://github.com/celestiaorg/celestia-app/pull/2047) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. ❌ Reopened PR [#2047](https://github.com/celestiaorg/celestia-app/pull/2047) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#538](https://github.com/rollkit/tendermint/pull/538) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+2. ❗ Opened issue [#67](https://github.com/celestiaorg/.github/issues/67) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 💪 Opened PR [#6](https://github.com/rollkit/.github/pull/6) in [rollkit/.github](https://github.com/rollkit/.github)
+4. 🗣 Commented on [#64](https://github.com/celestiaorg/.github/issues/64) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❌ Closed PR [#2047](https://github.com/celestiaorg/celestia-app/pull/2047) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
