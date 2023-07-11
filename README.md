@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/celestiaorg/insync/pull/10) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
-2. 💪 Opened PR [#9](https://github.com/celestiaorg/insync/pull/9) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
-3. 💪 Opened PR [#8](https://github.com/celestiaorg/insync/pull/8) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
-4. 💪 Opened PR [#6](https://github.com/celestiaorg/insync/pull/6) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
-5. 💪 Opened PR [#7](https://github.com/celestiaorg/insync/pull/7) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+1. 💪 Opened PR [#2](https://github.com/celestiaorg/ethermint-faucet/pull/2) in [celestiaorg/ethermint-faucet](https://github.com/celestiaorg/ethermint-faucet)
+2. 💪 Opened PR [#1](https://github.com/celestiaorg/ethermint-faucet/pull/1) in [celestiaorg/ethermint-faucet](https://github.com/celestiaorg/ethermint-faucet)
+3. 💪 Opened PR [#10](https://github.com/celestiaorg/insync/pull/10) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+4. 💪 Opened PR [#9](https://github.com/celestiaorg/insync/pull/9) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+5. 💪 Opened PR [#8](https://github.com/celestiaorg/insync/pull/8) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
