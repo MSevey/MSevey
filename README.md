@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/celestiaorg/evmos/pull/36) in [celestiaorg/evmos](https://github.com/celestiaorg/evmos)
-2. 🎉 Merged PR [#64](https://github.com/celestiaorg/.github/pull/64) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 💪 Opened PR [#6](https://github.com/celestiaorg/celestia.org-2/pull/6) in [celestiaorg/celestia.org-2](https://github.com/celestiaorg/celestia.org-2)
-4. 💪 Opened PR [#5](https://github.com/celestiaorg/celestia.org-2/pull/5) in [celestiaorg/celestia.org-2](https://github.com/celestiaorg/celestia.org-2)
-5. 💪 Opened PR [#4](https://github.com/celestiaorg/celestia.org-2/pull/4) in [celestiaorg/celestia.org-2](https://github.com/celestiaorg/celestia.org-2)
+1. 💪 Opened PR [#10](https://github.com/celestiaorg/insync/pull/10) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+2. 💪 Opened PR [#9](https://github.com/celestiaorg/insync/pull/9) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+3. 💪 Opened PR [#8](https://github.com/celestiaorg/insync/pull/8) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+4. 💪 Opened PR [#6](https://github.com/celestiaorg/insync/pull/6) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
+5. 💪 Opened PR [#7](https://github.com/celestiaorg/insync/pull/7) in [celestiaorg/insync](https://github.com/celestiaorg/insync)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
