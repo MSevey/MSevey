@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1067](https://github.com/rollkit/rollkit/pull/1067) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#888](https://github.com/celestiaorg/docs/pull/888) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-3. 💪 Opened PR [#887](https://github.com/celestiaorg/docs/pull/887) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-4. 💪 Opened PR [#886](https://github.com/celestiaorg/docs/pull/886) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-5. 💪 Opened PR [#885](https://github.com/celestiaorg/docs/pull/885) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+1. 💪 Opened PR [#22](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/22) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
+2. 💪 Opened PR [#21](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/21) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
+3. 💪 Opened PR [#20](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/20) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
+4. 💪 Opened PR [#19](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/19) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
+5. 💪 Opened PR [#18](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/18) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
