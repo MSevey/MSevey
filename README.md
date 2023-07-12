@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/celestiaorg/optimism/issues/168) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-2. 💪 Opened PR [#23](https://github.com/celestiaorg/testground/pull/23) in [celestiaorg/testground](https://github.com/celestiaorg/testground)
-3. 💪 Opened PR [#195](https://github.com/rollkit/docs/pull/195) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 💪 Opened PR [#194](https://github.com/rollkit/docs/pull/194) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 💪 Opened PR [#22](https://github.com/celestiaorg/big-dipper-2.0-cosmos/pull/22) in [celestiaorg/big-dipper-2.0-cosmos](https://github.com/celestiaorg/big-dipper-2.0-cosmos)
+1. 💪 Opened PR [#52](https://github.com/rollkit/local-celestia-devnet/pull/52) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+2. ❌ Closed PR [#51](https://github.com/rollkit/local-celestia-devnet/pull/51) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+3. 🗣 Commented on [#168](https://github.com/celestiaorg/optimism/issues/168) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+4. 💪 Opened PR [#23](https://github.com/celestiaorg/testground/pull/23) in [celestiaorg/testground](https://github.com/celestiaorg/testground)
+5. 💪 Opened PR [#195](https://github.com/rollkit/docs/pull/195) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
