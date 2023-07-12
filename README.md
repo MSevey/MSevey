@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/celestiaorg/testground/pull/24) in [celestiaorg/testground](https://github.com/celestiaorg/testground)
-2. 💪 Opened PR [#52](https://github.com/rollkit/local-celestia-devnet/pull/52) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-3. ❌ Closed PR [#51](https://github.com/rollkit/local-celestia-devnet/pull/51) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-4. 🗣 Commented on [#168](https://github.com/celestiaorg/optimism/issues/168) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 💪 Opened PR [#23](https://github.com/celestiaorg/testground/pull/23) in [celestiaorg/testground](https://github.com/celestiaorg/testground)
+1. 💪 Opened PR [#330](https://github.com/celestiaorg/cosmos-sdk/pull/330) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
+2. 💪 Opened PR [#8](https://github.com/celestiaorg/explorer/pull/8) in [celestiaorg/explorer](https://github.com/celestiaorg/explorer)
+3. 💪 Opened PR [#7](https://github.com/celestiaorg/explorer/pull/7) in [celestiaorg/explorer](https://github.com/celestiaorg/explorer)
+4. 💪 Opened PR [#6](https://github.com/celestiaorg/explorer/pull/6) in [celestiaorg/explorer](https://github.com/celestiaorg/explorer)
+5. 💪 Opened PR [#5](https://github.com/celestiaorg/explorer/pull/5) in [celestiaorg/explorer](https://github.com/celestiaorg/explorer)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
