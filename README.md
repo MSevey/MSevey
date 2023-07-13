@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/celestiaorg/ethermint-faucet/pull/5) in [celestiaorg/ethermint-faucet](https://github.com/celestiaorg/ethermint-faucet)
-2. 💪 Opened PR [#4](https://github.com/celestiaorg/ethermint-faucet/pull/4) in [celestiaorg/ethermint-faucet](https://github.com/celestiaorg/ethermint-faucet)
-3. 💪 Opened PR [#3](https://github.com/celestiaorg/ethermint-faucet/pull/3) in [celestiaorg/ethermint-faucet](https://github.com/celestiaorg/ethermint-faucet)
-4. 🎉 Merged PR [#5](https://github.com/rollkit/.github/pull/5) in [rollkit/.github](https://github.com/rollkit/.github)
-5. 💪 Opened PR [#330](https://github.com/celestiaorg/cosmos-sdk/pull/330) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
+1. 💪 Opened PR [#234](https://github.com/celestiaorg/celestia.org/pull/234) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+2. 💪 Opened PR [#233](https://github.com/celestiaorg/celestia.org/pull/233) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+3. 💪 Opened PR [#232](https://github.com/celestiaorg/celestia.org/pull/232) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+4. 💪 Opened PR [#231](https://github.com/celestiaorg/celestia.org/pull/231) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+5. 💪 Opened PR [#230](https://github.com/celestiaorg/celestia.org/pull/230) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
