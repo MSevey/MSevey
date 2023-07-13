@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1069](https://github.com/rollkit/rollkit/issues/1069) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#539](https://github.com/rollkit/tendermint/pull/539) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
-3. 💪 Opened PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
-4. 💪 Opened PR [#171](https://github.com/celestiaorg/optimism/pull/171) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 💪 Opened PR [#234](https://github.com/celestiaorg/celestia.org/pull/234) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+1. 💪 Opened PR [#1071](https://github.com/rollkit/rollkit/pull/1071) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. ❗ Opened issue [#1070](https://github.com/rollkit/rollkit/issues/1070) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. ❗ Opened issue [#1069](https://github.com/rollkit/rollkit/issues/1069) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 💪 Opened PR [#539](https://github.com/rollkit/tendermint/pull/539) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+5. 💪 Opened PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
