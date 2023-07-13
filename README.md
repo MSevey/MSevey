@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/celestiaorg/optimism/pull/171) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-2. 💪 Opened PR [#234](https://github.com/celestiaorg/celestia.org/pull/234) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
-3. 💪 Opened PR [#233](https://github.com/celestiaorg/celestia.org/pull/233) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
-4. 💪 Opened PR [#232](https://github.com/celestiaorg/celestia.org/pull/232) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
-5. 💪 Opened PR [#231](https://github.com/celestiaorg/celestia.org/pull/231) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+1. 💪 Opened PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
+2. 💪 Opened PR [#171](https://github.com/celestiaorg/optimism/pull/171) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. 💪 Opened PR [#234](https://github.com/celestiaorg/celestia.org/pull/234) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+4. 💪 Opened PR [#233](https://github.com/celestiaorg/celestia.org/pull/233) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+5. 💪 Opened PR [#232](https://github.com/celestiaorg/celestia.org/pull/232) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
