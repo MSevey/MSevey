@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#172](https://github.com/celestiaorg/optimism/issues/172) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-2. 💪 Opened PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
-3. 💪 Opened PR [#1071](https://github.com/rollkit/rollkit/pull/1071) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. ❗ Opened issue [#1070](https://github.com/rollkit/rollkit/issues/1070) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#1069](https://github.com/rollkit/rollkit/issues/1069) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#145](https://github.com/mycodecareer/mycodecareer.github.io/pull/145#issuecomment-1636225985) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 🗣 Commented on [#144](https://github.com/mycodecareer/mycodecareer.github.io/pull/144#issuecomment-1636225188) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#147](https://github.com/mycodecareer/mycodecareer.github.io/pull/147) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. ❗ Opened issue [#172](https://github.com/celestiaorg/optimism/issues/172) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+5. 💪 Opened PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
