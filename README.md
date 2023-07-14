@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
-2. 💪 Opened PR [#1071](https://github.com/rollkit/rollkit/pull/1071) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❗ Opened issue [#1070](https://github.com/rollkit/rollkit/issues/1070) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. ❗ Opened issue [#1069](https://github.com/rollkit/rollkit/issues/1069) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#539](https://github.com/rollkit/tendermint/pull/539) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+1. ❗ Opened issue [#172](https://github.com/celestiaorg/optimism/issues/172) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+2. 💪 Opened PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
+3. 💪 Opened PR [#1071](https://github.com/rollkit/rollkit/pull/1071) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. ❗ Opened issue [#1070](https://github.com/rollkit/rollkit/issues/1070) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. ❗ Opened issue [#1069](https://github.com/rollkit/rollkit/issues/1069) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
