@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1079](https://github.com/rollkit/rollkit/issues/1079) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#145](https://github.com/mycodecareer/mycodecareer.github.io/pull/145#issuecomment-1636225985) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🗣 Commented on [#144](https://github.com/mycodecareer/mycodecareer.github.io/pull/144#issuecomment-1636225188) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 💪 Opened PR [#147](https://github.com/mycodecareer/mycodecareer.github.io/pull/147) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. ❗ Opened issue [#172](https://github.com/celestiaorg/optimism/issues/172) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+1. 🗣 Commented on [#1067](https://github.com/rollkit/rollkit/pull/1067#issuecomment-1638294471) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. ❗ Opened issue [#1079](https://github.com/rollkit/rollkit/issues/1079) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#145](https://github.com/mycodecareer/mycodecareer.github.io/pull/145#issuecomment-1636225985) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#144](https://github.com/mycodecareer/mycodecareer.github.io/pull/144#issuecomment-1636225188) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 💪 Opened PR [#147](https://github.com/mycodecareer/mycodecareer.github.io/pull/147) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
