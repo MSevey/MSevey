@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/rollkit/local-celestia-devnet/issues/54#issuecomment-1638326030) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-2. 🗣 Commented on [#1067](https://github.com/rollkit/rollkit/pull/1067#issuecomment-1638294471) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❗ Opened issue [#1079](https://github.com/rollkit/rollkit/issues/1079) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#145](https://github.com/mycodecareer/mycodecareer.github.io/pull/145#issuecomment-1636225985) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#144](https://github.com/mycodecareer/mycodecareer.github.io/pull/144#issuecomment-1636225188) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 💪 Opened PR [#43](https://github.com/celestiaorg/modularsummit.dev/pull/43) in [celestiaorg/modularsummit.dev](https://github.com/celestiaorg/modularsummit.dev)
+2. 💪 Opened PR [#42](https://github.com/celestiaorg/modularsummit.dev/pull/42) in [celestiaorg/modularsummit.dev](https://github.com/celestiaorg/modularsummit.dev)
+3. 💪 Opened PR [#41](https://github.com/celestiaorg/modularsummit.dev/pull/41) in [celestiaorg/modularsummit.dev](https://github.com/celestiaorg/modularsummit.dev)
+4. 🗣 Commented on [#54](https://github.com/rollkit/local-celestia-devnet/issues/54#issuecomment-1638326030) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+5. 🗣 Commented on [#1067](https://github.com/rollkit/rollkit/pull/1067#issuecomment-1638294471) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
