@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#148](https://github.com/mycodecareer/mycodecareer.github.io/pull/148) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🗣 Commented on [#7](https://github.com/rollkit/.github/pull/7#issuecomment-1640701234) in [rollkit/.github](https://github.com/rollkit/.github)
-3. 💪 Opened PR [#68](https://github.com/celestiaorg/.github/pull/68) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 💪 Opened PR [#55](https://github.com/rollkit/local-celestia-devnet/pull/55) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-5. 🚀 Published release [v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 🗣 Commented on [#2123](https://github.com/celestiaorg/celestia-app/issues/2123#issuecomment-1640751833) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. ❌ Closed PR [#148](https://github.com/mycodecareer/mycodecareer.github.io/pull/148) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🗣 Commented on [#7](https://github.com/rollkit/.github/pull/7#issuecomment-1640701234) in [rollkit/.github](https://github.com/rollkit/.github)
+4. 💪 Opened PR [#68](https://github.com/celestiaorg/.github/pull/68) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 💪 Opened PR [#55](https://github.com/rollkit/local-celestia-devnet/pull/55) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
