@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#544](https://github.com/rollkit/tendermint/pull/544) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
-2. 💪 Opened PR [#8](https://github.com/celestiaorg/spec/pull/8) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
-3. 🗣 Commented on [#2123](https://github.com/celestiaorg/celestia-app/issues/2123#issuecomment-1640751833) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-4. ❌ Closed PR [#148](https://github.com/mycodecareer/mycodecareer.github.io/pull/148) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#7](https://github.com/rollkit/.github/pull/7#issuecomment-1640701234) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 💪 Opened PR [#88](https://github.com/celestiaorg/ethermint/pull/88) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+2. 💪 Opened PR [#544](https://github.com/rollkit/tendermint/pull/544) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+3. 💪 Opened PR [#8](https://github.com/celestiaorg/spec/pull/8) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
+4. 🗣 Commented on [#2123](https://github.com/celestiaorg/celestia-app/issues/2123#issuecomment-1640751833) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. ❌ Closed PR [#148](https://github.com/mycodecareer/mycodecareer.github.io/pull/148) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
