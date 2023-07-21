@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/celestiaorg/testground-infra/pull/3) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
-2. 💪 Opened PR [#545](https://github.com/rollkit/tendermint/pull/545) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
-3. 💪 Opened PR [#1042](https://github.com/celestiaorg/celestia-core/pull/1042) in [celestiaorg/celestia-core](https://github.com/celestiaorg/celestia-core)
-4. 💪 Opened PR [#88](https://github.com/celestiaorg/ethermint/pull/88) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
-5. 💪 Opened PR [#544](https://github.com/rollkit/tendermint/pull/544) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+1. 💪 Opened PR [#2](https://github.com/rollkit/cometbft/pull/2) in [rollkit/cometbft](https://github.com/rollkit/cometbft)
+2. 💪 Opened PR [#3](https://github.com/celestiaorg/testground-infra/pull/3) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
+3. 💪 Opened PR [#545](https://github.com/rollkit/tendermint/pull/545) in [rollkit/tendermint](https://github.com/rollkit/tendermint)
+4. 💪 Opened PR [#1042](https://github.com/celestiaorg/celestia-core/pull/1042) in [celestiaorg/celestia-core](https://github.com/celestiaorg/celestia-core)
+5. 💪 Opened PR [#88](https://github.com/celestiaorg/ethermint/pull/88) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
