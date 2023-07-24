@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 💪 Opened PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🔒 Closed issue [#131](https://github.com/celestiaorg/optimism/issues/131) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-4. 🎉 Merged PR [#187](https://github.com/celestiaorg/optimism/pull/187) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 💪 Opened PR [#1](https://github.com/celestiaorg/arbitrum/pull/1) in [celestiaorg/arbitrum](https://github.com/celestiaorg/arbitrum)
+1. 💪 Opened PR [#89](https://github.com/celestiaorg/ethermint/pull/89) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+2. 🎉 Merged PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🔒 Closed issue [#131](https://github.com/celestiaorg/optimism/issues/131) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+5. 🎉 Merged PR [#187](https://github.com/celestiaorg/optimism/pull/187) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
