@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1093](https://github.com/rollkit/rollkit/pull/1093) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#89](https://github.com/celestiaorg/ethermint/pull/89) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
-3. 🎉 Merged PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 💪 Opened PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🔒 Closed issue [#131](https://github.com/celestiaorg/optimism/issues/131) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+1. ❗ Opened issue [#1096](https://github.com/rollkit/rollkit/issues/1096) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 💪 Opened PR [#1093](https://github.com/rollkit/rollkit/pull/1093) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 💪 Opened PR [#89](https://github.com/celestiaorg/ethermint/pull/89) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+4. 🎉 Merged PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 💪 Opened PR [#151](https://github.com/mycodecareer/mycodecareer.github.io/pull/151) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
