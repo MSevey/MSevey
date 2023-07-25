@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/celestiaorg/optimism/pull/189) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-2. ❌ Reopened PR [#1092](https://github.com/rollkit/rollkit/pull/1092) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❌ Closed PR [#1092](https://github.com/rollkit/rollkit/pull/1092) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#1092](https://github.com/rollkit/rollkit/pull/1092#issuecomment-1648064871) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#1096](https://github.com/rollkit/rollkit/issues/1096) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 💪 Opened PR [#1112](https://github.com/rollkit/rollkit/pull/1112) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#189](https://github.com/celestiaorg/optimism/pull/189) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. ❌ Reopened PR [#1092](https://github.com/rollkit/rollkit/pull/1092) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. ❌ Closed PR [#1092](https://github.com/rollkit/rollkit/pull/1092) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#1092](https://github.com/rollkit/rollkit/pull/1092#issuecomment-1648064871) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
