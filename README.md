@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/rollkit/cosmos-sdk/pull/39) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
-2. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764#issuecomment-1653763697) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
-3. 🗣 Commented on [#1069](https://github.com/rollkit/rollkit/issues/1069#issuecomment-1653758614) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#194](https://github.com/celestiaorg/optimism/pull/194) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 💪 Opened PR [#1112](https://github.com/rollkit/rollkit/pull/1112) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#57](https://github.com/rollkit/local-celestia-devnet/pull/57#issuecomment-1658356000) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+2. 🗣 Commented on [#57](https://github.com/rollkit/local-celestia-devnet/pull/57#issuecomment-1658348695) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+3. 🗣 Commented on [#20](https://github.com/celestiaorg/go-fraud/pull/20#issuecomment-1658345041) in [celestiaorg/go-fraud](https://github.com/celestiaorg/go-fraud)
+4. 🎉 Merged PR [#39](https://github.com/rollkit/cosmos-sdk/pull/39) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
+5. 🗣 Commented on [#5764](https://github.com/ethereum-optimism/optimism/issues/5764#issuecomment-1653763697) in [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
