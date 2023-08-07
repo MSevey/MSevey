@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1126](https://github.com/rollkit/rollkit/issues/1126) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#152](https://github.com/mycodecareer/mycodecareer.github.io/pull/152#issuecomment-1662241941) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🗣 Commented on [#158](https://github.com/mycodecareer/mycodecareer.github.io/pull/158#issuecomment-1662241724) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#159](https://github.com/mycodecareer/mycodecareer.github.io/pull/159#issuecomment-1662241377) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#153](https://github.com/mycodecareer/mycodecareer.github.io/pull/153#issuecomment-1662240785) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 💪 Opened PR [#931](https://github.com/celestiaorg/docs/pull/931) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. ❗ Opened issue [#1126](https://github.com/rollkit/rollkit/issues/1126) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#152](https://github.com/mycodecareer/mycodecareer.github.io/pull/152#issuecomment-1662241941) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🗣 Commented on [#158](https://github.com/mycodecareer/mycodecareer.github.io/pull/158#issuecomment-1662241724) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 🗣 Commented on [#159](https://github.com/mycodecareer/mycodecareer.github.io/pull/159#issuecomment-1662241377) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
