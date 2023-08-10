@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#207](https://github.com/rollkit/docs/pull/207) in [rollkit/docs](https://github.com/rollkit/docs)
-2. ❗ Opened issue [#208](https://github.com/rollkit/docs/issues/208) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 💪 Opened PR [#207](https://github.com/rollkit/docs/pull/207) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🎉 Merged PR [#206](https://github.com/rollkit/docs/pull/206) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 💪 Opened PR [#206](https://github.com/rollkit/docs/pull/206) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🗣 Commented on [#209](https://github.com/rollkit/docs/issues/209#issuecomment-1673510463) in [rollkit/docs](https://github.com/rollkit/docs)
+2. ❗ Opened issue [#209](https://github.com/rollkit/docs/issues/209) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🎉 Merged PR [#207](https://github.com/rollkit/docs/pull/207) in [rollkit/docs](https://github.com/rollkit/docs)
+4. ❗ Opened issue [#208](https://github.com/rollkit/docs/issues/208) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 💪 Opened PR [#207](https://github.com/rollkit/docs/pull/207) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
