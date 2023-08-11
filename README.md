@@ -4,7 +4,7 @@
   <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="icons/skynet.svg" />
 </a>
 <a href="https://twitter.com/matthewsevey">
-  <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="icons/x-logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sevey/">
   <img align="left" alt="Matthew's LinkedIn" width="22px" src="icons/LI-In-Bug.png" />
