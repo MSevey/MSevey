@@ -7,7 +7,7 @@
   <img align="left" alt="Matthew Sevey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sevey/">
-  <img align="left" alt="Matthew's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Matthew's LinkedIn" width="22px" src="icons/LI-In-Bug.png" />
 </a>
 <a href="https://www.reddit.com/user/MSevey">
   <img align="left" alt="Matthew's Reddit" width="22px" src="icons/reddit.svg" />
