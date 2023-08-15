@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/celestiaorg/optimism/pull/210) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-2. 💪 Opened PR [#9](https://github.com/celestiaorg/spec/pull/9) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
-3. 💪 Opened PR [#3](https://github.com/rollkit/cometbft/pull/3) in [rollkit/cometbft](https://github.com/rollkit/cometbft)
-4. 💪 Opened PR [#37](https://github.com/celestiaorg/evmos/pull/37) in [celestiaorg/evmos](https://github.com/celestiaorg/evmos)
-5. 💪 Opened PR [#90](https://github.com/celestiaorg/ethermint/pull/90) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+1. 🗣 Commented on [#222](https://github.com/rollkit/docs/pull/222#issuecomment-1679503931) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 💪 Opened PR [#210](https://github.com/celestiaorg/optimism/pull/210) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. 💪 Opened PR [#9](https://github.com/celestiaorg/spec/pull/9) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
+4. 💪 Opened PR [#3](https://github.com/rollkit/cometbft/pull/3) in [rollkit/cometbft](https://github.com/rollkit/cometbft)
+5. 💪 Opened PR [#37](https://github.com/celestiaorg/evmos/pull/37) in [celestiaorg/evmos](https://github.com/celestiaorg/evmos)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
