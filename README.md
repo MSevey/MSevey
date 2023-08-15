@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/celestiaorg/evmos/pull/37) in [celestiaorg/evmos](https://github.com/celestiaorg/evmos)
-2. 💪 Opened PR [#90](https://github.com/celestiaorg/ethermint/pull/90) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
-3. 💪 Opened PR [#4](https://github.com/celestiaorg/testground-infra/pull/4) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
-4. 💪 Opened PR [#208](https://github.com/celestiaorg/optimism/pull/208) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-5. 💪 Opened PR [#4](https://github.com/celestiaorg/cosmfaucet/pull/4) in [celestiaorg/cosmfaucet](https://github.com/celestiaorg/cosmfaucet)
+1. 💪 Opened PR [#9](https://github.com/celestiaorg/spec/pull/9) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
+2. 💪 Opened PR [#3](https://github.com/rollkit/cometbft/pull/3) in [rollkit/cometbft](https://github.com/rollkit/cometbft)
+3. 💪 Opened PR [#37](https://github.com/celestiaorg/evmos/pull/37) in [celestiaorg/evmos](https://github.com/celestiaorg/evmos)
+4. 💪 Opened PR [#90](https://github.com/celestiaorg/ethermint/pull/90) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
+5. 💪 Opened PR [#4](https://github.com/celestiaorg/testground-infra/pull/4) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
