@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1115](https://github.com/rollkit/rollkit/pull/1115#issuecomment-1682369187) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#222](https://github.com/rollkit/docs/pull/222#issuecomment-1679503931) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 💪 Opened PR [#210](https://github.com/celestiaorg/optimism/pull/210) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
-4. 💪 Opened PR [#9](https://github.com/celestiaorg/spec/pull/9) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
-5. 💪 Opened PR [#3](https://github.com/rollkit/cometbft/pull/3) in [rollkit/cometbft](https://github.com/rollkit/cometbft)
+1. 🗣 Commented on [#961](https://github.com/rollkit/rollkit/issues/961#issuecomment-1683984719) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🗣 Commented on [#1115](https://github.com/rollkit/rollkit/pull/1115#issuecomment-1682369187) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#222](https://github.com/rollkit/docs/pull/222#issuecomment-1679503931) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 💪 Opened PR [#210](https://github.com/celestiaorg/optimism/pull/210) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+5. 💪 Opened PR [#9](https://github.com/celestiaorg/spec/pull/9) in [celestiaorg/spec](https://github.com/celestiaorg/spec)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
