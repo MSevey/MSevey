@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#707](https://github.com/rollkit/rollkit/issues/707#issuecomment-1688238659) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#26](https://github.com/celestiaorg/testground/pull/26) in [celestiaorg/testground](https://github.com/celestiaorg/testground)
-3. 🔒 Closed issue [#208](https://github.com/rollkit/docs/issues/208) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#961](https://github.com/rollkit/rollkit/issues/961#issuecomment-1683984719) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#1115](https://github.com/rollkit/rollkit/pull/1115#issuecomment-1682369187) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. ❌ Closed PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
+2. ❌ Closed PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
+3. ❌ Closed PR [#3](https://github.com/celestiaorg/changelog-checker/pull/3) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
+4. ❌ Closed PR [#2](https://github.com/celestiaorg/changelog-checker/pull/2) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
+5. ❌ Closed PR [#1](https://github.com/celestiaorg/changelog-checker/pull/1) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
