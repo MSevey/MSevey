@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
-2. ❌ Closed PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
-3. ❌ Closed PR [#3](https://github.com/celestiaorg/changelog-checker/pull/3) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
-4. ❌ Closed PR [#2](https://github.com/celestiaorg/changelog-checker/pull/2) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
-5. ❌ Closed PR [#1](https://github.com/celestiaorg/changelog-checker/pull/1) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
+1. 🔒 Closed issue [#338](https://github.com/celestiaorg/networks/issues/338) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+2. 🎉 Merged PR [#339](https://github.com/celestiaorg/networks/pull/339) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+3. ❌ Closed PR [#20](https://github.com/celestiaorg/protobuf3-solidity/pull/20) in [celestiaorg/protobuf3-solidity](https://github.com/celestiaorg/protobuf3-solidity)
+4. ❌ Closed PR [#36](https://github.com/rollkit/cosmos-sdk/pull/36) in [rollkit/cosmos-sdk](https://github.com/rollkit/cosmos-sdk)
+5. ❌ Closed PR [#3](https://github.com/celestiaorg/changelog-checker/pull/3) in [celestiaorg/changelog-checker](https://github.com/celestiaorg/changelog-checker)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
