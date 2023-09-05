@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/MSevey/simple-go/releases/tag/v0.1.1) in [MSevey/simple-go](https://github.com/MSevey/simple-go)
-2. 🗣 Commented on [#1154](https://github.com/rollkit/rollkit/pull/1154#issuecomment-1699186472) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#1159](https://github.com/rollkit/rollkit/pull/1159) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#951](https://github.com/celestiaorg/docs/issues/951) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-5. 🔒 Closed issue [#944](https://github.com/celestiaorg/docs/issues/944) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+1. 💪 Opened PR [#2](https://github.com/MSevey/celestia-node/pull/2) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+2. 🚀 Published release [v0.1.1](https://github.com/MSevey/simple-go/releases/tag/v0.1.1) in [MSevey/simple-go](https://github.com/MSevey/simple-go)
+3. 🗣 Commented on [#1154](https://github.com/rollkit/rollkit/pull/1154#issuecomment-1699186472) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#1159](https://github.com/rollkit/rollkit/pull/1159) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🔒 Closed issue [#951](https://github.com/celestiaorg/docs/issues/951) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
