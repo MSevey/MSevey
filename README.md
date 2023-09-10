@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - test goreleaser](https://github.com/MSevey/celestia-node/releases/tag/v1.0.0) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
-2. 🎉 Merged PR [#3](https://github.com/MSevey/celestia-node/pull/3) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
-3. 💪 Opened PR [#3](https://github.com/MSevey/celestia-node/pull/3) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
-4. ❗ Opened issue [#2679](https://github.com/celestiaorg/celestia-node/issues/2679) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-5. ❗ Opened issue [#2452](https://github.com/celestiaorg/celestia-app/issues/2452) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 🎉 Merged PR [#2448](https://github.com/celestiaorg/celestia-app/pull/2448) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 🚀 Published release [v1.0.0 - test goreleaser](https://github.com/MSevey/celestia-node/releases/tag/v1.0.0) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+3. 🎉 Merged PR [#3](https://github.com/MSevey/celestia-node/pull/3) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+4. 💪 Opened PR [#3](https://github.com/MSevey/celestia-node/pull/3) in [MSevey/celestia-node](https://github.com/MSevey/celestia-node)
+5. ❗ Opened issue [#2679](https://github.com/celestiaorg/celestia-node/issues/2679) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
