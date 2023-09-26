@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1211](https://github.com/rollkit/rollkit/pull/1211) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🔒 Closed issue [#627](https://github.com/rollkit/rollkit/issues/627) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#1200](https://github.com/rollkit/rollkit/pull/1200) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#111](https://github.com/celestiaorg/go-header/pull/111) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-5. 🗣 Commented on [#66](https://github.com/rollkit/local-celestia-devnet/pull/66#issuecomment-1733865208) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+1. 🗣 Commented on [#111](https://github.com/celestiaorg/go-header/pull/111#issuecomment-1736158424) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
+2. 🎉 Merged PR [#1211](https://github.com/rollkit/rollkit/pull/1211) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🔒 Closed issue [#627](https://github.com/rollkit/rollkit/issues/627) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#1200](https://github.com/rollkit/rollkit/pull/1200) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 💪 Opened PR [#111](https://github.com/celestiaorg/go-header/pull/111) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
