@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747083739) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-2. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747052384) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-3. 🎉 Merged PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 💪 Opened PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 💪 Opened PR [#1221](https://github.com/rollkit/rollkit/pull/1221) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 💪 Opened PR [#1106](https://github.com/celestiaorg/docs/pull/1106) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747102265) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747083739) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+4. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747052384) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+5. 🎉 Merged PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
