@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 💪 Opened PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 💪 Opened PR [#1221](https://github.com/rollkit/rollkit/pull/1221) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#256](https://github.com/rollkit/docs/issues/256) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🎉 Merged PR [#257](https://github.com/rollkit/docs/pull/257) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747083739) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 🗣 Commented on [#1104](https://github.com/celestiaorg/docs/issues/1104#issuecomment-1747052384) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. 🎉 Merged PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 💪 Opened PR [#183](https://github.com/mycodecareer/mycodecareer.github.io/pull/183) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 💪 Opened PR [#1221](https://github.com/rollkit/rollkit/pull/1221) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
