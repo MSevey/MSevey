@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/MSevey/workflows/pull/31) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 💪 Opened PR [#31](https://github.com/MSevey/workflows/pull/31) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. 🎉 Merged PR [#30](https://github.com/MSevey/workflows/pull/30) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. 💪 Opened PR [#30](https://github.com/MSevey/workflows/pull/30) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 🎉 Merged PR [#29](https://github.com/MSevey/workflows/pull/29) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🎉 Merged PR [#32](https://github.com/MSevey/workflows/pull/32) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. 💪 Opened PR [#32](https://github.com/MSevey/workflows/pull/32) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 🎉 Merged PR [#31](https://github.com/MSevey/workflows/pull/31) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 💪 Opened PR [#31](https://github.com/MSevey/workflows/pull/31) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 🎉 Merged PR [#30](https://github.com/MSevey/workflows/pull/30) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
