@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/MSevey/workflows/pull/24) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 💪 Opened PR [#24](https://github.com/MSevey/workflows/pull/24) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. ❌ Closed PR [#76](https://github.com/celestiaorg/.github/pull/76) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#76](https://github.com/celestiaorg/.github/pull/76#issuecomment-1757777200) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#77](https://github.com/celestiaorg/.github/pull/77) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 💪 Opened PR [#27](https://github.com/MSevey/workflows/pull/27) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. 🎉 Merged PR [#26](https://github.com/MSevey/workflows/pull/26) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 💪 Opened PR [#26](https://github.com/MSevey/workflows/pull/26) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 🎉 Merged PR [#25](https://github.com/MSevey/workflows/pull/25) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 💪 Opened PR [#25](https://github.com/MSevey/workflows/pull/25) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
