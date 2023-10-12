@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#79](https://github.com/celestiaorg/.github/pull/79) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#79](https://github.com/celestiaorg/.github/pull/79#issuecomment-1759653017) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 💪 Opened PR [#1244](https://github.com/rollkit/rollkit/pull/1244) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#46](https://github.com/MSevey/workflows/pull/46) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 💪 Opened PR [#46](https://github.com/MSevey/workflows/pull/46) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🎉 Merged PR [#47](https://github.com/MSevey/workflows/pull/47) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. 🚀 Published release [v0.2.6](https://github.com/celestiaorg/.github/releases/tag/v0.2.6) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 💪 Opened PR [#80](https://github.com/celestiaorg/.github/pull/80) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 💪 Opened PR [#47](https://github.com/MSevey/workflows/pull/47) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 🎉 Merged PR [#2](https://github.com/rollkit/celestia-da/pull/2) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
