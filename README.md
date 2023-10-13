@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#354](https://github.com/celestiaorg/networks/pull/354) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-2. ❌ Closed PR [#356](https://github.com/celestiaorg/networks/pull/356) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-3. 💪 Opened PR [#356](https://github.com/celestiaorg/networks/pull/356) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-4. ❌ Closed PR [#355](https://github.com/celestiaorg/networks/pull/355) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-5. 💪 Opened PR [#355](https://github.com/celestiaorg/networks/pull/355) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+1. 🗣 Commented on [#261](https://github.com/rollkit/docs/pull/261#issuecomment-1762033421) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🗣 Commented on [#223](https://github.com/celestiaorg/optimism/pull/223#issuecomment-1762027971) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+3. ❌ Reopened PR [#354](https://github.com/celestiaorg/networks/pull/354) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+4. ❌ Closed PR [#356](https://github.com/celestiaorg/networks/pull/356) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+5. 💪 Opened PR [#356](https://github.com/celestiaorg/networks/pull/356) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
