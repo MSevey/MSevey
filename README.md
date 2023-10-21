@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#354](https://github.com/celestiaorg/networks/pull/354) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-2. 🗣 Commented on [#85](https://github.com/celestiaorg/.github/pull/85#issuecomment-1771519336) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. ❗ Opened issue [#113](https://github.com/necojackarc/auto-request-review/issues/113) in [necojackarc/auto-request-review](https://github.com/necojackarc/auto-request-review)
-4. 🎉 Merged PR [#1248](https://github.com/rollkit/rollkit/pull/1248) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#2688](https://github.com/celestiaorg/celestia-app/issues/2688) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#368](https://github.com/celestiaorg/networks/pull/368) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+2. 💪 Opened PR [#367](https://github.com/celestiaorg/networks/pull/367) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+3. 🗣 Commented on [#365](https://github.com/celestiaorg/networks/pull/365#issuecomment-1773802653) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+4. 🎉 Merged PR [#354](https://github.com/celestiaorg/networks/pull/354) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
+5. 🗣 Commented on [#85](https://github.com/celestiaorg/.github/pull/85#issuecomment-1771519336) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
