@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/celestiaorg/networks/pull/399#issuecomment-1774233432) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-2. 💪 Opened PR [#399](https://github.com/celestiaorg/networks/pull/399) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
-3. 💪 Opened PR [#20](https://github.com/celestiaorg/networks-temp/pull/20) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
-4. 💪 Opened PR [#19](https://github.com/celestiaorg/networks-temp/pull/19) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
-5. 💪 Opened PR [#18](https://github.com/celestiaorg/networks-temp/pull/18) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
+1. 🗣 Commented on [#85](https://github.com/celestiaorg/.github/pull/85#issuecomment-1775335563) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. ❌ Closed PR [#21](https://github.com/celestiaorg/networks-temp/pull/21) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
+3. ❌ Closed PR [#19](https://github.com/celestiaorg/networks-temp/pull/19) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
+4. ❌ Closed PR [#18](https://github.com/celestiaorg/networks-temp/pull/18) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
+5. ❌ Closed PR [#17](https://github.com/celestiaorg/networks-temp/pull/17) in [celestiaorg/networks-temp](https://github.com/celestiaorg/networks-temp)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
