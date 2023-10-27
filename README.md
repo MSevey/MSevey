@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1274](https://github.com/rollkit/rollkit/pull/1274) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#2745](https://github.com/celestiaorg/celestia-app/pull/2745#issuecomment-1782913183) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 🗣 Commented on [#2874](https://github.com/celestiaorg/celestia-node/pull/2874#issuecomment-1782884913) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 🗣 Commented on [#2773](https://github.com/celestiaorg/celestia-app/pull/2773#issuecomment-1782882841) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 🗣 Commented on [#49](https://github.com/celestiaorg/knuu-example/pull/49#issuecomment-1781637982) in [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example)
+1. ❗ Opened issue [#1286](https://github.com/rollkit/rollkit/issues/1286) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 💪 Opened PR [#1285](https://github.com/rollkit/rollkit/pull/1285) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#1274](https://github.com/rollkit/rollkit/pull/1274) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#2745](https://github.com/celestiaorg/celestia-app/pull/2745#issuecomment-1782913183) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. 🗣 Commented on [#2874](https://github.com/celestiaorg/celestia-node/pull/2874#issuecomment-1782884913) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
