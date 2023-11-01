@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/rollkit/local-celestia-devnet/pull/70) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
-2. 🎉 Merged PR [#1303](https://github.com/rollkit/rollkit/pull/1303) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❌ Closed PR [#4](https://github.com/celestiaorg/testground-infra/pull/4) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
-4. ❌ Closed PR [#90](https://github.com/celestiaorg/ethermint/pull/90) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
-5. 🗣 Commented on [#1302](https://github.com/rollkit/rollkit/pull/1302#issuecomment-1787268470) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 💪 Opened PR [#1304](https://github.com/rollkit/rollkit/pull/1304) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#70](https://github.com/rollkit/local-celestia-devnet/pull/70) in [rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)
+3. 🎉 Merged PR [#1303](https://github.com/rollkit/rollkit/pull/1303) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. ❌ Closed PR [#4](https://github.com/celestiaorg/testground-infra/pull/4) in [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)
+5. ❌ Closed PR [#90](https://github.com/celestiaorg/ethermint/pull/90) in [celestiaorg/ethermint](https://github.com/celestiaorg/ethermint)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
