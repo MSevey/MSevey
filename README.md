@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1296](https://github.com/rollkit/rollkit/issues/1296) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#1295](https://github.com/rollkit/rollkit/pull/1295) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#355](https://github.com/celestiaorg/cosmos-sdk/issues/355#issuecomment-1795171983) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
-4. 🔒 Closed issue [#609](https://github.com/celestiaorg/devops/issues/609) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🗣 Commented on [#609](https://github.com/celestiaorg/devops/issues/609#issuecomment-1795162472) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 🔒 Closed issue [#83](https://github.com/celestiaorg/.github/issues/83) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🎉 Merged PR [#84](https://github.com/celestiaorg/.github/pull/84) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🔒 Closed issue [#234](https://github.com/celestiaorg/optimism/issues/234) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+4. 🎉 Merged PR [#242](https://github.com/celestiaorg/optimism/pull/242) in [celestiaorg/optimism](https://github.com/celestiaorg/optimism)
+5. 🗣 Commented on [#523](https://github.com/celestiaorg/networks/pull/523#issuecomment-1799533677) in [celestiaorg/networks](https://github.com/celestiaorg/networks)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
