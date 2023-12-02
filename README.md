@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836694827) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-2. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836585159) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-3. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836427763) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
-4. 🗣 Commented on [#191](https://github.com/mycodecareer/mycodecareer.github.io/pull/191#issuecomment-1836291753) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🗣 Commented on [#191](https://github.com/mycodecareer/mycodecareer.github.io/pull/191#issuecomment-1836290247) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🗣 Commented on [#1362](https://github.com/rollkit/rollkit/issues/1362#issuecomment-1836997063) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#9](https://github.com/rollkit/.github/pull/9) in [rollkit/.github](https://github.com/rollkit/.github)
+3. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836694827) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
+4. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836585159) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
+5. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836427763) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
