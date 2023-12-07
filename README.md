@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/rollkit/go-da/issues/12) in [rollkit/go-da](https://github.com/rollkit/go-da)
-2. 🎉 Merged PR [#23](https://github.com/rollkit/go-da/pull/23) in [rollkit/go-da](https://github.com/rollkit/go-da)
-3. 🎉 Merged PR [#1376](https://github.com/rollkit/rollkit/pull/1376) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#24](https://github.com/celestiaorg/bittwister/issues/24) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
-5. 🎉 Merged PR [#25](https://github.com/celestiaorg/bittwister/pull/25) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
+1. 🔒 Closed issue [#1233](https://github.com/rollkit/rollkit/issues/1233) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1385](https://github.com/rollkit/rollkit/pull/1385) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#27](https://github.com/rollkit/celestia-da/pull/27) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
+4. 🔒 Closed issue [#12](https://github.com/rollkit/go-da/issues/12) in [rollkit/go-da](https://github.com/rollkit/go-da)
+5. 🎉 Merged PR [#23](https://github.com/rollkit/go-da/pull/23) in [rollkit/go-da](https://github.com/rollkit/go-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
