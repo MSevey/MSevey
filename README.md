@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/celestiaorg/bittwister/issues/24) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
-2. 🎉 Merged PR [#25](https://github.com/celestiaorg/bittwister/pull/25) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
-3. 🗣 Commented on [#1362](https://github.com/rollkit/rollkit/issues/1362#issuecomment-1836997063) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#9](https://github.com/rollkit/.github/pull/9) in [rollkit/.github](https://github.com/rollkit/.github)
-5. 🗣 Commented on [#116](https://github.com/celestiaorg/go-header/pull/116#issuecomment-1836694827) in [celestiaorg/go-header](https://github.com/celestiaorg/go-header)
+1. 🔒 Closed issue [#12](https://github.com/rollkit/go-da/issues/12) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. 🎉 Merged PR [#23](https://github.com/rollkit/go-da/pull/23) in [rollkit/go-da](https://github.com/rollkit/go-da)
+3. 🎉 Merged PR [#1376](https://github.com/rollkit/rollkit/pull/1376) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🔒 Closed issue [#24](https://github.com/celestiaorg/bittwister/issues/24) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
+5. 🎉 Merged PR [#25](https://github.com/celestiaorg/bittwister/pull/25) in [celestiaorg/bittwister](https://github.com/celestiaorg/bittwister)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
