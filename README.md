@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/MSevey/celestia-da/releases/tag/v0.1.0) in [MSevey/celestia-da](https://github.com/MSevey/celestia-da)
-2. 🎉 Merged PR [#56](https://github.com/rollkit/celestia-da/pull/56) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
-3. 💪 Opened PR [#56](https://github.com/rollkit/celestia-da/pull/56) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
-4. 🎉 Merged PR [#1442](https://github.com/rollkit/rollkit/pull/1442) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❌ Closed PR [#1444](https://github.com/rollkit/rollkit/pull/1444) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 💪 Opened PR [#57](https://github.com/rollkit/celestia-da/pull/57) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
+2. 🚀 Published release [v0.1.0](https://github.com/MSevey/celestia-da/releases/tag/v0.1.0) in [MSevey/celestia-da](https://github.com/MSevey/celestia-da)
+3. 🎉 Merged PR [#56](https://github.com/rollkit/celestia-da/pull/56) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
+4. 💪 Opened PR [#56](https://github.com/rollkit/celestia-da/pull/56) in [rollkit/celestia-da](https://github.com/rollkit/celestia-da)
+5. 🎉 Merged PR [#1442](https://github.com/rollkit/rollkit/pull/1442) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
