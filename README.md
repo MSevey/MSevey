@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/celestiaorg/CIPs/pull/63) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
-2. ❗ Opened issue [#799](https://github.com/celestiaorg/devops/issues/799) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. 🎉 Merged PR [#59](https://github.com/celestiaorg/CIPs/pull/59) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
-4. 🗣 Commented on [#52](https://github.com/celestiaorg/CIPs/pull/52#issuecomment-1916915820) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
-5. 🎉 Merged PR [#1505](https://github.com/rollkit/rollkit/pull/1505) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#63](https://github.com/celestiaorg/CIPs/pull/63#issuecomment-1921673502) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
+2. 💪 Opened PR [#63](https://github.com/celestiaorg/CIPs/pull/63) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
+3. ❗ Opened issue [#799](https://github.com/celestiaorg/devops/issues/799) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🎉 Merged PR [#59](https://github.com/celestiaorg/CIPs/pull/59) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
+5. 🗣 Commented on [#52](https://github.com/celestiaorg/CIPs/pull/52#issuecomment-1916915820) in [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
