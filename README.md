@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#321](https://github.com/rollkit/docs/pull/321) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🎉 Merged PR [#1541](https://github.com/rollkit/rollkit/pull/1541) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#321](https://github.com/rollkit/docs/pull/321) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🔒 Closed issue [#1379](https://github.com/rollkit/rollkit/issues/1379) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1536](https://github.com/rollkit/rollkit/pull/1536) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#1539](https://github.com/rollkit/rollkit/pull/1539#issuecomment-1942151983) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#321](https://github.com/rollkit/docs/pull/321) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🎉 Merged PR [#1541](https://github.com/rollkit/rollkit/pull/1541) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 💪 Opened PR [#321](https://github.com/rollkit/docs/pull/321) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🔒 Closed issue [#1379](https://github.com/rollkit/rollkit/issues/1379) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
