@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/rollkit/avail-da/pull/8) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 🎉 Merged PR [#16](https://github.com/rollkit/avail-da/pull/16) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-3. 💪 Opened PR [#19](https://github.com/rollkit/avail-da/pull/19) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-4. 💪 Opened PR [#18](https://github.com/rollkit/avail-da/pull/18) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-5. 💪 Opened PR [#17](https://github.com/rollkit/avail-da/pull/17) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+1. 🎉 Merged PR [#1542](https://github.com/rollkit/rollkit/pull/1542) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#8](https://github.com/rollkit/avail-da/pull/8) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+3. 🎉 Merged PR [#16](https://github.com/rollkit/avail-da/pull/16) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+4. 💪 Opened PR [#19](https://github.com/rollkit/avail-da/pull/19) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+5. 💪 Opened PR [#18](https://github.com/rollkit/avail-da/pull/18) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
