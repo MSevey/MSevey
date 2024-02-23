@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1430](https://github.com/celestiaorg/docs/pull/1430) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-2. 🎉 Merged PR [#3](https://github.com/Manav-Aggarwal/herd-mentality/pull/3) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
-3. 🎉 Merged PR [#2](https://github.com/Manav-Aggarwal/herd-mentality/pull/2) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
-4. 💪 Opened PR [#2](https://github.com/Manav-Aggarwal/herd-mentality/pull/2) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
-5. ❌ Closed PR [#356](https://github.com/celestiaorg/celestia.org/pull/356) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+1. 🎉 Merged PR [#1549](https://github.com/rollkit/rollkit/pull/1549) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 💪 Opened PR [#1430](https://github.com/celestiaorg/docs/pull/1430) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. 🎉 Merged PR [#3](https://github.com/Manav-Aggarwal/herd-mentality/pull/3) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
+4. 🎉 Merged PR [#2](https://github.com/Manav-Aggarwal/herd-mentality/pull/2) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
+5. 💪 Opened PR [#2](https://github.com/Manav-Aggarwal/herd-mentality/pull/2) in [Manav-Aggarwal/herd-mentality](https://github.com/Manav-Aggarwal/herd-mentality)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
