@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#332](https://github.com/rollkit/docs/pull/332) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🗣 Commented on [#332](https://github.com/rollkit/docs/pull/332#issuecomment-2013161444) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 💪 Opened PR [#332](https://github.com/rollkit/docs/pull/332) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 💪 Opened PR [#1605](https://github.com/rollkit/rollkit/pull/1605) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#1603](https://github.com/rollkit/rollkit/pull/1603) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 💪 Opened PR [#1493](https://github.com/celestiaorg/docs/pull/1493) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 🎉 Merged PR [#1608](https://github.com/rollkit/rollkit/pull/1608) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#1602](https://github.com/rollkit/rollkit/issues/1602#issuecomment-2013215610) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#332](https://github.com/rollkit/docs/pull/332) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#332](https://github.com/rollkit/docs/pull/332#issuecomment-2013161444) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
