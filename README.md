@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#847](https://github.com/celestiaorg/devops/issues/847) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-2. ❗ Opened issue [#1](https://github.com/MSevey/workflows-2/issues/1) in [MSevey/workflows-2](https://github.com/MSevey/workflows-2)
-3. 🔒 Closed issue [#1524](https://github.com/rollkit/rollkit/issues/1524) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#1609](https://github.com/rollkit/rollkit/pull/1609) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1612](https://github.com/rollkit/rollkit/pull/1612) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#883](https://github.com/rollkit/rollkit/issues/883) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1613](https://github.com/rollkit/rollkit/pull/1613) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. ❗ Opened issue [#849](https://github.com/celestiaorg/devops/issues/849) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🚀 Published release [v0.3.3](https://github.com/MSevey/workflows/releases/tag/v0.3.3) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. ❗ Opened issue [#848](https://github.com/celestiaorg/devops/issues/848) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
