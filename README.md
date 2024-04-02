@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/celestiaorg/.github/pull/102) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 💪 Opened PR [#101](https://github.com/celestiaorg/.github/pull/101) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 🗣 Commented on [#851](https://github.com/celestiaorg/devops/issues/851#issuecomment-2027428922) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🔒 Closed issue [#851](https://github.com/celestiaorg/devops/issues/851) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. ❗ Opened issue [#851](https://github.com/celestiaorg/devops/issues/851) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 🎉 Merged PR [#1615](https://github.com/rollkit/rollkit/pull/1615) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 💪 Opened PR [#102](https://github.com/celestiaorg/.github/pull/102) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 💪 Opened PR [#101](https://github.com/celestiaorg/.github/pull/101) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🗣 Commented on [#851](https://github.com/celestiaorg/devops/issues/851#issuecomment-2027428922) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#851](https://github.com/celestiaorg/devops/issues/851) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
