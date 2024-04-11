@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1622](https://github.com/rollkit/rollkit/pull/1622) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#1623](https://github.com/rollkit/rollkit/pull/1623) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#1623](https://github.com/rollkit/rollkit/pull/1623) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#1622](https://github.com/rollkit/rollkit/pull/1622) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#1621](https://github.com/rollkit/rollkit/pull/1621) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1621](https://github.com/rollkit/rollkit/pull/1621) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1626](https://github.com/rollkit/rollkit/pull/1626) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#1628](https://github.com/rollkit/rollkit/pull/1628) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#1627](https://github.com/rollkit/rollkit/pull/1627) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🎉 Merged PR [#1622](https://github.com/rollkit/rollkit/pull/1622) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
