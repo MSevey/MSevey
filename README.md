@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1540](https://github.com/celestiaorg/docs/pull/1540) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
-2. 💪 Opened PR [#350](https://github.com/rollkit/docs/pull/350) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 💪 Opened PR [#104](https://github.com/celestiaorg/.github/pull/104) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🗣 Commented on [#860](https://github.com/celestiaorg/devops/issues/860#issuecomment-2072373156) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 💪 Opened PR [#1637](https://github.com/rollkit/rollkit/pull/1637) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1636](https://github.com/rollkit/rollkit/pull/1636) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1637](https://github.com/rollkit/rollkit/pull/1637) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#351](https://github.com/rollkit/docs/pull/351) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#1540](https://github.com/celestiaorg/docs/pull/1540) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+5. 💪 Opened PR [#350](https://github.com/rollkit/docs/pull/350) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
