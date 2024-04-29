@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1643](https://github.com/rollkit/rollkit/pull/1643) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#2](https://github.com/rollkit/cosmos-sdk-starter/pull/2) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-3. 💪 Opened PR [#1639](https://github.com/rollkit/rollkit/pull/1639) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#1636](https://github.com/rollkit/rollkit/pull/1636) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1637](https://github.com/rollkit/rollkit/pull/1637) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#239](https://github.com/mycodecareer/mycodecareer.github.io/pull/239) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+2. 💪 Opened PR [#239](https://github.com/mycodecareer/mycodecareer.github.io/pull/239) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 💪 Opened PR [#1643](https://github.com/rollkit/rollkit/pull/1643) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 💪 Opened PR [#2](https://github.com/rollkit/cosmos-sdk-starter/pull/2) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+5. 💪 Opened PR [#1639](https://github.com/rollkit/rollkit/pull/1639) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
