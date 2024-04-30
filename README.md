@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/MSevey/workflows/releases/tag/v0.4.0) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 🚀 Published release [v0.3.6](https://github.com/MSevey/workflows/releases/tag/v0.3.6) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. 🚀 Published release [v0.3.6](https://github.com/MSevey/workflows/releases/tag/v0.3.6) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. 🗣 Commented on [#864](https://github.com/celestiaorg/devops/issues/864#issuecomment-2085275110) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🔒 Closed issue [#864](https://github.com/celestiaorg/devops/issues/864) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 💪 Opened PR [#3413](https://github.com/celestiaorg/celestia-app/pull/3413) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+2. 💪 Opened PR [#3351](https://github.com/celestiaorg/celestia-node/pull/3351) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 🚀 Published release [v0.4.3](https://github.com/MSevey/workflows/releases/tag/v0.4.3) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 🚀 Published release [v0.4.2](https://github.com/MSevey/workflows/releases/tag/v0.4.2) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 🚀 Published release [v0.4.1](https://github.com/MSevey/workflows/releases/tag/v0.4.1) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
