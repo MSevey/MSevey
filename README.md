@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#240](https://github.com/mycodecareer/mycodecareer.github.io/pull/240) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 💪 Opened PR [#240](https://github.com/mycodecareer/mycodecareer.github.io/pull/240) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🎉 Merged PR [#1633](https://github.com/rollkit/rollkit/pull/1633) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#104](https://github.com/celestiaorg/.github/pull/104) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🗣 Commented on [#3335](https://github.com/celestiaorg/celestia-node/issues/3335#issuecomment-2082932262) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. 🚀 Published release [v0.4.0](https://github.com/MSevey/workflows/releases/tag/v0.4.0) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. 🚀 Published release [v0.3.6](https://github.com/MSevey/workflows/releases/tag/v0.3.6) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 🚀 Published release [v0.3.6](https://github.com/MSevey/workflows/releases/tag/v0.3.6) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 🗣 Commented on [#864](https://github.com/celestiaorg/devops/issues/864#issuecomment-2085275110) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#864](https://github.com/celestiaorg/devops/issues/864) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
