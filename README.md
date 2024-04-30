@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3413](https://github.com/celestiaorg/celestia-app/pull/3413) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 💪 Opened PR [#3351](https://github.com/celestiaorg/celestia-node/pull/3351) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 🚀 Published release [v0.4.3](https://github.com/MSevey/workflows/releases/tag/v0.4.3) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. 🚀 Published release [v0.4.2](https://github.com/MSevey/workflows/releases/tag/v0.4.2) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 🚀 Published release [v0.4.1](https://github.com/MSevey/workflows/releases/tag/v0.4.1) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🗣 Commented on [#680](https://github.com/celestiaorg/devops/issues/680#issuecomment-2085528345) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🗣 Commented on [#3413](https://github.com/celestiaorg/celestia-app/pull/3413#issuecomment-2085516148) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. 💪 Opened PR [#3413](https://github.com/celestiaorg/celestia-app/pull/3413) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 💪 Opened PR [#3351](https://github.com/celestiaorg/celestia-node/pull/3351) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+5. 🚀 Published release [v0.4.3](https://github.com/MSevey/workflows/releases/tag/v0.4.3) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
