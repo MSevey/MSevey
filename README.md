@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#860](https://github.com/celestiaorg/devops/issues/860) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-2. 🎉 Merged PR [#7](https://github.com/celestiaorg/PromptScavenger/pull/7) in [celestiaorg/PromptScavenger](https://github.com/celestiaorg/PromptScavenger)
-3. 🗣 Commented on [#680](https://github.com/celestiaorg/devops/issues/680#issuecomment-2085528345) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🗣 Commented on [#3413](https://github.com/celestiaorg/celestia-app/pull/3413#issuecomment-2085516148) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 💪 Opened PR [#3413](https://github.com/celestiaorg/celestia-app/pull/3413) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#358](https://github.com/rollkit/docs/pull/358) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🔒 Closed issue [#860](https://github.com/celestiaorg/devops/issues/860) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🎉 Merged PR [#7](https://github.com/celestiaorg/PromptScavenger/pull/7) in [celestiaorg/PromptScavenger](https://github.com/celestiaorg/PromptScavenger)
+4. 🗣 Commented on [#680](https://github.com/celestiaorg/devops/issues/680#issuecomment-2085528345) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🗣 Commented on [#3413](https://github.com/celestiaorg/celestia-app/pull/3413#issuecomment-2085516148) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
