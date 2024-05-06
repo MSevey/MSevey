@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1320](https://github.com/rollkit/rollkit/issues/1320) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#1656](https://github.com/rollkit/rollkit/pull/1656) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#6](https://github.com/rollkit/cosmos-sdk-starter/pull/6) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-4. 🎉 Merged PR [#31](https://github.com/celestiaorg/utils/pull/31) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-5. 🎉 Merged PR [#365](https://github.com/rollkit/docs/pull/365) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🔒 Closed issue [#2](https://github.com/rollkit/homebrew-rollkit/issues/2) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
+2. ❗ Opened issue [#3](https://github.com/rollkit/homebrew-rollkit/issues/3) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
+3. ❗ Opened issue [#2](https://github.com/rollkit/homebrew-rollkit/issues/2) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
+4. ❗ Opened issue [#1](https://github.com/rollkit/homebrew-rollkit/issues/1) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
+5. 🔒 Closed issue [#1320](https://github.com/rollkit/rollkit/issues/1320) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
