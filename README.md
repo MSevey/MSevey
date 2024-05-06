@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/celestiaorg/utils/pull/31) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-2. 🎉 Merged PR [#365](https://github.com/rollkit/docs/pull/365) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🎉 Merged PR [#247](https://github.com/mycodecareer/mycodecareer.github.io/pull/247) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-4. 🗣 Commented on [#1605](https://github.com/rollkit/rollkit/pull/1605#issuecomment-2093323074) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❌ Closed PR [#1605](https://github.com/rollkit/rollkit/pull/1605) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#6](https://github.com/rollkit/cosmos-sdk-starter/pull/6) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. 🎉 Merged PR [#31](https://github.com/celestiaorg/utils/pull/31) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+3. 🎉 Merged PR [#365](https://github.com/rollkit/docs/pull/365) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#247](https://github.com/mycodecareer/mycodecareer.github.io/pull/247) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. 🗣 Commented on [#1605](https://github.com/rollkit/rollkit/pull/1605#issuecomment-2093323074) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
