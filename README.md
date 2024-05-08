@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/rollkit/avail-da/pull/41) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 🗣 Commented on [#118](https://github.com/celestiaorg/celestia-openrpc/pull/118#issuecomment-2100683170) in [celestiaorg/celestia-openrpc](https://github.com/celestiaorg/celestia-openrpc)
-3. 🎉 Merged PR [#1635](https://github.com/rollkit/rollkit/pull/1635) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#2](https://github.com/rollkit/homebrew-rollkit/issues/2) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
-5. ❗ Opened issue [#3](https://github.com/rollkit/homebrew-rollkit/issues/3) in [rollkit/homebrew-rollkit](https://github.com/rollkit/homebrew-rollkit)
+1. 🗣 Commented on [#118](https://github.com/celestiaorg/celestia-openrpc/pull/118#issuecomment-2100840567) in [celestiaorg/celestia-openrpc](https://github.com/celestiaorg/celestia-openrpc)
+2. 🗣 Commented on [#1658](https://github.com/rollkit/rollkit/pull/1658#issuecomment-2100819322) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#41](https://github.com/rollkit/avail-da/pull/41) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+4. 🗣 Commented on [#118](https://github.com/celestiaorg/celestia-openrpc/pull/118#issuecomment-2100683170) in [celestiaorg/celestia-openrpc](https://github.com/celestiaorg/celestia-openrpc)
+5. 🎉 Merged PR [#1635](https://github.com/rollkit/rollkit/pull/1635) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
