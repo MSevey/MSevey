@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/rollkit/avail-da/pull/42) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 🔒 Closed issue [#865](https://github.com/celestiaorg/devops/issues/865) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. 🗣 Commented on [#869](https://github.com/celestiaorg/devops/issues/869#issuecomment-2107546337) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🔒 Closed issue [#869](https://github.com/celestiaorg/devops/issues/869) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🗣 Commented on [#118](https://github.com/celestiaorg/celestia-openrpc/pull/118#issuecomment-2100840567) in [celestiaorg/celestia-openrpc](https://github.com/celestiaorg/celestia-openrpc)
+1. 💪 Opened PR [#374](https://github.com/rollkit/docs/pull/374) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🎉 Merged PR [#42](https://github.com/rollkit/avail-da/pull/42) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+3. 🔒 Closed issue [#865](https://github.com/celestiaorg/devops/issues/865) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🗣 Commented on [#869](https://github.com/celestiaorg/devops/issues/869#issuecomment-2107546337) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#869](https://github.com/celestiaorg/devops/issues/869) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
