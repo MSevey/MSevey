@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Matthew Sevey
-
+<!--
 <a href="http://sevey.hns.to">
   <img align="left" alt="Matthew Sevey | Skynet" width="22px" src="icons/skynet.svg" />
 </a>
@@ -15,31 +15,13 @@
 <a href="https://gitlab.com/MSevey">
   <img align="left" alt="Matthew Sevey | Gitlab" width="22px" src="icons/gitlab.svg" />
 </a>
-<!--
 <a href="https://www.instagram.com/trek2gether">
   <img align="left" alt="Trek2gether Instagram" width="22px" src="https://siasky.net/OAC__tLuDnjkesLyUfnF9Bd6Y0cSI4zPjvuXCGAnLiUCBw" />
 </a>
 -->
-
-<!--
-**MSevey/MSevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![](https://visitor-badge.glitch.me/badge?page_id=MSevey.MSevey)
   
  <img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="480" height="270"  /> 
-
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Director of Engineering and Career Coach
