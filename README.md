@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#343](https://github.com/celestiaorg/knuu/pull/343#issuecomment-2115487466) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 💪 Opened PR [#343](https://github.com/celestiaorg/knuu/pull/343) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. 🗣 Commented on [#9](https://github.com/rollkit/cosmos-sdk-starter/pull/9#issuecomment-2113269798) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-4. ❌ Closed PR [#9](https://github.com/rollkit/cosmos-sdk-starter/pull/9) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-5. 🎉 Merged PR [#1669](https://github.com/rollkit/rollkit/pull/1669) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#63](https://github.com/kninja900/kninja900/issues/63) in [kninja900/kninja900](https://github.com/kninja900/kninja900)
+2. 🔒 Closed issue [#210](https://github.com/celestiaorg/celestia.org/issues/210) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+3. 🗣 Commented on [#210](https://github.com/celestiaorg/celestia.org/issues/210#issuecomment-2117635343) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
+4. 🔒 Closed issue [#7](https://github.com/celestiaorg/.github/issues/7) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🔒 Closed issue [#6](https://github.com/celestiaorg/.github/issues/6) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
