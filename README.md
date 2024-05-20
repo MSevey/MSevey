@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#63](https://github.com/kninja900/kninja900/issues/63) in [kninja900/kninja900](https://github.com/kninja900/kninja900)
-2. 🔒 Closed issue [#210](https://github.com/celestiaorg/celestia.org/issues/210) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
-3. 🗣 Commented on [#210](https://github.com/celestiaorg/celestia.org/issues/210#issuecomment-2117635343) in [celestiaorg/celestia.org](https://github.com/celestiaorg/celestia.org)
-4. 🔒 Closed issue [#7](https://github.com/celestiaorg/.github/issues/7) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🔒 Closed issue [#6](https://github.com/celestiaorg/.github/issues/6) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 🗣 Commented on [#870](https://github.com/celestiaorg/devops/issues/870#issuecomment-2119495155) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🔒 Closed issue [#870](https://github.com/celestiaorg/devops/issues/870) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🗣 Commented on [#872](https://github.com/celestiaorg/devops/issues/872#issuecomment-2119494977) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🔒 Closed issue [#872](https://github.com/celestiaorg/devops/issues/872) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#63](https://github.com/kninja900/kninja900/issues/63) in [kninja900/kninja900](https://github.com/kninja900/kninja900)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
