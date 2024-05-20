@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#353](https://github.com/celestiaorg/knuu/issues/353#issuecomment-2120716841) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. ❗ Opened issue [#353](https://github.com/celestiaorg/knuu/issues/353) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. 💪 Opened PR [#25](https://github.com/decentrio/rollkit-sdk/pull/25) in [decentrio/rollkit-sdk](https://github.com/decentrio/rollkit-sdk)
-4. 🔒 Closed issue [#866](https://github.com/celestiaorg/devops/issues/866) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🗣 Commented on [#866](https://github.com/celestiaorg/devops/issues/866#issuecomment-2120520822) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. ❗ Opened issue [#1676](https://github.com/rollkit/rollkit/issues/1676) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🗣 Commented on [#353](https://github.com/celestiaorg/knuu/issues/353#issuecomment-2120716841) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+3. ❗ Opened issue [#353](https://github.com/celestiaorg/knuu/issues/353) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+4. 💪 Opened PR [#25](https://github.com/decentrio/rollkit-sdk/pull/25) in [decentrio/rollkit-sdk](https://github.com/decentrio/rollkit-sdk)
+5. 🔒 Closed issue [#866](https://github.com/celestiaorg/devops/issues/866) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
