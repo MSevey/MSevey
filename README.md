@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1657](https://github.com/rollkit/rollkit/pull/1657) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#1657](https://github.com/rollkit/rollkit/pull/1657#issuecomment-2122557388) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#16](https://github.com/rollkit/local-da/pull/16) in [rollkit/local-da](https://github.com/rollkit/local-da)
-4. ❗ Opened issue [#1676](https://github.com/rollkit/rollkit/issues/1676) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#353](https://github.com/celestiaorg/knuu/issues/353#issuecomment-2120716841) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+1. 🗣 Commented on [#336](https://github.com/celestiaorg/knuu/pull/336#issuecomment-2122850774) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+2. ❌ Closed PR [#1657](https://github.com/rollkit/rollkit/pull/1657) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#1657](https://github.com/rollkit/rollkit/pull/1657#issuecomment-2122557388) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#16](https://github.com/rollkit/local-da/pull/16) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. ❗ Opened issue [#1676](https://github.com/rollkit/rollkit/issues/1676) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
