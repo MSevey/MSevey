@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/MSevey/rollkit-temp/releases/tag/v0.2.0) in [MSevey/rollkit-temp](https://github.com/MSevey/rollkit-temp)
-2. 🚀 Published release [v0.1.0](https://github.com/MSevey/rollkit-temp/releases/tag/v0.1.0) in [MSevey/rollkit-temp](https://github.com/MSevey/rollkit-temp)
-3. 💪 Opened PR [#1682](https://github.com/rollkit/rollkit/pull/1682) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#356](https://github.com/celestiaorg/knuu/pull/356#issuecomment-2125157350) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-5. 🎉 Merged PR [#381](https://github.com/rollkit/docs/pull/381) in [rollkit/docs](https://github.com/rollkit/docs)
+1. ❗ Opened issue [#1683](https://github.com/rollkit/rollkit/issues/1683) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🚀 Published release [v0.2.0](https://github.com/MSevey/rollkit-temp/releases/tag/v0.2.0) in [MSevey/rollkit-temp](https://github.com/MSevey/rollkit-temp)
+3. 🚀 Published release [v0.1.0](https://github.com/MSevey/rollkit-temp/releases/tag/v0.1.0) in [MSevey/rollkit-temp](https://github.com/MSevey/rollkit-temp)
+4. 💪 Opened PR [#1682](https://github.com/rollkit/rollkit/pull/1682) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#356](https://github.com/celestiaorg/knuu/pull/356#issuecomment-2125157350) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
