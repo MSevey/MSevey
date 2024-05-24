@@ -42,10 +42,10 @@
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#248](https://github.com/mycodecareer/mycodecareer.github.io/pull/248) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🎉 Merged PR [#384](https://github.com/rollkit/docs/pull/384) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🎉 Merged PR [#385](https://github.com/rollkit/docs/pull/385) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#383](https://github.com/rollkit/docs/pull/383#issuecomment-2127752772) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🔒 Closed issue [#358](https://github.com/celestiaorg/knuu/issues/358) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+2. 🎉 Merged PR [#248](https://github.com/mycodecareer/mycodecareer.github.io/pull/248) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🎉 Merged PR [#384](https://github.com/rollkit/docs/pull/384) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#385](https://github.com/rollkit/docs/pull/385) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#383](https://github.com/rollkit/docs/pull/383#issuecomment-2127752772) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
