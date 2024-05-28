@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/celestiaorg/utils/pull/34) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-2. 💪 Opened PR [#1688](https://github.com/rollkit/rollkit/pull/1688) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#248](https://github.com/mycodecareer/mycodecareer.github.io/pull/248) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🎉 Merged PR [#1688](https://github.com/rollkit/rollkit/pull/1688) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#34](https://github.com/celestiaorg/utils/pull/34) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+3. 💪 Opened PR [#1688](https://github.com/rollkit/rollkit/pull/1688) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 4. 🎉 Merged PR [#248](https://github.com/mycodecareer/mycodecareer.github.io/pull/248) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🎉 Merged PR [#384](https://github.com/rollkit/docs/pull/384) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🎉 Merged PR [#248](https://github.com/mycodecareer/mycodecareer.github.io/pull/248) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
