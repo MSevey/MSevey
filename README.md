@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1682](https://github.com/rollkit/rollkit/pull/1682) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🔒 Closed issue [#1683](https://github.com/rollkit/rollkit/issues/1683) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❗ Opened issue [#406](https://github.com/celestiaorg/knuu/issues/406) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-4. ❗ Opened issue [#405](https://github.com/celestiaorg/knuu/issues/405) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-5. 🗣 Commented on [#384](https://github.com/celestiaorg/knuu/pull/384#issuecomment-2138416851) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+1. 💪 Opened PR [#107](https://github.com/celestiaorg/.github/pull/107) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🎉 Merged PR [#1682](https://github.com/rollkit/rollkit/pull/1682) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🔒 Closed issue [#1683](https://github.com/rollkit/rollkit/issues/1683) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. ❗ Opened issue [#406](https://github.com/celestiaorg/knuu/issues/406) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+5. ❗ Opened issue [#405](https://github.com/celestiaorg/knuu/issues/405) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
