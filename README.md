@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#412](https://github.com/celestiaorg/knuu/pull/412) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. ❗ Opened issue [#411](https://github.com/celestiaorg/knuu/issues/411) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. ❗ Opened issue [#410](https://github.com/celestiaorg/knuu/issues/410) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-4. 🎉 Merged PR [#401](https://github.com/celestiaorg/knuu/pull/401) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-5. 🔒 Closed issue [#403](https://github.com/celestiaorg/knuu/issues/403) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+1. 🗣 Commented on [#411](https://github.com/celestiaorg/knuu/issues/411#issuecomment-2142685371) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+2. 💪 Opened PR [#412](https://github.com/celestiaorg/knuu/pull/412) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+3. ❗ Opened issue [#411](https://github.com/celestiaorg/knuu/issues/411) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+4. ❗ Opened issue [#410](https://github.com/celestiaorg/knuu/issues/410) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+5. 🎉 Merged PR [#401](https://github.com/celestiaorg/knuu/pull/401) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
