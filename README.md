@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#414](https://github.com/celestiaorg/knuu/pull/414) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 🎉 Merged PR [#412](https://github.com/celestiaorg/knuu/pull/412) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. 🗣 Commented on [#1680](https://github.com/rollkit/rollkit/pull/1680#issuecomment-2145806248) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#842](https://github.com/celestiaorg/devops/issues/842#issuecomment-2145283182) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🗣 Commented on [#871](https://github.com/celestiaorg/devops/issues/871#issuecomment-2145238515) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 🎉 Merged PR [#1689](https://github.com/rollkit/rollkit/pull/1689) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#414](https://github.com/celestiaorg/knuu/pull/414) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+3. 🎉 Merged PR [#412](https://github.com/celestiaorg/knuu/pull/412) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+4. 🗣 Commented on [#1680](https://github.com/rollkit/rollkit/pull/1680#issuecomment-2145806248) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#842](https://github.com/celestiaorg/devops/issues/842#issuecomment-2145283182) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
