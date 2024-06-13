@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/celestiaorg/knuu/pull/416#issuecomment-2163330234) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 🗣 Commented on [#416](https://github.com/celestiaorg/knuu/pull/416#issuecomment-2163327594) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. 🗣 Commented on [#416](https://github.com/celestiaorg/knuu/pull/416#issuecomment-2163327227) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-4. ❗ Opened issue [#1703](https://github.com/rollkit/rollkit/issues/1703) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#1690](https://github.com/rollkit/rollkit/pull/1690#issuecomment-2162921672) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#877](https://github.com/celestiaorg/devops/issues/877) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🗣 Commented on [#3508](https://github.com/celestiaorg/celestia-app/issues/3508#issuecomment-2166023816) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+3. 🗣 Commented on [#3508](https://github.com/celestiaorg/celestia-app/issues/3508#issuecomment-2166015422) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 🗣 Commented on [#416](https://github.com/celestiaorg/knuu/pull/416#issuecomment-2163330234) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+5. 🗣 Commented on [#416](https://github.com/celestiaorg/knuu/pull/416#issuecomment-2163327594) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
