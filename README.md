@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1600](https://github.com/rollkit/rollkit/issues/1600#issuecomment-2186932813) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🔒 Closed issue [#1600](https://github.com/rollkit/rollkit/issues/1600) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#1658](https://github.com/rollkit/rollkit/pull/1658#issuecomment-2186913647) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#1658](https://github.com/rollkit/rollkit/pull/1658#issuecomment-2186905668) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#1658](https://github.com/rollkit/rollkit/pull/1658#issuecomment-2186905209) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#881](https://github.com/celestiaorg/devops/issues/881#issuecomment-2187222487) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🔒 Closed issue [#881](https://github.com/celestiaorg/devops/issues/881) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🗣 Commented on [#1600](https://github.com/rollkit/rollkit/issues/1600#issuecomment-2186932813) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🔒 Closed issue [#1600](https://github.com/rollkit/rollkit/issues/1600) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#1658](https://github.com/rollkit/rollkit/pull/1658#issuecomment-2186913647) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
