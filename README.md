@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1733](https://github.com/rollkit/rollkit/issues/1733#issuecomment-2189865235) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#954](https://github.com/rollkit/rollkit/issues/954#issuecomment-2189755556) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❗ Opened issue [#1731](https://github.com/rollkit/rollkit/issues/1731) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. ❗ Opened issue [#1730](https://github.com/rollkit/rollkit/issues/1730) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#459](https://github.com/celestiaorg/knuu/pull/459#issuecomment-2189650389) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+1. 💪 Opened PR [#21](https://github.com/rollkit/local-da/pull/21) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 💪 Opened PR [#12](https://github.com/rollkit/.github/pull/12) in [rollkit/.github](https://github.com/rollkit/.github)
+3. 🗣 Commented on [#1733](https://github.com/rollkit/rollkit/issues/1733#issuecomment-2189865235) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#954](https://github.com/rollkit/rollkit/issues/954#issuecomment-2189755556) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. ❗ Opened issue [#1731](https://github.com/rollkit/rollkit/issues/1731) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
