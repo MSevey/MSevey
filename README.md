@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rollkit/cosmos-sdk-starter/pull/15) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-2. 🎉 Merged PR [#22](https://github.com/rollkit/local-da/pull/22) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 🎉 Merged PR [#412](https://github.com/rollkit/docs/pull/412) in [rollkit/docs](https://github.com/rollkit/docs)
-4. ❗ Opened issue [#1744](https://github.com/rollkit/rollkit/issues/1744) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#1743](https://github.com/rollkit/rollkit/issues/1743) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#1431](https://github.com/rollkit/rollkit/issues/1431) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#96](https://github.com/rollkit/gm/pull/96) in [rollkit/gm](https://github.com/rollkit/gm)
+3. 🎉 Merged PR [#15](https://github.com/rollkit/cosmos-sdk-starter/pull/15) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+4. 🎉 Merged PR [#22](https://github.com/rollkit/local-da/pull/22) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. 🎉 Merged PR [#412](https://github.com/rollkit/docs/pull/412) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
