@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/rollkit/gm-frontend/releases/tag/v0.2.0) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
-2. 🚀 Published release [v0.1.0](https://github.com/rollkit/gm-frontend/releases/tag/v0.1.0) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
-3. 🗣 Commented on [#414](https://github.com/rollkit/docs/pull/414#issuecomment-2203768575) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#414](https://github.com/rollkit/docs/pull/414#issuecomment-2203768253) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🗣 Commented on [#97](https://github.com/rollkit/gm/pull/97#issuecomment-2203542999) in [rollkit/gm](https://github.com/rollkit/gm)
+1. 🚀 Published release [v0.3.0](https://github.com/rollkit/gm/releases/tag/v0.3.0) in [rollkit/gm](https://github.com/rollkit/gm)
+2. 🎉 Merged PR [#110](https://github.com/rollkit/gm/pull/110) in [rollkit/gm](https://github.com/rollkit/gm)
+3. 💪 Opened PR [#110](https://github.com/rollkit/gm/pull/110) in [rollkit/gm](https://github.com/rollkit/gm)
+4. 🚀 Published release [v0.2.0](https://github.com/rollkit/gm-frontend/releases/tag/v0.2.0) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
+5. 🚀 Published release [v0.1.0](https://github.com/rollkit/gm-frontend/releases/tag/v0.1.0) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
