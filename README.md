@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1762](https://github.com/rollkit/rollkit/pull/1762) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#23](https://github.com/rollkit/local-da/pull/23) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 🎉 Merged PR [#411](https://github.com/rollkit/docs/pull/411) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🔒 Closed issue [#884](https://github.com/celestiaorg/devops/issues/884) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🔒 Closed issue [#883](https://github.com/celestiaorg/devops/issues/883) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 💪 Opened PR [#85](https://github.com/rollkit/go-da/pull/85) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. 💪 Opened PR [#24](https://github.com/rollkit/local-da/pull/24) in [rollkit/local-da](https://github.com/rollkit/local-da)
+3. 💪 Opened PR [#1762](https://github.com/rollkit/rollkit/pull/1762) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#23](https://github.com/rollkit/local-da/pull/23) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. 🎉 Merged PR [#411](https://github.com/rollkit/docs/pull/411) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
