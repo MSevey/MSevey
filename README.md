@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1762](https://github.com/rollkit/rollkit/pull/1762) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#85](https://github.com/rollkit/go-da/pull/85) in [rollkit/go-da](https://github.com/rollkit/go-da)
-3. 🎉 Merged PR [#24](https://github.com/rollkit/local-da/pull/24) in [rollkit/local-da](https://github.com/rollkit/local-da)
-4. ❗ Opened issue [#1763](https://github.com/rollkit/rollkit/issues/1763) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🔒 Closed issue [#1744](https://github.com/rollkit/rollkit/issues/1744) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1764](https://github.com/rollkit/rollkit/pull/1764) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1762](https://github.com/rollkit/rollkit/pull/1762) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#85](https://github.com/rollkit/go-da/pull/85) in [rollkit/go-da](https://github.com/rollkit/go-da)
+4. 🎉 Merged PR [#24](https://github.com/rollkit/local-da/pull/24) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. ❗ Opened issue [#1763](https://github.com/rollkit/rollkit/issues/1763) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
