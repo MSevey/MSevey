@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#417](https://github.com/rollkit/docs/pull/417) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🗣 Commented on [#1](https://github.com/rollkit/cosmwasm/pull/1#issuecomment-2221289694) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
-3. ❌ Closed PR [#113](https://github.com/rollkit/gm/pull/113) in [rollkit/gm](https://github.com/rollkit/gm)
-4. 💪 Opened PR [#1](https://github.com/rollkit/cosmwasm/pull/1) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
-5. 🚀 Published release [v0.3.1](https://github.com/rollkit/gm/releases/tag/v0.3.1) in [rollkit/gm](https://github.com/rollkit/gm)
+1. 🎉 Merged PR [#418](https://github.com/rollkit/docs/pull/418) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🎉 Merged PR [#417](https://github.com/rollkit/docs/pull/417) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🗣 Commented on [#1](https://github.com/rollkit/cosmwasm/pull/1#issuecomment-2221289694) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
+4. ❌ Closed PR [#113](https://github.com/rollkit/gm/pull/113) in [rollkit/gm](https://github.com/rollkit/gm)
+5. 💪 Opened PR [#1](https://github.com/rollkit/cosmwasm/pull/1) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
