@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#503](https://github.com/celestiaorg/knuu/pull/503#issuecomment-2228502227) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 🎉 Merged PR [#418](https://github.com/rollkit/docs/pull/418) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🎉 Merged PR [#417](https://github.com/rollkit/docs/pull/417) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#1](https://github.com/rollkit/cosmwasm/pull/1#issuecomment-2221289694) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
-5. ❌ Closed PR [#113](https://github.com/rollkit/gm/pull/113) in [rollkit/gm](https://github.com/rollkit/gm)
+1. 🚀 Published release [test](https://github.com/celestiaorg/celestia-node/releases/tag/arabica-pfb-hotfix) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🗣 Commented on [#503](https://github.com/celestiaorg/knuu/pull/503#issuecomment-2228502227) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+3. 🎉 Merged PR [#418](https://github.com/rollkit/docs/pull/418) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#417](https://github.com/rollkit/docs/pull/417) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#1](https://github.com/rollkit/cosmwasm/pull/1#issuecomment-2221289694) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
