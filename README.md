@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1775](https://github.com/rollkit/rollkit/issues/1775) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#422](https://github.com/rollkit/docs/pull/422) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 💪 Opened PR [#1773](https://github.com/rollkit/rollkit/pull/1773) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. ❗ Opened issue [#421](https://github.com/rollkit/docs/issues/421) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🗣 Commented on [#3563](https://github.com/celestiaorg/celestia-node/pull/3563#issuecomment-2229297109) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+1. ❗ Opened issue [#4260](https://github.com/ignite/cli/issues/4260) in [ignite/cli](https://github.com/ignite/cli)
+2. ❗ Opened issue [#1775](https://github.com/rollkit/rollkit/issues/1775) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 💪 Opened PR [#422](https://github.com/rollkit/docs/pull/422) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 💪 Opened PR [#1773](https://github.com/rollkit/rollkit/pull/1773) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. ❗ Opened issue [#421](https://github.com/rollkit/docs/issues/421) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
