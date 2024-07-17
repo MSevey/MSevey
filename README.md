@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/rollkit/docs/pull/422#issuecomment-2231738619) in [rollkit/docs](https://github.com/rollkit/docs)
-2. ❗ Opened issue [#4260](https://github.com/ignite/cli/issues/4260) in [ignite/cli](https://github.com/ignite/cli)
-3. ❗ Opened issue [#1775](https://github.com/rollkit/rollkit/issues/1775) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#422](https://github.com/rollkit/docs/pull/422) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 💪 Opened PR [#1773](https://github.com/rollkit/rollkit/pull/1773) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. ❗ Opened issue [#1776](https://github.com/rollkit/rollkit/issues/1776) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#2](https://github.com/rollkit/wordle/pull/2) in [rollkit/wordle](https://github.com/rollkit/wordle)
+3. ❌ Closed PR [#13](https://github.com/rollkit/wordle/pull/13) in [rollkit/wordle](https://github.com/rollkit/wordle)
+4. ❌ Closed PR [#12](https://github.com/rollkit/wordle/pull/12) in [rollkit/wordle](https://github.com/rollkit/wordle)
+5. ❌ Closed PR [#11](https://github.com/rollkit/wordle/pull/11) in [rollkit/wordle](https://github.com/rollkit/wordle)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
