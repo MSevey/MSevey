@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
-2. 💪 Opened PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
-3. 🗣 Commented on [#1732](https://github.com/rollkit/rollkit/issues/1732#issuecomment-2234103305) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#1732](https://github.com/rollkit/rollkit/issues/1732) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#1777](https://github.com/rollkit/rollkit/issues/1777) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1773](https://github.com/rollkit/rollkit/pull/1773) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+3. 💪 Opened PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+4. 🗣 Commented on [#1732](https://github.com/rollkit/rollkit/issues/1732#issuecomment-2234103305) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🔒 Closed issue [#1732](https://github.com/rollkit/rollkit/issues/1732) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
