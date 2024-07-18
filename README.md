@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1776](https://github.com/rollkit/rollkit/issues/1776) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#2](https://github.com/rollkit/wordle/pull/2) in [rollkit/wordle](https://github.com/rollkit/wordle)
-3. ❌ Closed PR [#13](https://github.com/rollkit/wordle/pull/13) in [rollkit/wordle](https://github.com/rollkit/wordle)
-4. ❌ Closed PR [#12](https://github.com/rollkit/wordle/pull/12) in [rollkit/wordle](https://github.com/rollkit/wordle)
-5. ❌ Closed PR [#11](https://github.com/rollkit/wordle/pull/11) in [rollkit/wordle](https://github.com/rollkit/wordle)
+1. 💪 Opened PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+2. 🗣 Commented on [#1732](https://github.com/rollkit/rollkit/issues/1732#issuecomment-2234103305) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🔒 Closed issue [#1732](https://github.com/rollkit/rollkit/issues/1732) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. ❗ Opened issue [#1777](https://github.com/rollkit/rollkit/issues/1777) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🔒 Closed issue [#885](https://github.com/celestiaorg/devops/issues/885) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
