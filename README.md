@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#544](https://github.com/celestiaorg/knuu/issues/544) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 🔒 Closed issue [#1767](https://github.com/rollkit/rollkit/issues/1767) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#422](https://github.com/rollkit/docs/pull/422) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🎉 Merged PR [#1773](https://github.com/rollkit/rollkit/pull/1773) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1](https://github.com/rollkit/astria-sequencer/pull/1) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+1. 🎉 Merged PR [#26](https://github.com/rollkit/local-da/pull/26) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 🔒 Closed issue [#880](https://github.com/celestiaorg/devops/issues/880) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🔒 Closed issue [#879](https://github.com/celestiaorg/devops/issues/879) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🔒 Closed issue [#876](https://github.com/celestiaorg/devops/issues/876) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🗣 Commented on [#890](https://github.com/celestiaorg/devops/issues/890#issuecomment-2284468640) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
