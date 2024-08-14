@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#783](https://github.com/celestiaorg/devops/issues/783#issuecomment-2288784181) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-2. 🔒 Closed issue [#783](https://github.com/celestiaorg/devops/issues/783) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. ❌ Closed PR [#100](https://github.com/celestiaorg/.github/pull/100) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. ❌ Closed PR [#16](https://github.com/rollkit/wordle/pull/16) in [rollkit/wordle](https://github.com/rollkit/wordle)
-5. ❌ Closed PR [#15](https://github.com/rollkit/wordle/pull/15) in [rollkit/wordle](https://github.com/rollkit/wordle)
+1. 🚀 Published release [v0.1.0](https://github.com/rollkit/da-package/releases/tag/v0.1.0) in [rollkit/da-package](https://github.com/rollkit/da-package)
+2. 🗣 Commented on [#783](https://github.com/celestiaorg/devops/issues/783#issuecomment-2288784181) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🔒 Closed issue [#783](https://github.com/celestiaorg/devops/issues/783) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. ❌ Closed PR [#100](https://github.com/celestiaorg/.github/pull/100) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. ❌ Closed PR [#16](https://github.com/rollkit/wordle/pull/16) in [rollkit/wordle](https://github.com/rollkit/wordle)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
