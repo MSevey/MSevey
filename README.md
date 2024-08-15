@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/rollkit/da-package/releases/tag/v0.1.0) in [rollkit/da-package](https://github.com/rollkit/da-package)
-2. 🗣 Commented on [#783](https://github.com/celestiaorg/devops/issues/783#issuecomment-2288784181) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. 🔒 Closed issue [#783](https://github.com/celestiaorg/devops/issues/783) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. ❌ Closed PR [#100](https://github.com/celestiaorg/.github/pull/100) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. ❌ Closed PR [#16](https://github.com/rollkit/wordle/pull/16) in [rollkit/wordle](https://github.com/rollkit/wordle)
+1. 🔒 Closed issue [#477](https://github.com/rollkit/rollkit/issues/477) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1782](https://github.com/rollkit/rollkit/pull/1782) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🚀 Published release [v0.1.0](https://github.com/rollkit/da-package/releases/tag/v0.1.0) in [rollkit/da-package](https://github.com/rollkit/da-package)
+4. 🗣 Commented on [#783](https://github.com/celestiaorg/devops/issues/783#issuecomment-2288784181) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#783](https://github.com/celestiaorg/devops/issues/783) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
