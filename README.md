@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1799](https://github.com/rollkit/rollkit/issues/1799) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🔒 Closed issue [#477](https://github.com/rollkit/rollkit/issues/477) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#1782](https://github.com/rollkit/rollkit/pull/1782) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🚀 Published release [v0.1.0](https://github.com/rollkit/da-package/releases/tag/v0.1.0) in [rollkit/da-package](https://github.com/rollkit/da-package)
-5. 🗣 Commented on [#783](https://github.com/celestiaorg/devops/issues/783#issuecomment-2288784181) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 🎉 Merged PR [#81](https://github.com/rollkit/go-da/pull/81) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. ❗ Opened issue [#1799](https://github.com/rollkit/rollkit/issues/1799) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🔒 Closed issue [#477](https://github.com/rollkit/rollkit/issues/477) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#1782](https://github.com/rollkit/rollkit/pull/1782) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🚀 Published release [v0.1.0](https://github.com/rollkit/da-package/releases/tag/v0.1.0) in [rollkit/da-package](https://github.com/rollkit/da-package)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
