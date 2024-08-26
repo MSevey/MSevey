@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/rollkit/gm/pull/115) in [rollkit/gm](https://github.com/rollkit/gm)
-2. 🎉 Merged PR [#81](https://github.com/rollkit/go-da/pull/81) in [rollkit/go-da](https://github.com/rollkit/go-da)
-3. ❗ Opened issue [#1799](https://github.com/rollkit/rollkit/issues/1799) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🔒 Closed issue [#477](https://github.com/rollkit/rollkit/issues/477) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1782](https://github.com/rollkit/rollkit/pull/1782) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#843](https://github.com/celestiaorg/devops/issues/843) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🗣 Commented on [#894](https://github.com/celestiaorg/devops/issues/894#issuecomment-2310829239) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🔒 Closed issue [#894](https://github.com/celestiaorg/devops/issues/894) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+4. 🗣 Commented on [#893](https://github.com/celestiaorg/devops/issues/893#issuecomment-2310828765) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🔒 Closed issue [#893](https://github.com/celestiaorg/devops/issues/893) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
