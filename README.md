@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/mycodecareer/mycodecareer.github.io/pull/251#issuecomment-2319573302) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. 🔒 Closed issue [#843](https://github.com/celestiaorg/devops/issues/843) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-3. 🗣 Commented on [#894](https://github.com/celestiaorg/devops/issues/894#issuecomment-2310829239) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-4. 🔒 Closed issue [#894](https://github.com/celestiaorg/devops/issues/894) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
-5. 🗣 Commented on [#893](https://github.com/celestiaorg/devops/issues/893#issuecomment-2310828765) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+1. 🎉 Merged PR [#31](https://github.com/rollkit/cosmos-sdk-starter/pull/31) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. 🎉 Merged PR [#439](https://github.com/rollkit/docs/pull/439) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🗣 Commented on [#251](https://github.com/mycodecareer/mycodecareer.github.io/pull/251#issuecomment-2319573302) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 🔒 Closed issue [#843](https://github.com/celestiaorg/devops/issues/843) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+5. 🗣 Commented on [#894](https://github.com/celestiaorg/devops/issues/894#issuecomment-2310829239) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
