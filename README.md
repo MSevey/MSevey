@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/rollkit/local-da/pull/30#issuecomment-2328991320) in [rollkit/local-da](https://github.com/rollkit/local-da)
-2. 💪 Opened PR [#30](https://github.com/rollkit/local-da/pull/30) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 🎉 Merged PR [#13](https://github.com/rollkit/.github/pull/13) in [rollkit/.github](https://github.com/rollkit/.github)
-4. 🎉 Merged PR [#31](https://github.com/rollkit/cosmos-sdk-starter/pull/31) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-5. 🎉 Merged PR [#439](https://github.com/rollkit/docs/pull/439) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🔒 Closed issue [#891](https://github.com/celestiaorg/devops/issues/891) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+2. 🗣 Commented on [#891](https://github.com/celestiaorg/devops/issues/891#issuecomment-2329009548) in [celestiaorg/devops](https://github.com/celestiaorg/devops)
+3. 🗣 Commented on [#30](https://github.com/rollkit/local-da/pull/30#issuecomment-2328991320) in [rollkit/local-da](https://github.com/rollkit/local-da)
+4. 💪 Opened PR [#30](https://github.com/rollkit/local-da/pull/30) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. 🎉 Merged PR [#13](https://github.com/rollkit/.github/pull/13) in [rollkit/.github](https://github.com/rollkit/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
