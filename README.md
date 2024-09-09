@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/rollkit/avail-da/pull/34) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 🎉 Merged PR [#46](https://github.com/rollkit/avail-da/pull/46) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-3. 🎉 Merged PR [#48](https://github.com/rollkit/avail-da/pull/48) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-4. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2334293759) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#1830](https://github.com/rollkit/rollkit/pull/1830) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🗣 Commented on [#1](https://github.com/rollkit/local-da/pull/1#issuecomment-2338179890) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 🎉 Merged PR [#34](https://github.com/rollkit/avail-da/pull/34) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+3. 🎉 Merged PR [#46](https://github.com/rollkit/avail-da/pull/46) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+4. 🎉 Merged PR [#48](https://github.com/rollkit/avail-da/pull/48) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+5. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2334293759) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
