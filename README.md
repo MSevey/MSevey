@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245372) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-2. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245128) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-3. 💪 Opened PR [#24](https://github.com/rollkit/bitcoin-da/pull/24) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-4. 🗣 Commented on [#1](https://github.com/rollkit/local-da/pull/1#issuecomment-2338179890) in [rollkit/local-da](https://github.com/rollkit/local-da)
-5. 🎉 Merged PR [#34](https://github.com/rollkit/avail-da/pull/34) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+1. ❗ Opened issue [#25](https://github.com/rollkit/bitcoin-da/issues/25) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+2. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245372) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+3. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245128) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+4. 💪 Opened PR [#24](https://github.com/rollkit/bitcoin-da/pull/24) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+5. 🗣 Commented on [#1](https://github.com/rollkit/local-da/pull/1#issuecomment-2338179890) in [rollkit/local-da](https://github.com/rollkit/local-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
