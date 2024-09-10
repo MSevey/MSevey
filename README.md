@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#443](https://github.com/rollkit/docs/pull/443) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🎉 Merged PR [#111](https://github.com/celestiaorg/.github/pull/111) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. ❗ Opened issue [#25](https://github.com/rollkit/bitcoin-da/issues/25) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-4. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245372) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-5. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245128) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+1. 🗣 Commented on [#3692](https://github.com/celestiaorg/celestia-node/pull/3692#issuecomment-2340581295) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+2. 🎉 Merged PR [#443](https://github.com/rollkit/docs/pull/443) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🎉 Merged PR [#111](https://github.com/celestiaorg/.github/pull/111) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. ❗ Opened issue [#25](https://github.com/rollkit/bitcoin-da/issues/25) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+5. 🗣 Commented on [#24](https://github.com/rollkit/bitcoin-da/pull/24#issuecomment-2338245372) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
