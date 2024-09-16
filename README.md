@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3692](https://github.com/celestiaorg/celestia-node/pull/3692#issuecomment-2343775499) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🗣 Commented on [#3692](https://github.com/celestiaorg/celestia-node/pull/3692#issuecomment-2340581295) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 🎉 Merged PR [#443](https://github.com/rollkit/docs/pull/443) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🎉 Merged PR [#111](https://github.com/celestiaorg/.github/pull/111) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. ❗ Opened issue [#25](https://github.com/rollkit/bitcoin-da/issues/25) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+1. ❗ Opened issue [#48](https://github.com/MSevey/workflows/issues/48) in [MSevey/workflows](https://github.com/MSevey/workflows)
+2. 🗣 Commented on [#3692](https://github.com/celestiaorg/celestia-node/pull/3692#issuecomment-2343775499) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 🗣 Commented on [#3692](https://github.com/celestiaorg/celestia-node/pull/3692#issuecomment-2340581295) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+4. 🎉 Merged PR [#443](https://github.com/rollkit/docs/pull/443) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🎉 Merged PR [#111](https://github.com/celestiaorg/.github/pull/111) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
