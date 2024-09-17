@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/rollkit/bitcoin-da/pull/23) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-2. 🎉 Merged PR [#1847](https://github.com/rollkit/rollkit/pull/1847) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#1846](https://github.com/rollkit/rollkit/pull/1846) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#1846](https://github.com/rollkit/rollkit/pull/1846) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. ❗ Opened issue [#49](https://github.com/MSevey/workflows/issues/49) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 💪 Opened PR [#8](https://github.com/rollkit/gm-frontend/pull/8) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
+2. 💪 Opened PR [#5](https://github.com/rollkit/go-execution/pull/5) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+3. 💪 Opened PR [#5](https://github.com/rollkit/go-execution-abci/pull/5) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+4. 💪 Opened PR [#9](https://github.com/rollkit/astria-sequencer/pull/9) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+5. 💪 Opened PR [#51](https://github.com/rollkit/avail-da/pull/51) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
