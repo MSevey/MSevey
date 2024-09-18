@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1849](https://github.com/rollkit/rollkit/issues/1849) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#1848](https://github.com/rollkit/rollkit/pull/1848) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#8](https://github.com/rollkit/gm-frontend/pull/8) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
-4. 💪 Opened PR [#5](https://github.com/rollkit/go-execution/pull/5) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-5. 💪 Opened PR [#5](https://github.com/rollkit/go-execution-abci/pull/5) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+1. 🗣 Commented on [#36](https://github.com/rollkit/cosmos-sdk-starter/pull/36#issuecomment-2358849440) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. ❗ Opened issue [#37](https://github.com/rollkit/cosmos-sdk-starter/issues/37) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+3. 🎉 Merged PR [#24](https://github.com/rollkit/bitcoin-da/pull/24) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+4. ❗ Opened issue [#27](https://github.com/rollkit/bitcoin-da/issues/27) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+5. ❗ Opened issue [#1849](https://github.com/rollkit/rollkit/issues/1849) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
