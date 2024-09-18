@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/rollkit/go-execution-abci/pull/5) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
-2. 🎉 Merged PR [#20](https://github.com/rollkit/wordle/pull/20) in [rollkit/wordle](https://github.com/rollkit/wordle)
-3. 🎉 Merged PR [#120](https://github.com/rollkit/gm/pull/120) in [rollkit/gm](https://github.com/rollkit/gm)
-4. 🎉 Merged PR [#9](https://github.com/rollkit/astria-sequencer/pull/9) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
-5. 🎉 Merged PR [#8](https://github.com/rollkit/gm-frontend/pull/8) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
+1. 🎉 Merged PR [#455](https://github.com/rollkit/docs/pull/455) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🎉 Merged PR [#459](https://github.com/rollkit/docs/pull/459) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🎉 Merged PR [#29](https://github.com/rollkit/wordle/pull/29) in [rollkit/wordle](https://github.com/rollkit/wordle)
+4. 🎉 Merged PR [#30](https://github.com/rollkit/wordle/pull/30) in [rollkit/wordle](https://github.com/rollkit/wordle)
+5. 🎉 Merged PR [#9](https://github.com/rollkit/gm-frontend/pull/9) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
