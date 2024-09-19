@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/rollkit/go-da/pull/104) in [rollkit/go-da](https://github.com/rollkit/go-da)
-2. 🎉 Merged PR [#26](https://github.com/rollkit/bitcoin-da/pull/26) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-3. 🎉 Merged PR [#5](https://github.com/rollkit/go-execution/pull/5) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-4. 🎉 Merged PR [#51](https://github.com/rollkit/avail-da/pull/51) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-5. 🎉 Merged PR [#9](https://github.com/rollkit/centralized-sequencer/pull/9) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 💪 Opened PR [#105](https://github.com/rollkit/go-da/pull/105) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. 🎉 Merged PR [#103](https://github.com/rollkit/go-da/pull/103) in [rollkit/go-da](https://github.com/rollkit/go-da)
+3. 🔒 Closed issue [#101](https://github.com/rollkit/go-da/issues/101) in [rollkit/go-da](https://github.com/rollkit/go-da)
+4. 🎉 Merged PR [#33](https://github.com/rollkit/wordle/pull/33) in [rollkit/wordle](https://github.com/rollkit/wordle)
+5. 🎉 Merged PR [#1848](https://github.com/rollkit/rollkit/pull/1848) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
