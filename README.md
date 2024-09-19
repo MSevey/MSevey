@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/MSevey/workflows/pull/61) in [MSevey/workflows](https://github.com/MSevey/workflows)
-2. 💪 Opened PR [#61](https://github.com/MSevey/workflows/pull/61) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. 🎉 Merged PR [#105](https://github.com/rollkit/go-da/pull/105) in [rollkit/go-da](https://github.com/rollkit/go-da)
-4. 🎉 Merged PR [#59](https://github.com/MSevey/workflows/pull/59) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 💪 Opened PR [#59](https://github.com/MSevey/workflows/pull/59) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 💪 Opened PR [#106](https://github.com/rollkit/go-da/pull/106) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. ❌ Closed PR [#62](https://github.com/MSevey/workflows/pull/62) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 💪 Opened PR [#62](https://github.com/MSevey/workflows/pull/62) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 🎉 Merged PR [#61](https://github.com/MSevey/workflows/pull/61) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 💪 Opened PR [#61](https://github.com/MSevey/workflows/pull/61) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
