@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/rollkit/cosmos-sdk-starter/pull/36) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-2. 🗣 Commented on [#1851](https://github.com/rollkit/rollkit/pull/1851#issuecomment-2363719602) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. ❌ Closed PR [#1851](https://github.com/rollkit/rollkit/pull/1851) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#106](https://github.com/rollkit/go-da/pull/106) in [rollkit/go-da](https://github.com/rollkit/go-da)
-5. ❌ Closed PR [#62](https://github.com/MSevey/workflows/pull/62) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🔒 Closed issue [#561](https://github.com/celestiaorg/knuu/issues/561) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+2. 🎉 Merged PR [#563](https://github.com/celestiaorg/knuu/pull/563) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+3. 🎉 Merged PR [#36](https://github.com/rollkit/cosmos-sdk-starter/pull/36) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+4. 🗣 Commented on [#1851](https://github.com/rollkit/rollkit/pull/1851#issuecomment-2363719602) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. ❌ Closed PR [#1851](https://github.com/rollkit/rollkit/pull/1851) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
