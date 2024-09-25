@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/celestiaorg/.github/issues/113#issuecomment-2374261732) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. ❗ Opened issue [#113](https://github.com/celestiaorg/.github/issues/113) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 🗣 Commented on [#86](https://github.com/celestiaorg/.github/issues/86#issuecomment-2374228804) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🔒 Closed issue [#86](https://github.com/celestiaorg/.github/issues/86) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 💪 Opened PR [#3908](https://github.com/celestiaorg/celestia-app/pull/3908) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+1. 💪 Opened PR [#114](https://github.com/celestiaorg/.github/pull/114) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🗣 Commented on [#113](https://github.com/celestiaorg/.github/issues/113#issuecomment-2374261732) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. ❗ Opened issue [#113](https://github.com/celestiaorg/.github/issues/113) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🗣 Commented on [#86](https://github.com/celestiaorg/.github/issues/86#issuecomment-2374228804) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🔒 Closed issue [#86](https://github.com/celestiaorg/.github/issues/86) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
