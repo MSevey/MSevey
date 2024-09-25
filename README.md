@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/rollkit/avail-da/releases/tag/v0.1.0) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 💪 Opened PR [#9](https://github.com/rollkit/go-sequencing/pull/9) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-3. 💪 Opened PR [#6](https://github.com/rollkit/go-execution-abci/pull/6) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
-4. 💪 Opened PR [#6](https://github.com/rollkit/go-execution/pull/6) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-5. 💪 Opened PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+1. 🚀 Published release [v0.1.0](https://github.com/rollkit/cosmos-sdk-starter/releases/tag/v0.1.0) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. 🚀 Published release [v0.1.0](https://github.com/rollkit/centralized-sequencer/releases/tag/v0.1.0) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. 🚀 Published release [v0.1.0](https://github.com/rollkit/bitcoin-da/releases/tag/v0.1.0) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+4. 🚀 Published release [v0.1.0](https://github.com/rollkit/astria-sequencer/releases/tag/v0.1.0) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+5. 🚀 Published release [v0.1.0](https://github.com/rollkit/avail-da/releases/tag/v0.1.0) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
