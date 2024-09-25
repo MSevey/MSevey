@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3908](https://github.com/celestiaorg/celestia-app/pull/3908) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🗣 Commented on [#274](https://github.com/celestiaorg/nmt/pull/274#issuecomment-2374091695) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
-3. 🎉 Merged PR [#3766](https://github.com/celestiaorg/celestia-node/pull/3766) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 🚀 Published release [v0.4.4](https://github.com/celestiaorg/.github/releases/tag/v0.4.4) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#112](https://github.com/celestiaorg/.github/pull/112) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. ❗ Opened issue [#113](https://github.com/celestiaorg/.github/issues/113) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🗣 Commented on [#86](https://github.com/celestiaorg/.github/issues/86#issuecomment-2374228804) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🔒 Closed issue [#86](https://github.com/celestiaorg/.github/issues/86) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 💪 Opened PR [#3908](https://github.com/celestiaorg/celestia-app/pull/3908) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. 🗣 Commented on [#274](https://github.com/celestiaorg/nmt/pull/274#issuecomment-2374091695) in [celestiaorg/nmt](https://github.com/celestiaorg/nmt)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
