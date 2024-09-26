@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#568](https://github.com/celestiaorg/knuu/pull/568) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-2. 💪 Opened PR [#3915](https://github.com/celestiaorg/celestia-app/pull/3915) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 💪 Opened PR [#3779](https://github.com/celestiaorg/celestia-node/pull/3779) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 🚀 Published release [v0.4.5](https://github.com/celestiaorg/.github/releases/tag/v0.4.5) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#114](https://github.com/celestiaorg/.github/pull/114) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 🎉 Merged PR [#1862](https://github.com/rollkit/rollkit/pull/1862) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#125](https://github.com/rollkit/gm/pull/125) in [rollkit/gm](https://github.com/rollkit/gm)
+3. 🚀 Published release [v0.1.0](https://github.com/rollkit/based-sequencer/releases/tag/v0.1.0) in [rollkit/based-sequencer](https://github.com/rollkit/based-sequencer)
+4. 💪 Opened PR [#568](https://github.com/celestiaorg/knuu/pull/568) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+5. 💪 Opened PR [#3915](https://github.com/celestiaorg/celestia-app/pull/3915) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
