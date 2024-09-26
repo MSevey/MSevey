@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-sequencing/releases/tag/v0.1.0) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-2. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-execution-abci/releases/tag/v0.1.0) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
-3. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-execution/releases/tag/v0.1.0) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-4. 🚀 Published release [v0.1.0](https://github.com/rollkit/cosmos-sdk-starter/releases/tag/v0.1.0) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-5. 🚀 Published release [v0.1.0](https://github.com/rollkit/centralized-sequencer/releases/tag/v0.1.0) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 🎉 Merged PR [#4](https://github.com/rollkit/go-sequencing/pull/4) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+2. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-sequencing/releases/tag/v0.1.0) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+3. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-execution-abci/releases/tag/v0.1.0) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+4. 🚀 Published release [v0.1.0](https://github.com/rollkit/go-execution/releases/tag/v0.1.0) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+5. 🚀 Published release [v0.1.0](https://github.com/rollkit/cosmos-sdk-starter/releases/tag/v0.1.0) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
