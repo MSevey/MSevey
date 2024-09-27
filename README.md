@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/rollkit/go-sequencing/pull/9) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-2. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-3. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-4. 🎉 Merged PR [#14](https://github.com/rollkit/centralized-sequencer/pull/14) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-5. 🎉 Merged PR [#35](https://github.com/rollkit/bitcoin-da/pull/35) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+1. 🎉 Merged PR [#32](https://github.com/rollkit/local-da/pull/32) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 🎉 Merged PR [#34](https://github.com/rollkit/local-da/pull/34) in [rollkit/local-da](https://github.com/rollkit/local-da)
+3. 🎉 Merged PR [#9](https://github.com/rollkit/go-sequencing/pull/9) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+4. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+5. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
