@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/rollkit/local-da/pull/32) in [rollkit/local-da](https://github.com/rollkit/local-da)
-2. 🎉 Merged PR [#34](https://github.com/rollkit/local-da/pull/34) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 🎉 Merged PR [#9](https://github.com/rollkit/go-sequencing/pull/9) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-4. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-5. 🎉 Merged PR [#41](https://github.com/rollkit/cosmos-sdk-starter/pull/41) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+1. 🗣 Commented on [#468](https://github.com/rollkit/docs/pull/468#issuecomment-2379719339) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 💪 Opened PR [#469](https://github.com/rollkit/docs/pull/469) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🗣 Commented on [#468](https://github.com/rollkit/docs/pull/468#issuecomment-2379706025) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#32](https://github.com/rollkit/local-da/pull/32) in [rollkit/local-da](https://github.com/rollkit/local-da)
+5. 🎉 Merged PR [#34](https://github.com/rollkit/local-da/pull/34) in [rollkit/local-da](https://github.com/rollkit/local-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
