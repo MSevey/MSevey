@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1799](https://github.com/rollkit/rollkit/issues/1799#issuecomment-2383647270) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#1818](https://github.com/rollkit/rollkit/issues/1818#issuecomment-2383412421) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#1818](https://github.com/rollkit/rollkit/issues/1818#issuecomment-2383411298) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#568](https://github.com/celestiaorg/knuu/pull/568) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-5. 🎉 Merged PR [#470](https://github.com/rollkit/docs/pull/470) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🎉 Merged PR [#12](https://github.com/rollkit/go-sequencing/pull/12) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+2. 🗣 Commented on [#1799](https://github.com/rollkit/rollkit/issues/1799#issuecomment-2383647270) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#1818](https://github.com/rollkit/rollkit/issues/1818#issuecomment-2383412421) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#1818](https://github.com/rollkit/rollkit/issues/1818#issuecomment-2383411298) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🎉 Merged PR [#568](https://github.com/celestiaorg/knuu/pull/568) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
