@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3934](https://github.com/celestiaorg/celestia-app/issues/3934#issuecomment-2388633935) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-2. 🗣 Commented on [#3934](https://github.com/celestiaorg/celestia-app/issues/3934#issuecomment-2388627879) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 🔒 Closed issue [#473](https://github.com/rollkit/docs/issues/473) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🎉 Merged PR [#474](https://github.com/rollkit/docs/pull/474) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 💪 Opened PR [#474](https://github.com/rollkit/docs/pull/474) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 💪 Opened PR [#15](https://github.com/rollkit/go-sequencing/pull/15) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+2. 💪 Opened PR [#20](https://github.com/rollkit/centralized-sequencer/pull/20) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. 🗣 Commented on [#3934](https://github.com/celestiaorg/celestia-app/issues/3934#issuecomment-2388633935) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 🗣 Commented on [#3934](https://github.com/celestiaorg/celestia-app/issues/3934#issuecomment-2388627879) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+5. 🔒 Closed issue [#473](https://github.com/rollkit/docs/issues/473) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
