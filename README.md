@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1866](https://github.com/rollkit/rollkit/pull/1866) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#1867](https://github.com/rollkit/rollkit/pull/1867) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#1868](https://github.com/rollkit/rollkit/pull/1868) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 💪 Opened PR [#15](https://github.com/rollkit/go-sequencing/pull/15) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-5. 💪 Opened PR [#20](https://github.com/rollkit/centralized-sequencer/pull/20) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 🎉 Merged PR [#1868](https://github.com/rollkit/rollkit/pull/1868) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🔒 Closed issue [#13](https://github.com/MSevey/workflows/issues/13) in [MSevey/workflows](https://github.com/MSevey/workflows)
+3. 🔒 Closed issue [#49](https://github.com/MSevey/workflows/issues/49) in [MSevey/workflows](https://github.com/MSevey/workflows)
+4. 🔒 Closed issue [#48](https://github.com/MSevey/workflows/issues/48) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. 🔒 Closed issue [#23](https://github.com/MSevey/workflows/issues/23) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
