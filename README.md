@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1868](https://github.com/rollkit/rollkit/pull/1868) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🔒 Closed issue [#13](https://github.com/MSevey/workflows/issues/13) in [MSevey/workflows](https://github.com/MSevey/workflows)
-3. 🔒 Closed issue [#49](https://github.com/MSevey/workflows/issues/49) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. 🔒 Closed issue [#48](https://github.com/MSevey/workflows/issues/48) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 🔒 Closed issue [#23](https://github.com/MSevey/workflows/issues/23) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🎉 Merged PR [#113](https://github.com/rollkit/go-da/pull/113) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. 🎉 Merged PR [#36](https://github.com/rollkit/bitcoin-da/pull/36) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+3. 🎉 Merged PR [#19](https://github.com/rollkit/centralized-sequencer/pull/19) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+4. 🎉 Merged PR [#112](https://github.com/rollkit/go-da/pull/112) in [rollkit/go-da](https://github.com/rollkit/go-da)
+5. 🎉 Merged PR [#15](https://github.com/rollkit/based-sequencer/pull/15) in [rollkit/based-sequencer](https://github.com/rollkit/based-sequencer)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
