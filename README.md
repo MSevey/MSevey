@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/rollkit/go-da/pull/113) in [rollkit/go-da](https://github.com/rollkit/go-da)
-2. 🎉 Merged PR [#36](https://github.com/rollkit/bitcoin-da/pull/36) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-3. 🎉 Merged PR [#19](https://github.com/rollkit/centralized-sequencer/pull/19) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-4. 🎉 Merged PR [#112](https://github.com/rollkit/go-da/pull/112) in [rollkit/go-da](https://github.com/rollkit/go-da)
-5. 🎉 Merged PR [#15](https://github.com/rollkit/based-sequencer/pull/15) in [rollkit/based-sequencer](https://github.com/rollkit/based-sequencer)
+1. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2389617085) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2389614549) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#113](https://github.com/rollkit/go-da/pull/113) in [rollkit/go-da](https://github.com/rollkit/go-da)
+4. 🎉 Merged PR [#36](https://github.com/rollkit/bitcoin-da/pull/36) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+5. 🎉 Merged PR [#19](https://github.com/rollkit/centralized-sequencer/pull/19) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
