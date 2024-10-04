@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1872](https://github.com/rollkit/rollkit/issues/1872) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#3808](https://github.com/celestiaorg/celestia-node/pull/3808) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-3. 🗣 Commented on [#390](https://github.com/rollkit/docs/pull/390#issuecomment-2394020451) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2393693352) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#1803](https://github.com/rollkit/rollkit/issues/1803#issuecomment-2392379019) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#40](https://github.com/rollkit/wordle/pull/40) in [rollkit/wordle](https://github.com/rollkit/wordle)
+2. 🎉 Merged PR [#16](https://github.com/rollkit/go-sequencing/pull/16) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+3. 🎉 Merged PR [#37](https://github.com/rollkit/bitcoin-da/pull/37) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+4. 🎉 Merged PR [#21](https://github.com/rollkit/centralized-sequencer/pull/21) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+5. 🎉 Merged PR [#7](https://github.com/rollkit/go-execution/pull/7) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
