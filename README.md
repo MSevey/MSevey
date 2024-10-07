@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/rollkit/kurtosis-celestia-da-node/releases/tag/v0.1.0) in [rollkit/kurtosis-celestia-da-node](https://github.com/rollkit/kurtosis-celestia-da-node)
-2. 🎉 Merged PR [#1870](https://github.com/rollkit/rollkit/pull/1870) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#40](https://github.com/rollkit/wordle/pull/40) in [rollkit/wordle](https://github.com/rollkit/wordle)
-4. 🎉 Merged PR [#16](https://github.com/rollkit/go-sequencing/pull/16) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-5. 🎉 Merged PR [#37](https://github.com/rollkit/bitcoin-da/pull/37) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+1. 🗣 Commented on [#15](https://github.com/rollkit/go-sequencing/pull/15#issuecomment-2397257628) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+2. 🚀 Published release [v0.1.0](https://github.com/rollkit/kurtosis-celestia-da-node/releases/tag/v0.1.0) in [rollkit/kurtosis-celestia-da-node](https://github.com/rollkit/kurtosis-celestia-da-node)
+3. 🎉 Merged PR [#1870](https://github.com/rollkit/rollkit/pull/1870) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#40](https://github.com/rollkit/wordle/pull/40) in [rollkit/wordle](https://github.com/rollkit/wordle)
+5. 🎉 Merged PR [#16](https://github.com/rollkit/go-sequencing/pull/16) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
