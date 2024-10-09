@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/rollkit/avail-da/issues/57) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-2. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400557898) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400092968) in [rollkit/docs](https://github.com/rollkit/docs)
-4. ❗ Opened issue [#485](https://github.com/rollkit/docs/issues/485) in [rollkit/docs](https://github.com/rollkit/docs)
-5. ❗ Opened issue [#484](https://github.com/rollkit/docs/issues/484) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400759938) in [rollkit/docs](https://github.com/rollkit/docs)
+2. ❗ Opened issue [#57](https://github.com/rollkit/avail-da/issues/57) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+3. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400557898) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400092968) in [rollkit/docs](https://github.com/rollkit/docs)
+5. ❗ Opened issue [#485](https://github.com/rollkit/docs/issues/485) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
