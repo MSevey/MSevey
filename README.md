@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/rollkit/astria-sequencer/pull/11) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
-2. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400759938) in [rollkit/docs](https://github.com/rollkit/docs)
-3. ❗ Opened issue [#57](https://github.com/rollkit/avail-da/issues/57) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
-4. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400557898) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🗣 Commented on [#484](https://github.com/rollkit/docs/issues/484#issuecomment-2400092968) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 💪 Opened PR [#3](https://github.com/rollkit/cosmwasm/pull/3) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
+2. 💪 Opened PR [#45](https://github.com/rollkit/cosmos-sdk-starter/pull/45) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+3. 🗣 Commented on [#20](https://github.com/rollkit/centralized-sequencer/pull/20#issuecomment-2402417454) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+4. 💪 Opened PR [#38](https://github.com/rollkit/bitcoin-da/pull/38) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+5. 💪 Opened PR [#58](https://github.com/rollkit/avail-da/pull/58) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
