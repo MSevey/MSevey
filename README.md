@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/rollkit/cosmwasm/pull/3) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
-2. 💪 Opened PR [#45](https://github.com/rollkit/cosmos-sdk-starter/pull/45) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-3. 🗣 Commented on [#20](https://github.com/rollkit/centralized-sequencer/pull/20#issuecomment-2402417454) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-4. 💪 Opened PR [#38](https://github.com/rollkit/bitcoin-da/pull/38) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
-5. 💪 Opened PR [#58](https://github.com/rollkit/avail-da/pull/58) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+1. 💪 Opened PR [#39](https://github.com/rollkit/local-da/pull/39) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 💪 Opened PR [#8](https://github.com/rollkit/go-execution-abci/pull/8) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+3. 💪 Opened PR [#8](https://github.com/rollkit/go-execution/pull/8) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+4. 💪 Opened PR [#116](https://github.com/rollkit/go-da/pull/116) in [rollkit/go-da](https://github.com/rollkit/go-da)
+5. 💪 Opened PR [#3](https://github.com/rollkit/cosmwasm/pull/3) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
