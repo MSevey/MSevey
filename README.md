@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/rollkit/wordle/pull/41) in [rollkit/wordle](https://github.com/rollkit/wordle)
-2. 💪 Opened PR [#39](https://github.com/rollkit/local-da/pull/39) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 💪 Opened PR [#8](https://github.com/rollkit/go-execution-abci/pull/8) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
-4. 💪 Opened PR [#8](https://github.com/rollkit/go-execution/pull/8) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-5. 💪 Opened PR [#116](https://github.com/rollkit/go-da/pull/116) in [rollkit/go-da](https://github.com/rollkit/go-da)
+1. 🎉 Merged PR [#481](https://github.com/rollkit/docs/pull/481) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 💪 Opened PR [#41](https://github.com/rollkit/wordle/pull/41) in [rollkit/wordle](https://github.com/rollkit/wordle)
+3. 💪 Opened PR [#39](https://github.com/rollkit/local-da/pull/39) in [rollkit/local-da](https://github.com/rollkit/local-da)
+4. 💪 Opened PR [#8](https://github.com/rollkit/go-execution-abci/pull/8) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+5. 💪 Opened PR [#8](https://github.com/rollkit/go-execution/pull/8) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
