@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/rollkit/centralized-sequencer/pull/20) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-2. 🚀 Published release [v0.0.1](https://github.com/MSevey/workflows-2/releases/tag/v0.0.1) in [MSevey/workflows-2](https://github.com/MSevey/workflows-2)
-3. 🗣 Commented on [#390](https://github.com/rollkit/docs/pull/390#issuecomment-2422520588) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#472](https://github.com/rollkit/docs/pull/472#issuecomment-2422496680) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🗣 Commented on [#472](https://github.com/rollkit/docs/pull/472#issuecomment-2422495053) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🗣 Commented on [#8](https://github.com/rollkit/astria-sequencer/issues/8#issuecomment-2426927633) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+2. 🎉 Merged PR [#20](https://github.com/rollkit/centralized-sequencer/pull/20) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. 🚀 Published release [v0.0.1](https://github.com/MSevey/workflows-2/releases/tag/v0.0.1) in [MSevey/workflows-2](https://github.com/MSevey/workflows-2)
+4. 🗣 Commented on [#390](https://github.com/rollkit/docs/pull/390#issuecomment-2422520588) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#472](https://github.com/rollkit/docs/pull/472#issuecomment-2422496680) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
