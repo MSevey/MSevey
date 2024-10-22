@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3866](https://github.com/celestiaorg/celestia-node/pull/3866) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 💪 Opened PR [#3996](https://github.com/celestiaorg/celestia-app/pull/3996) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-3. 🔒 Closed issue [#64](https://github.com/MSevey/workflows/issues/64) in [MSevey/workflows](https://github.com/MSevey/workflows)
-4. ❗ Opened issue [#64](https://github.com/MSevey/workflows/issues/64) in [MSevey/workflows](https://github.com/MSevey/workflows)
-5. 🎉 Merged PR [#24](https://github.com/rollkit/centralized-sequencer/pull/24) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 🎉 Merged PR [#15](https://github.com/rollkit/go-sequencing/pull/15) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+2. 💪 Opened PR [#3866](https://github.com/celestiaorg/celestia-node/pull/3866) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+3. 💪 Opened PR [#3996](https://github.com/celestiaorg/celestia-app/pull/3996) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
+4. 🔒 Closed issue [#64](https://github.com/MSevey/workflows/issues/64) in [MSevey/workflows](https://github.com/MSevey/workflows)
+5. ❗ Opened issue [#64](https://github.com/MSevey/workflows/issues/64) in [MSevey/workflows](https://github.com/MSevey/workflows)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
