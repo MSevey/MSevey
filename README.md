@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1798](https://github.com/rollkit/rollkit/issues/1798) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🎉 Merged PR [#1880](https://github.com/rollkit/rollkit/pull/1880) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#489](https://github.com/rollkit/docs/pull/489) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🎉 Merged PR [#491](https://github.com/rollkit/docs/pull/491) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🗣 Commented on [#8](https://github.com/rollkit/astria-sequencer/issues/8#issuecomment-2426927633) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+1. 🎉 Merged PR [#24](https://github.com/rollkit/centralized-sequencer/pull/24) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+2. 🔒 Closed issue [#1798](https://github.com/rollkit/rollkit/issues/1798) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#1880](https://github.com/rollkit/rollkit/pull/1880) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#489](https://github.com/rollkit/docs/pull/489) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🎉 Merged PR [#491](https://github.com/rollkit/docs/pull/491) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
