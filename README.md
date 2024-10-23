@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 💪 Opened PR [#493](https://github.com/rollkit/docs/pull/493) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#118](https://github.com/celestiaorg/.github/issues/118#issuecomment-2432283113) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. ❗ Opened issue [#15](https://github.com/rollkit/.github/issues/15) in [rollkit/.github](https://github.com/rollkit/.github)
-5. 🎉 Merged PR [#20](https://github.com/rollkit/go-sequencing/pull/20) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+1. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222458) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222145) in [rollkit/docs](https://github.com/rollkit/docs)
+3. ❗ Opened issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 💪 Opened PR [#493](https://github.com/rollkit/docs/pull/493) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#118](https://github.com/celestiaorg/.github/issues/118#issuecomment-2432283113) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
