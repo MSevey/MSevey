@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/celestiaorg/.github/pull/117) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🎉 Merged PR [#15](https://github.com/rollkit/go-sequencing/pull/15) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-3. 💪 Opened PR [#3866](https://github.com/celestiaorg/celestia-node/pull/3866) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-4. 💪 Opened PR [#3996](https://github.com/celestiaorg/celestia-app/pull/3996) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
-5. 🔒 Closed issue [#64](https://github.com/MSevey/workflows/issues/64) in [MSevey/workflows](https://github.com/MSevey/workflows)
+1. 🎉 Merged PR [#117](https://github.com/celestiaorg/.github/pull/117) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 💪 Opened PR [#117](https://github.com/celestiaorg/.github/pull/117) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🎉 Merged PR [#15](https://github.com/rollkit/go-sequencing/pull/15) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+4. 💪 Opened PR [#3866](https://github.com/celestiaorg/celestia-node/pull/3866) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
+5. 💪 Opened PR [#3996](https://github.com/celestiaorg/celestia-app/pull/3996) in [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
