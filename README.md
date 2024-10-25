@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2435972272) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222458) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222145) in [rollkit/docs](https://github.com/rollkit/docs)
-4. ❗ Opened issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#493](https://github.com/rollkit/docs/pull/493) in [rollkit/docs](https://github.com/rollkit/docs)
+1. ❌ Closed PR [#2](https://github.com/rollkit/ignite-apps/pull/2) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
+2. ❌ Closed PR [#1](https://github.com/rollkit/ignite-apps/pull/1) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
+3. ❗ Opened issue [#494](https://github.com/rollkit/docs/issues/494) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2435972272) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222458) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
