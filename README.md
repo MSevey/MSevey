@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/rollkit/ignite-apps/pull/2) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
-2. ❌ Closed PR [#1](https://github.com/rollkit/ignite-apps/pull/1) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
-3. ❗ Opened issue [#494](https://github.com/rollkit/docs/issues/494) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2435972272) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#493](https://github.com/rollkit/docs/pull/493#issuecomment-2433222458) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🎉 Merged PR [#3](https://github.com/rollkit/ignite-apps/pull/3) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
+2. 💪 Opened PR [#3](https://github.com/rollkit/ignite-apps/pull/3) in [rollkit/ignite-apps](https://github.com/rollkit/ignite-apps)
+3. ❌ Closed PR [#137](https://github.com/ignite/apps/pull/137) in [ignite/apps](https://github.com/ignite/apps)
+4. 💪 Opened PR [#137](https://github.com/ignite/apps/pull/137) in [ignite/apps](https://github.com/ignite/apps)
+5. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2436153809) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
