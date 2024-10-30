@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2444442641) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2444395924) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 💪 Opened PR [#1890](https://github.com/rollkit/rollkit/pull/1890) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#37](https://github.com/celestiaorg/utils/pull/37) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
-5. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2438666806) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🎉 Merged PR [#1](https://github.com/rollkit/centralized-sequencer/pull/1) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+2. 🗣 Commented on [#4](https://github.com/rollkit/centralized-sequencer/pull/4#issuecomment-2445169242) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. 🗣 Commented on [#1](https://github.com/rollkit/centralized-sequencer/pull/1#issuecomment-2445168680) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+4. 💪 Opened PR [#26](https://github.com/rollkit/centralized-sequencer/pull/26) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+5. 🗣 Commented on [#1886](https://github.com/rollkit/rollkit/issues/1886#issuecomment-2444442641) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
