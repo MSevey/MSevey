@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/celestiaorg/.github/releases/tag/v0.5.0) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🔒 Closed issue [#115](https://github.com/celestiaorg/.github/issues/115) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-3. 🎉 Merged PR [#119](https://github.com/celestiaorg/.github/pull/119) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 💪 Opened PR [#119](https://github.com/celestiaorg/.github/pull/119) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#1](https://github.com/rollkit/centralized-sequencer/pull/1) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 🎉 Merged PR [#1777](https://github.com/celestiaorg/docs/pull/1777) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+2. 💪 Opened PR [#1777](https://github.com/celestiaorg/docs/pull/1777) in [celestiaorg/docs](https://github.com/celestiaorg/docs)
+3. 🚀 Published release [v0.5.0](https://github.com/celestiaorg/.github/releases/tag/v0.5.0) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+4. 🔒 Closed issue [#115](https://github.com/celestiaorg/.github/issues/115) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#119](https://github.com/celestiaorg/.github/pull/119) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
