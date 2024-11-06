@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/rollkit/docs/pull/497#issuecomment-2458050607) in [rollkit/docs](https://github.com/rollkit/docs)
-2. ❗ Opened issue [#1910](https://github.com/rollkit/rollkit/issues/1910) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#498](https://github.com/rollkit/docs/pull/498) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 💪 Opened PR [#21](https://github.com/rollkit/go-execution/pull/21) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-5. 🗣 Commented on [#1890](https://github.com/rollkit/rollkit/pull/1890#issuecomment-2457399283) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. ❗ Opened issue [#22447](https://github.com/cosmos/cosmos-sdk/issues/22447) in [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+2. ❗ Opened issue [#2773](https://github.com/OffchainLabs/nitro/issues/2773) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
+3. ❌ Closed PR [#2772](https://github.com/OffchainLabs/nitro/pull/2772) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
+4. 💪 Opened PR [#2772](https://github.com/OffchainLabs/nitro/pull/2772) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
+5. 🗣 Commented on [#497](https://github.com/rollkit/docs/pull/497#issuecomment-2458050607) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
