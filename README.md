@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77](https://github.com/celestiaorg/helm-charts/issues/77) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
-2. ❗ Opened issue [#76](https://github.com/celestiaorg/helm-charts/issues/76) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
-3. ❗ Opened issue [#22447](https://github.com/cosmos/cosmos-sdk/issues/22447) in [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
-4. ❗ Opened issue [#2773](https://github.com/OffchainLabs/nitro/issues/2773) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
-5. ❌ Closed PR [#2772](https://github.com/OffchainLabs/nitro/pull/2772) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
+1. 🎉 Merged PR [#19](https://github.com/rollkit/go-execution/pull/19) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+2. ❗ Opened issue [#77](https://github.com/celestiaorg/helm-charts/issues/77) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
+3. ❗ Opened issue [#76](https://github.com/celestiaorg/helm-charts/issues/76) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
+4. ❗ Opened issue [#22447](https://github.com/cosmos/cosmos-sdk/issues/22447) in [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+5. ❗ Opened issue [#2773](https://github.com/OffchainLabs/nitro/issues/2773) in [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
