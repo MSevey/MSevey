@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#499](https://github.com/rollkit/docs/issues/499) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🔒 Closed issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🎉 Merged PR [#497](https://github.com/rollkit/docs/pull/497) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#497](https://github.com/rollkit/docs/pull/497#issuecomment-2464843253) in [rollkit/docs](https://github.com/rollkit/docs)
-5. ❌ Closed PR [#46](https://github.com/rollkit/cosmos-sdk-starter/pull/46) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+1. 💪 Opened PR [#16](https://github.com/rollkit/.github/pull/16) in [rollkit/.github](https://github.com/rollkit/.github)
+2. ❗ Opened issue [#499](https://github.com/rollkit/docs/issues/499) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🔒 Closed issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🎉 Merged PR [#497](https://github.com/rollkit/docs/pull/497) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#497](https://github.com/rollkit/docs/pull/497#issuecomment-2464843253) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
