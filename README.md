@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/rollkit/cosmos-sdk-starter/pull/46) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-2. 🎉 Merged PR [#19](https://github.com/rollkit/go-execution/pull/19) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-3. ❗ Opened issue [#77](https://github.com/celestiaorg/helm-charts/issues/77) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
-4. ❗ Opened issue [#76](https://github.com/celestiaorg/helm-charts/issues/76) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
-5. ❗ Opened issue [#22447](https://github.com/cosmos/cosmos-sdk/issues/22447) in [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+1. ❗ Opened issue [#499](https://github.com/rollkit/docs/issues/499) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🔒 Closed issue [#1886](https://github.com/rollkit/rollkit/issues/1886) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#497](https://github.com/rollkit/docs/pull/497) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🗣 Commented on [#497](https://github.com/rollkit/docs/pull/497#issuecomment-2464843253) in [rollkit/docs](https://github.com/rollkit/docs)
+5. ❌ Closed PR [#46](https://github.com/rollkit/cosmos-sdk-starter/pull/46) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
