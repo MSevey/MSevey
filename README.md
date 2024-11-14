@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/rollkit/go-sequencing/pull/24) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-2. ❗ Opened issue [#1918](https://github.com/rollkit/rollkit/issues/1918) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🚀 Published release [v0.14.1](https://github.com/rollkit/rollkit/releases/tag/v0.14.1-rc.0) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#1799](https://github.com/rollkit/rollkit/issues/1799#issuecomment-2473733191) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 💪 Opened PR [#50](https://github.com/rollkit/cosmos-sdk-starter/pull/50) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+1. 💪 Opened PR [#41](https://github.com/rollkit/local-da/pull/41) in [rollkit/local-da](https://github.com/rollkit/local-da)
+2. 💪 Opened PR [#24](https://github.com/rollkit/go-sequencing/pull/24) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+3. ❗ Opened issue [#1918](https://github.com/rollkit/rollkit/issues/1918) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🚀 Published release [v0.14.1](https://github.com/rollkit/rollkit/releases/tag/v0.14.1-rc.0) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🗣 Commented on [#1799](https://github.com/rollkit/rollkit/issues/1799#issuecomment-2473733191) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
