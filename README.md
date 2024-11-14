@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/rollkit/go-sequencing/issues/25) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-2. 💪 Opened PR [#41](https://github.com/rollkit/local-da/pull/41) in [rollkit/local-da](https://github.com/rollkit/local-da)
-3. 💪 Opened PR [#24](https://github.com/rollkit/go-sequencing/pull/24) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-4. ❗ Opened issue [#1918](https://github.com/rollkit/rollkit/issues/1918) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🚀 Published release [v0.14.1](https://github.com/rollkit/rollkit/releases/tag/v0.14.1-rc.0) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+1. 🔒 Closed issue [#1910](https://github.com/rollkit/rollkit/issues/1910) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1911](https://github.com/rollkit/rollkit/pull/1911) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#16](https://github.com/rollkit/.github/pull/16) in [rollkit/.github](https://github.com/rollkit/.github)
+4. ❗ Opened issue [#25](https://github.com/rollkit/go-sequencing/issues/25) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
+5. 💪 Opened PR [#41](https://github.com/rollkit/local-da/pull/41) in [rollkit/local-da](https://github.com/rollkit/local-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
