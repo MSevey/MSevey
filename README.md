@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#505](https://github.com/rollkit/docs/issues/505) in [rollkit/docs](https://github.com/rollkit/docs)
-2. ❗ Opened issue [#1919](https://github.com/rollkit/rollkit/issues/1919) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-3. 🗣 Commented on [#17](https://github.com/rollkit/.github/pull/17#issuecomment-2476538593) in [rollkit/.github](https://github.com/rollkit/.github)
-4. 🗣 Commented on [#17](https://github.com/rollkit/.github/pull/17#issuecomment-2476538229) in [rollkit/.github](https://github.com/rollkit/.github)
-5. 💪 Opened PR [#19](https://github.com/rollkit/.github/pull/19) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 🎉 Merged PR [#16](https://github.com/rollkit/gm-frontend/pull/16) in [rollkit/gm-frontend](https://github.com/rollkit/gm-frontend)
+2. ❗ Opened issue [#505](https://github.com/rollkit/docs/issues/505) in [rollkit/docs](https://github.com/rollkit/docs)
+3. ❗ Opened issue [#1919](https://github.com/rollkit/rollkit/issues/1919) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+4. 🗣 Commented on [#17](https://github.com/rollkit/.github/pull/17#issuecomment-2476538593) in [rollkit/.github](https://github.com/rollkit/.github)
+5. 🗣 Commented on [#17](https://github.com/rollkit/.github/pull/17#issuecomment-2476538229) in [rollkit/.github](https://github.com/rollkit/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
