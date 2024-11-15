@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/rollkit/.github/pull/17) in [rollkit/.github](https://github.com/rollkit/.github)
-2. 🚀 Published release [v0.5.0](https://github.com/rollkit/.github/releases/tag/v0.5.0) in [rollkit/.github](https://github.com/rollkit/.github)
-3. 🔒 Closed issue [#1910](https://github.com/rollkit/rollkit/issues/1910) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#1911](https://github.com/rollkit/rollkit/pull/1911) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#16](https://github.com/rollkit/.github/pull/16) in [rollkit/.github](https://github.com/rollkit/.github)
+1. ❗ Opened issue [#18](https://github.com/rollkit/.github/issues/18) in [rollkit/.github](https://github.com/rollkit/.github)
+2. 💪 Opened PR [#17](https://github.com/rollkit/.github/pull/17) in [rollkit/.github](https://github.com/rollkit/.github)
+3. 🚀 Published release [v0.5.0](https://github.com/rollkit/.github/releases/tag/v0.5.0) in [rollkit/.github](https://github.com/rollkit/.github)
+4. 🔒 Closed issue [#1910](https://github.com/rollkit/rollkit/issues/1910) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🎉 Merged PR [#1911](https://github.com/rollkit/rollkit/pull/1911) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
