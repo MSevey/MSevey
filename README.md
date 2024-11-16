@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#500](https://github.com/rollkit/docs/issues/500) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🎉 Merged PR [#493](https://github.com/rollkit/docs/pull/493) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🎉 Merged PR [#50](https://github.com/rollkit/cosmos-sdk-starter/pull/50) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-4. 🎉 Merged PR [#508](https://github.com/rollkit/docs/pull/508) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🎉 Merged PR [#45](https://github.com/rollkit/wordle/pull/45) in [rollkit/wordle](https://github.com/rollkit/wordle)
+1. 💪 Opened PR [#509](https://github.com/rollkit/docs/pull/509) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🔒 Closed issue [#500](https://github.com/rollkit/docs/issues/500) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🎉 Merged PR [#493](https://github.com/rollkit/docs/pull/493) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🎉 Merged PR [#50](https://github.com/rollkit/cosmos-sdk-starter/pull/50) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+5. 🎉 Merged PR [#508](https://github.com/rollkit/docs/pull/508) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
