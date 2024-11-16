@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/rollkit/.github/issues/21) in [rollkit/.github](https://github.com/rollkit/.github)
-2. 🗣 Commented on [#19](https://github.com/rollkit/based-sequencer/pull/19#issuecomment-2477220064) in [rollkit/based-sequencer](https://github.com/rollkit/based-sequencer)
-3. ❌ Closed PR [#44](https://github.com/rollkit/wordle/pull/44) in [rollkit/wordle](https://github.com/rollkit/wordle)
-4. 🗣 Commented on [#50](https://github.com/rollkit/cosmos-sdk-starter/pull/50#issuecomment-2477215917) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-5. 🗣 Commented on [#49](https://github.com/rollkit/cosmos-sdk-starter/pull/49#issuecomment-2477212903) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+1. 🎉 Merged PR [#51](https://github.com/rollkit/wordle/pull/51) in [rollkit/wordle](https://github.com/rollkit/wordle)
+2. 🎉 Merged PR [#12](https://github.com/rollkit/astria-sequencer/pull/12) in [rollkit/astria-sequencer](https://github.com/rollkit/astria-sequencer)
+3. 🎉 Merged PR [#10](https://github.com/rollkit/go-execution-abci/pull/10) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+4. 🎉 Merged PR [#22](https://github.com/rollkit/.github/pull/22) in [rollkit/.github](https://github.com/rollkit/.github)
+5. 🎉 Merged PR [#23](https://github.com/rollkit/.github/pull/23) in [rollkit/.github](https://github.com/rollkit/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
