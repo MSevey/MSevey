@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#511](https://github.com/rollkit/docs/pull/511) in [rollkit/docs](https://github.com/rollkit/docs)
-2. ❌ Closed PR [#53](https://github.com/rollkit/wordle/pull/53) in [rollkit/wordle](https://github.com/rollkit/wordle)
-3. 🎉 Merged PR [#28](https://github.com/rollkit/.github/pull/28) in [rollkit/.github](https://github.com/rollkit/.github)
-4. 💪 Opened PR [#510](https://github.com/rollkit/docs/pull/510) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🚀 Published release [v0.4.0](https://github.com/rollkit/centralized-sequencer/releases/tag/v0.4.0) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+1. 🎉 Merged PR [#38](https://github.com/rollkit/go-execution/pull/38) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+2. 💪 Opened PR [#511](https://github.com/rollkit/docs/pull/511) in [rollkit/docs](https://github.com/rollkit/docs)
+3. ❌ Closed PR [#53](https://github.com/rollkit/wordle/pull/53) in [rollkit/wordle](https://github.com/rollkit/wordle)
+4. 🎉 Merged PR [#28](https://github.com/rollkit/.github/pull/28) in [rollkit/.github](https://github.com/rollkit/.github)
+5. 💪 Opened PR [#510](https://github.com/rollkit/docs/pull/510) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
