@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#509](https://github.com/rollkit/docs/pull/509) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🗣 Commented on [#485](https://github.com/rollkit/docs/issues/485#issuecomment-2484591200) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#485](https://github.com/rollkit/docs/issues/485#issuecomment-2484589805) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#485](https://github.com/rollkit/docs/issues/485#issuecomment-2484577851) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🎉 Merged PR [#38](https://github.com/rollkit/go-execution/pull/38) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+1. 🎉 Merged PR [#1920](https://github.com/rollkit/rollkit/pull/1920) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#1923](https://github.com/rollkit/rollkit/pull/1923) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🎉 Merged PR [#509](https://github.com/rollkit/docs/pull/509) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🗣 Commented on [#485](https://github.com/rollkit/docs/issues/485#issuecomment-2484591200) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#485](https://github.com/rollkit/docs/issues/485#issuecomment-2484589805) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
