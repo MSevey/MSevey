@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#505](https://github.com/rollkit/docs/issues/505#issuecomment-2486506215) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🔒 Closed issue [#505](https://github.com/rollkit/docs/issues/505) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#514](https://github.com/rollkit/docs/pull/514#issuecomment-2486502628) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 💪 Opened PR [#514](https://github.com/rollkit/docs/pull/514) in [rollkit/docs](https://github.com/rollkit/docs)
-5. 🎉 Merged PR [#510](https://github.com/rollkit/docs/pull/510) in [rollkit/docs](https://github.com/rollkit/docs)
+1. 🔒 Closed issue [#513](https://github.com/rollkit/docs/issues/513) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🎉 Merged PR [#514](https://github.com/rollkit/docs/pull/514) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🗣 Commented on [#505](https://github.com/rollkit/docs/issues/505#issuecomment-2486506215) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🔒 Closed issue [#505](https://github.com/rollkit/docs/issues/505) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🗣 Commented on [#514](https://github.com/rollkit/docs/pull/514#issuecomment-2486502628) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
