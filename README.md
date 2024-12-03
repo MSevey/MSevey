@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#291](https://github.com/mycodecareer/mycodecareer.github.io/pull/291) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-2. ❌ Closed PR [#290](https://github.com/mycodecareer/mycodecareer.github.io/pull/290) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-3. 🎉 Merged PR [#586](https://github.com/celestiaorg/knuu/pull/586) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-4. 🎉 Merged PR [#1928](https://github.com/rollkit/rollkit/pull/1928) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#29](https://github.com/rollkit/.github/pull/29#issuecomment-2513451724) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 🎉 Merged PR [#133](https://github.com/rollkit/gm/pull/133) in [rollkit/gm](https://github.com/rollkit/gm)
+2. ❌ Closed PR [#289](https://github.com/mycodecareer/mycodecareer.github.io/pull/289) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🎉 Merged PR [#291](https://github.com/mycodecareer/mycodecareer.github.io/pull/291) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+4. 💪 Opened PR [#291](https://github.com/mycodecareer/mycodecareer.github.io/pull/291) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+5. ❌ Closed PR [#290](https://github.com/mycodecareer/mycodecareer.github.io/pull/290) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
