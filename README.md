@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/rollkit/.github/issues/15#issuecomment-2512295217) in [rollkit/.github](https://github.com/rollkit/.github)
-2. 🗣 Commented on [#15](https://github.com/rollkit/.github/issues/15#issuecomment-2512293734) in [rollkit/.github](https://github.com/rollkit/.github)
-3. 🎉 Merged PR [#521](https://github.com/rollkit/docs/pull/521) in [rollkit/docs](https://github.com/rollkit/docs)
-4. ❗ Opened issue [#1934](https://github.com/rollkit/rollkit/issues/1934) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🗣 Commented on [#520](https://github.com/rollkit/docs/issues/520#issuecomment-2492032899) in [rollkit/docs](https://github.com/rollkit/docs)
+1. ❌ Closed PR [#58](https://github.com/rollkit/avail-da/pull/58) in [rollkit/avail-da](https://github.com/rollkit/avail-da)
+2. ❌ Closed PR [#38](https://github.com/rollkit/bitcoin-da/pull/38) in [rollkit/bitcoin-da](https://github.com/rollkit/bitcoin-da)
+3. ❌ Closed PR [#45](https://github.com/rollkit/cosmos-sdk-starter/pull/45) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+4. ❌ Closed PR [#3](https://github.com/rollkit/cosmwasm/pull/3) in [rollkit/cosmwasm](https://github.com/rollkit/cosmwasm)
+5. ❌ Closed PR [#116](https://github.com/rollkit/go-da/pull/116) in [rollkit/go-da](https://github.com/rollkit/go-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
