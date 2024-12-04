@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#523](https://github.com/rollkit/docs/issues/523#issuecomment-2514947187) in [rollkit/docs](https://github.com/rollkit/docs)
-2. 🔒 Closed issue [#523](https://github.com/rollkit/docs/issues/523) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🎉 Merged PR [#133](https://github.com/rollkit/gm/pull/133) in [rollkit/gm](https://github.com/rollkit/gm)
-4. ❌ Closed PR [#289](https://github.com/mycodecareer/mycodecareer.github.io/pull/289) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
-5. 🎉 Merged PR [#291](https://github.com/mycodecareer/mycodecareer.github.io/pull/291) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+1. 🎉 Merged PR [#39](https://github.com/rollkit/go-execution/pull/39) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+2. 🔒 Closed issue [#24](https://github.com/rollkit/go-execution/issues/24) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+3. 🗣 Commented on [#523](https://github.com/rollkit/docs/issues/523#issuecomment-2514947187) in [rollkit/docs](https://github.com/rollkit/docs)
+4. 🔒 Closed issue [#523](https://github.com/rollkit/docs/issues/523) in [rollkit/docs](https://github.com/rollkit/docs)
+5. 🎉 Merged PR [#133](https://github.com/rollkit/gm/pull/133) in [rollkit/gm](https://github.com/rollkit/gm)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
