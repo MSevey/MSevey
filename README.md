@@ -41,9 +41,9 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/rollkit/go-da/pull/124) in [rollkit/go-da](https://github.com/rollkit/go-da)
-2. 🎉 Merged PR [#119](https://github.com/rollkit/go-da/pull/119) in [rollkit/go-da](https://github.com/rollkit/go-da)
-3. 🎉 Merged PR [#590](https://github.com/celestiaorg/knuu/pull/590) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+1. 🎉 Merged PR [#1912](https://github.com/rollkit/rollkit/pull/1912) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+2. 🎉 Merged PR [#124](https://github.com/rollkit/go-da/pull/124) in [rollkit/go-da](https://github.com/rollkit/go-da)
+3. 🎉 Merged PR [#119](https://github.com/rollkit/go-da/pull/119) in [rollkit/go-da](https://github.com/rollkit/go-da)
 4. 🗣 Commented on [#517](https://github.com/rollkit/docs/issues/517#issuecomment-2521048277) in [rollkit/docs](https://github.com/rollkit/docs)
 5. 💪 Opened PR [#528](https://github.com/rollkit/docs/pull/528) in [rollkit/docs](https://github.com/rollkit/docs)
 <!--END_SECTION:activity-->
