@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/rollkit/centralized-sequencer/pull/33) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-2. 🎉 Merged PR [#35](https://github.com/rollkit/centralized-sequencer/pull/35) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
-3. 🎉 Merged PR [#1912](https://github.com/rollkit/rollkit/pull/1912) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🎉 Merged PR [#124](https://github.com/rollkit/go-da/pull/124) in [rollkit/go-da](https://github.com/rollkit/go-da)
-5. 🎉 Merged PR [#119](https://github.com/rollkit/go-da/pull/119) in [rollkit/go-da](https://github.com/rollkit/go-da)
+1. 🎉 Merged PR [#43](https://github.com/rollkit/cosmos-sdk-starter/pull/43) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. 🎉 Merged PR [#33](https://github.com/rollkit/centralized-sequencer/pull/33) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. 🎉 Merged PR [#35](https://github.com/rollkit/centralized-sequencer/pull/35) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+4. 🎉 Merged PR [#1912](https://github.com/rollkit/rollkit/pull/1912) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+5. 🎉 Merged PR [#124](https://github.com/rollkit/go-da/pull/124) in [rollkit/go-da](https://github.com/rollkit/go-da)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
