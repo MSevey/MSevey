@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4128](https://github.com/celestiaorg/celestia-node/pull/4128#issuecomment-2685558524) in [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)
-2. 🎉 Merged PR [#27](https://github.com/rollkit/go-sequencing/pull/27) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-3. 🎉 Merged PR [#28](https://github.com/rollkit/go-sequencing/pull/28) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-4. 🗣 Commented on [#47](https://github.com/celestiaorg/talis/issues/47#issuecomment-2675110955) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. ❗ Opened issue [#52](https://github.com/celestiaorg/talis/issues/52) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. 🎉 Merged PR [#110](https://github.com/celestiaorg/.github/pull/110) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+2. 🎉 Merged PR [#532](https://github.com/rollkit/docs/pull/532) in [rollkit/docs](https://github.com/rollkit/docs)
+3. 🗣 Commented on [#58](https://github.com/rollkit/cosmos-sdk-starter/pull/58#issuecomment-2685752260) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+4. 🗣 Commented on [#110](https://github.com/celestiaorg/.github/pull/110#issuecomment-2685743988) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#89](https://github.com/celestiaorg/.github/pull/89) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
