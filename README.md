@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/celestiaorg/.github/pull/110) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🎉 Merged PR [#532](https://github.com/rollkit/docs/pull/532) in [rollkit/docs](https://github.com/rollkit/docs)
-3. 🗣 Commented on [#58](https://github.com/rollkit/cosmos-sdk-starter/pull/58#issuecomment-2685752260) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-4. 🗣 Commented on [#110](https://github.com/celestiaorg/.github/pull/110#issuecomment-2685743988) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🎉 Merged PR [#89](https://github.com/celestiaorg/.github/pull/89) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. 🗣 Commented on [#598](https://github.com/celestiaorg/knuu/pull/598#issuecomment-2685796618) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+2. ❌ Closed PR [#298](https://github.com/mycodecareer/mycodecareer.github.io/pull/298) in [mycodecareer/mycodecareer.github.io](https://github.com/mycodecareer/mycodecareer.github.io)
+3. 🎉 Merged PR [#550](https://github.com/rollkit/docs/pull/550) in [rollkit/docs](https://github.com/rollkit/docs)
+4. ❌ Closed PR [#68](https://github.com/rollkit/wordle/pull/68) in [rollkit/wordle](https://github.com/rollkit/wordle)
+5. 🎉 Merged PR [#15](https://github.com/rollkit/go-execution-abci/pull/15) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
