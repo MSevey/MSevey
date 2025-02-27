@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/celestiaorg/celestia-zkevm-ibc-demo/issues/72#issuecomment-2685942108) in [celestiaorg/celestia-zkevm-ibc-demo](https://github.com/celestiaorg/celestia-zkevm-ibc-demo)
-2. ❌ Closed PR [#421](https://github.com/celestiaorg/cosmos-sdk/pull/421) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
-3. 🗣 Commented on [#124](https://github.com/celestiaorg/.github/issues/124#issuecomment-2685912508) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-4. 🎉 Merged PR [#32](https://github.com/rollkit/.github/pull/32) in [rollkit/.github](https://github.com/rollkit/.github)
-5. 🎉 Merged PR [#31](https://github.com/rollkit/.github/pull/31) in [rollkit/.github](https://github.com/rollkit/.github)
+1. 🎉 Merged PR [#549](https://github.com/rollkit/docs/pull/549) in [rollkit/docs](https://github.com/rollkit/docs)
+2. 🗣 Commented on [#72](https://github.com/celestiaorg/celestia-zkevm-ibc-demo/issues/72#issuecomment-2685942108) in [celestiaorg/celestia-zkevm-ibc-demo](https://github.com/celestiaorg/celestia-zkevm-ibc-demo)
+3. ❌ Closed PR [#421](https://github.com/celestiaorg/cosmos-sdk/pull/421) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
+4. 🗣 Commented on [#124](https://github.com/celestiaorg/.github/issues/124#issuecomment-2685912508) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🎉 Merged PR [#32](https://github.com/rollkit/.github/pull/32) in [rollkit/.github](https://github.com/rollkit/.github)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
