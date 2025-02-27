@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/rollkit/.github/pull/32) in [rollkit/.github](https://github.com/rollkit/.github)
-2. 🎉 Merged PR [#31](https://github.com/rollkit/.github/pull/31) in [rollkit/.github](https://github.com/rollkit/.github)
-3. 🎉 Merged PR [#2006](https://github.com/rollkit/rollkit/pull/2006) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-4. 🗣 Commented on [#1988](https://github.com/rollkit/rollkit/pull/1988#issuecomment-2685866221) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-5. 🎉 Merged PR [#122](https://github.com/celestiaorg/.github/pull/122) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+1. ❌ Closed PR [#421](https://github.com/celestiaorg/cosmos-sdk/pull/421) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
+2. 🗣 Commented on [#124](https://github.com/celestiaorg/.github/issues/124#issuecomment-2685912508) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+3. 🎉 Merged PR [#32](https://github.com/rollkit/.github/pull/32) in [rollkit/.github](https://github.com/rollkit/.github)
+4. 🎉 Merged PR [#31](https://github.com/rollkit/.github/pull/31) in [rollkit/.github](https://github.com/rollkit/.github)
+5. 🎉 Merged PR [#2006](https://github.com/rollkit/rollkit/pull/2006) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
