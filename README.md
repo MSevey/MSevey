@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#70](https://github.com/rollkit/wordle/pull/70) in [rollkit/wordle](https://github.com/rollkit/wordle)
-2. ❌ Closed PR [#72](https://github.com/rollkit/wordle/pull/72) in [rollkit/wordle](https://github.com/rollkit/wordle)
-3. 🎉 Merged PR [#549](https://github.com/rollkit/docs/pull/549) in [rollkit/docs](https://github.com/rollkit/docs)
-4. 🗣 Commented on [#72](https://github.com/celestiaorg/celestia-zkevm-ibc-demo/issues/72#issuecomment-2685942108) in [celestiaorg/celestia-zkevm-ibc-demo](https://github.com/celestiaorg/celestia-zkevm-ibc-demo)
-5. ❌ Closed PR [#421](https://github.com/celestiaorg/cosmos-sdk/pull/421) in [celestiaorg/cosmos-sdk](https://github.com/celestiaorg/cosmos-sdk)
+1. 💪 Opened PR [#55](https://github.com/celestiaorg/talis/pull/55) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. 🎉 Merged PR [#57](https://github.com/rollkit/centralized-sequencer/pull/57) in [rollkit/centralized-sequencer](https://github.com/rollkit/centralized-sequencer)
+3. ❗ Opened issue [#54](https://github.com/celestiaorg/talis/issues/54) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. ❗ Opened issue [#53](https://github.com/celestiaorg/talis/issues/53) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. 🔒 Closed issue [#50](https://github.com/celestiaorg/talis/issues/50) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
