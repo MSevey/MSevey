@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/celestiaorg/talis/pull/63) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. 🎉 Merged PR [#115](https://github.com/celestiaorg/helm-charts/pull/115) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
-3. ❗ Opened issue [#62](https://github.com/celestiaorg/talis/issues/62) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 🔓 Reopened issue [#47](https://github.com/celestiaorg/talis/issues/47) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. 🔒 Closed issue [#47](https://github.com/celestiaorg/talis/issues/47) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❗ Opened issue [#65](https://github.com/celestiaorg/talis/issues/65) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. 💪 Opened PR [#64](https://github.com/celestiaorg/talis/pull/64) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. 💪 Opened PR [#63](https://github.com/celestiaorg/talis/pull/63) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. 🎉 Merged PR [#115](https://github.com/celestiaorg/helm-charts/pull/115) in [celestiaorg/helm-charts](https://github.com/celestiaorg/helm-charts)
+5. ❗ Opened issue [#62](https://github.com/celestiaorg/talis/issues/62) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
