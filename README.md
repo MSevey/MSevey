@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/rollkit/go-sequencing/pull/40) in [rollkit/go-sequencing](https://github.com/rollkit/go-sequencing)
-2. 🗣 Commented on [#597](https://github.com/celestiaorg/knuu/pull/597#issuecomment-2701050892) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. ❌ Closed PR [#442](https://github.com/celestiaorg/knuu/pull/442) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-4. 🎉 Merged PR [#70](https://github.com/celestiaorg/talis/pull/70) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. 🎉 Merged PR [#71](https://github.com/celestiaorg/talis/pull/71) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❗ Opened issue [#1](https://github.com/MSevey/MSevey/issues/1) in [MSevey/MSevey](https://github.com/MSevey/MSevey)
+2. 🔒 Closed issue [#10](https://github.com/mycodecareer/py-trader/issues/10) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+3. 🔒 Closed issue [#9](https://github.com/mycodecareer/py-trader/issues/9) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+4. 🔒 Closed issue [#8](https://github.com/mycodecareer/py-trader/issues/8) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+5. 🔒 Closed issue [#5](https://github.com/mycodecareer/py-trader/issues/5) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
