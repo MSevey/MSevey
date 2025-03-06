@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/MSevey/MSevey/issues/1) in [MSevey/MSevey](https://github.com/MSevey/MSevey)
-2. 🔒 Closed issue [#10](https://github.com/mycodecareer/py-trader/issues/10) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-3. 🔒 Closed issue [#9](https://github.com/mycodecareer/py-trader/issues/9) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-4. 🔒 Closed issue [#8](https://github.com/mycodecareer/py-trader/issues/8) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
-5. 🔒 Closed issue [#5](https://github.com/mycodecareer/py-trader/issues/5) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
+1. 🔒 Closed issue [#5](https://github.com/celestiaorg/talis-agent/issues/5) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+2. 🔒 Closed issue [#4](https://github.com/celestiaorg/talis-agent/issues/4) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+3. 🎉 Merged PR [#6](https://github.com/celestiaorg/talis-agent/pull/6) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+4. ❗ Opened issue [#1](https://github.com/MSevey/MSevey/issues/1) in [MSevey/MSevey](https://github.com/MSevey/MSevey)
+5. 🔒 Closed issue [#10](https://github.com/mycodecareer/py-trader/issues/10) in [mycodecareer/py-trader](https://github.com/mycodecareer/py-trader)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
