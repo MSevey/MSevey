@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2048](https://github.com/rollkit/rollkit/pull/2048) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
-2. 🗣 Commented on [#603](https://github.com/celestiaorg/knuu/pull/603#issuecomment-2704591038) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
-3. 🔒 Closed issue [#5](https://github.com/celestiaorg/talis-agent/issues/5) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
-4. 🔒 Closed issue [#4](https://github.com/celestiaorg/talis-agent/issues/4) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
-5. 🎉 Merged PR [#6](https://github.com/celestiaorg/talis-agent/pull/6) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+1. 💪 Opened PR [#11](https://github.com/celestiaorg/talis-agent/pull/11) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+2. 🎉 Merged PR [#2048](https://github.com/rollkit/rollkit/pull/2048) in [rollkit/rollkit](https://github.com/rollkit/rollkit)
+3. 🗣 Commented on [#603](https://github.com/celestiaorg/knuu/pull/603#issuecomment-2704591038) in [celestiaorg/knuu](https://github.com/celestiaorg/knuu)
+4. 🔒 Closed issue [#5](https://github.com/celestiaorg/talis-agent/issues/5) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
+5. 🔒 Closed issue [#4](https://github.com/celestiaorg/talis-agent/issues/4) in [celestiaorg/talis-agent](https://github.com/celestiaorg/talis-agent)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
