@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#86](https://github.com/celestiaorg/talis/issues/86) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. ❗ Opened issue [#85](https://github.com/celestiaorg/talis/issues/85) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. ❗ Opened issue [#84](https://github.com/celestiaorg/talis/issues/84) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. ❗ Opened issue [#83](https://github.com/celestiaorg/talis/issues/83) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. ❗ Opened issue [#82](https://github.com/celestiaorg/talis/issues/82) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❗ Opened issue [#89](https://github.com/celestiaorg/talis/issues/89) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. ❗ Opened issue [#88](https://github.com/celestiaorg/talis/issues/88) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. ❗ Opened issue [#87](https://github.com/celestiaorg/talis/issues/87) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. ❗ Opened issue [#86](https://github.com/celestiaorg/talis/issues/86) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. ❗ Opened issue [#85](https://github.com/celestiaorg/talis/issues/85) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
