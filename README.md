@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/celestiaorg/talis/issues/99) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. ❗ Opened issue [#97](https://github.com/celestiaorg/talis/issues/97) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. ❗ Opened issue [#96](https://github.com/celestiaorg/talis/issues/96) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 🎉 Merged PR [#24](https://github.com/rollkit/go-execution-abci/pull/24) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
-5. 🗣 Commented on [#69](https://github.com/rollkit/go-execution/pull/69#issuecomment-2721265940) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+1. 🗣 Commented on [#99](https://github.com/celestiaorg/talis/issues/99#issuecomment-2724880684) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. ❗ Opened issue [#99](https://github.com/celestiaorg/talis/issues/99) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. ❗ Opened issue [#97](https://github.com/celestiaorg/talis/issues/97) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. ❗ Opened issue [#96](https://github.com/celestiaorg/talis/issues/96) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. 🎉 Merged PR [#24](https://github.com/rollkit/go-execution-abci/pull/24) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
