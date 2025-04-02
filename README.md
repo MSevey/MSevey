@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#74](https://github.com/rollkit/cosmos-sdk-starter/pull/74) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
-2. ❌ Closed PR [#142](https://github.com/rollkit/go-da/pull/142) in [rollkit/go-da](https://github.com/rollkit/go-da)
-3. ❌ Closed PR [#70](https://github.com/rollkit/go-execution/pull/70) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
-4. 🎉 Merged PR [#129](https://github.com/celestiaorg/.github/pull/129) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-5. 🗣 Commented on [#120](https://github.com/celestiaorg/talis/issues/120#issuecomment-2759392674) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❌ Closed PR [#51](https://github.com/celestiaorg/utils/pull/51) in [celestiaorg/utils](https://github.com/celestiaorg/utils)
+2. ❌ Closed PR [#78](https://github.com/rollkit/wordle/pull/78) in [rollkit/wordle](https://github.com/rollkit/wordle)
+3. ❌ Closed PR [#74](https://github.com/rollkit/cosmos-sdk-starter/pull/74) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+4. ❌ Closed PR [#142](https://github.com/rollkit/go-da/pull/142) in [rollkit/go-da](https://github.com/rollkit/go-da)
+5. ❌ Closed PR [#70](https://github.com/rollkit/go-execution/pull/70) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
