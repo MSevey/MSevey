@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/celestiaorg/.github/pull/129) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
-2. 🗣 Commented on [#120](https://github.com/celestiaorg/talis/issues/120#issuecomment-2759392674) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. 🗣 Commented on [#99](https://github.com/celestiaorg/talis/issues/99#issuecomment-2755078896) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 🗣 Commented on [#75](https://github.com/celestiaorg/talis/issues/75#issuecomment-2752403103) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. ❗ Opened issue [#126](https://github.com/celestiaorg/talis/issues/126) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❌ Closed PR [#74](https://github.com/rollkit/cosmos-sdk-starter/pull/74) in [rollkit/cosmos-sdk-starter](https://github.com/rollkit/cosmos-sdk-starter)
+2. ❌ Closed PR [#142](https://github.com/rollkit/go-da/pull/142) in [rollkit/go-da](https://github.com/rollkit/go-da)
+3. ❌ Closed PR [#70](https://github.com/rollkit/go-execution/pull/70) in [rollkit/go-execution](https://github.com/rollkit/go-execution)
+4. 🎉 Merged PR [#129](https://github.com/celestiaorg/.github/pull/129) in [celestiaorg/.github](https://github.com/celestiaorg/.github)
+5. 🗣 Commented on [#120](https://github.com/celestiaorg/talis/issues/120#issuecomment-2759392674) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
