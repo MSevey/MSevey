@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/celestiaorg/talis/pull/154#issuecomment-2772814770) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. ❌ Closed PR [#79](https://github.com/rollkit/wordle/pull/79) in [rollkit/wordle](https://github.com/rollkit/wordle)
-3. 🗣 Commented on [#142](https://github.com/celestiaorg/talis/pull/142#issuecomment-2772808719) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. ❌ Closed PR [#81](https://github.com/rollkit/wordle/pull/81) in [rollkit/wordle](https://github.com/rollkit/wordle)
-5. ❌ Closed PR [#83](https://github.com/rollkit/wordle/pull/83) in [rollkit/wordle](https://github.com/rollkit/wordle)
+1. 🎉 Merged PR [#154](https://github.com/celestiaorg/talis/pull/154) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. 🗣 Commented on [#154](https://github.com/celestiaorg/talis/pull/154#issuecomment-2772814770) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. ❌ Closed PR [#79](https://github.com/rollkit/wordle/pull/79) in [rollkit/wordle](https://github.com/rollkit/wordle)
+4. 🗣 Commented on [#142](https://github.com/celestiaorg/talis/pull/142#issuecomment-2772808719) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. ❌ Closed PR [#81](https://github.com/rollkit/wordle/pull/81) in [rollkit/wordle](https://github.com/rollkit/wordle)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
