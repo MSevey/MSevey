@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/celestiaorg/talis/pull/175#issuecomment-2784888386) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. 💪 Opened PR [#175](https://github.com/celestiaorg/talis/pull/175) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. 🗣 Commented on [#165](https://github.com/celestiaorg/talis/issues/165#issuecomment-2784440834) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 💪 Opened PR [#174](https://github.com/celestiaorg/talis/pull/174) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. 🗣 Commented on [#165](https://github.com/celestiaorg/talis/issues/165#issuecomment-2784428105) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. 🎉 Merged PR [#174](https://github.com/celestiaorg/talis/pull/174) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. 🗣 Commented on [#175](https://github.com/celestiaorg/talis/pull/175#issuecomment-2784888386) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. 💪 Opened PR [#175](https://github.com/celestiaorg/talis/pull/175) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. 🗣 Commented on [#165](https://github.com/celestiaorg/talis/issues/165#issuecomment-2784440834) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. 💪 Opened PR [#174](https://github.com/celestiaorg/talis/pull/174) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
