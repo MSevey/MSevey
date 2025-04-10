@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/celestiaorg/talis/pull/175) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. 🎉 Merged PR [#174](https://github.com/celestiaorg/talis/pull/174) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. 🗣 Commented on [#175](https://github.com/celestiaorg/talis/pull/175#issuecomment-2784888386) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 💪 Opened PR [#175](https://github.com/celestiaorg/talis/pull/175) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. 🗣 Commented on [#165](https://github.com/celestiaorg/talis/issues/165#issuecomment-2784440834) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. ❌ Closed PR [#144](https://github.com/rollkit/go-da/pull/144) in [rollkit/go-da](https://github.com/rollkit/go-da)
+2. 🎉 Merged PR [#562](https://github.com/rollkit/docs/pull/562) in [rollkit/docs](https://github.com/rollkit/docs)
+3. ❌ Closed PR [#36](https://github.com/rollkit/go-execution-abci/pull/36) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+4. ❌ Closed PR [#38](https://github.com/rollkit/go-execution-abci/pull/38) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
+5. ❌ Closed PR [#40](https://github.com/rollkit/go-execution-abci/pull/40) in [rollkit/go-execution-abci](https://github.com/rollkit/go-execution-abci)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
