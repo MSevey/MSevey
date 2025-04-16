@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#204](https://github.com/celestiaorg/talis/issues/204) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-2. 💪 Opened PR [#203](https://github.com/celestiaorg/talis/pull/203) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-3. 🎉 Merged PR [#194](https://github.com/celestiaorg/talis/pull/194) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-4. 🎉 Merged PR [#193](https://github.com/celestiaorg/talis/pull/193) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
-5. 🔒 Closed issue [#165](https://github.com/celestiaorg/talis/issues/165) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. 💪 Opened PR [#214](https://github.com/celestiaorg/talis/pull/214) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+2. ❗ Opened issue [#204](https://github.com/celestiaorg/talis/issues/204) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+3. 💪 Opened PR [#203](https://github.com/celestiaorg/talis/pull/203) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+4. 🎉 Merged PR [#194](https://github.com/celestiaorg/talis/pull/194) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+5. 🎉 Merged PR [#193](https://github.com/celestiaorg/talis/pull/193) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
