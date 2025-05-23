@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ardaglobal/arda-poc/pull/7) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-2. 💪 Opened PR [#7](https://github.com/ardaglobal/arda-poc/pull/7) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-3. 🎉 Merged PR [#6](https://github.com/ardaglobal/arda-poc/pull/6) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-4. 💪 Opened PR [#6](https://github.com/ardaglobal/arda-poc/pull/6) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-5. 🔒 Closed issue [#15](https://github.com/celestiaorg/talis/issues/15) in [celestiaorg/talis](https://github.com/celestiaorg/talis)
+1. 💪 Opened PR [#8](https://github.com/ardaglobal/arda-poc/pull/8) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+2. 🎉 Merged PR [#7](https://github.com/ardaglobal/arda-poc/pull/7) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+3. 💪 Opened PR [#7](https://github.com/ardaglobal/arda-poc/pull/7) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+4. 🎉 Merged PR [#6](https://github.com/ardaglobal/arda-poc/pull/6) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+5. 💪 Opened PR [#6](https://github.com/ardaglobal/arda-poc/pull/6) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
