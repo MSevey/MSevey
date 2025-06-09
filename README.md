@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/ardaglobal/arda-poc/issues/28) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-2. ❗ Opened issue [#27](https://github.com/ardaglobal/arda-poc/issues/27) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-3. ❗ Opened issue [#26](https://github.com/ardaglobal/arda-poc/issues/26) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-4. ❗ Opened issue [#25](https://github.com/ardaglobal/arda-poc/issues/25) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-5. ❗ Opened issue [#24](https://github.com/ardaglobal/arda-poc/issues/24) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+1. 🗣 Commented on [#25](https://github.com/ardaglobal/arda-poc/issues/25#issuecomment-2956060112) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+2. ❗ Opened issue [#28](https://github.com/ardaglobal/arda-poc/issues/28) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+3. ❗ Opened issue [#27](https://github.com/ardaglobal/arda-poc/issues/27) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+4. ❗ Opened issue [#26](https://github.com/ardaglobal/arda-poc/issues/26) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+5. ❗ Opened issue [#25](https://github.com/ardaglobal/arda-poc/issues/25) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
