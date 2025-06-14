@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/ardaglobal/arda-poc/pull/53) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-2. 🔒 Closed issue [#52](https://github.com/ardaglobal/arda-poc/issues/52) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-3. 🎉 Merged PR [#54](https://github.com/ardaglobal/arda-poc/pull/54) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-4. ❗ Opened issue [#57](https://github.com/ardaglobal/arda-poc/issues/57) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-5. 💪 Opened PR [#56](https://github.com/ardaglobal/arda-poc/pull/56) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+1. 🗣 Commented on [#22](https://github.com/ardaglobal/arda-poc/issues/22#issuecomment-2971615065) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+2. 🎉 Merged PR [#53](https://github.com/ardaglobal/arda-poc/pull/53) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+3. 🔒 Closed issue [#52](https://github.com/ardaglobal/arda-poc/issues/52) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+4. 🎉 Merged PR [#54](https://github.com/ardaglobal/arda-poc/pull/54) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+5. ❗ Opened issue [#57](https://github.com/ardaglobal/arda-poc/issues/57) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
