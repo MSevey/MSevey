@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/ardaglobal/docs/pull/4) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
-2. ❌ Closed PR [#3](https://github.com/ardaglobal/docs/pull/3) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
-3. 💪 Opened PR [#6](https://github.com/ardaglobal/docs/pull/6) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
-4. 💪 Opened PR [#5](https://github.com/ardaglobal/docs/pull/5) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
-5. 💪 Opened PR [#4](https://github.com/ardaglobal/docs/pull/4) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
+1. ❌ Closed PR [#5](https://github.com/ardaglobal/docs/pull/5) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
+2. 🎉 Merged PR [#6](https://github.com/ardaglobal/docs/pull/6) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
+3. ❌ Closed PR [#4](https://github.com/ardaglobal/docs/pull/4) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
+4. ❌ Closed PR [#3](https://github.com/ardaglobal/docs/pull/3) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
+5. 💪 Opened PR [#6](https://github.com/ardaglobal/docs/pull/6) in [ardaglobal/docs](https://github.com/ardaglobal/docs)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
