@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/ardaglobal/ardaos/pull/18) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-2. 🎉 Merged PR [#16](https://github.com/ardaglobal/ardaos/pull/16) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-3. 💪 Opened PR [#16](https://github.com/ardaglobal/ardaos/pull/16) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-4. ❗ Opened issue [#72](https://github.com/ardaglobal/arda-poc/issues/72) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
-5. 🎉 Merged PR [#71](https://github.com/ardaglobal/arda-poc/pull/71) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
+1. 💪 Opened PR [#19](https://github.com/ardaglobal/ardaos/pull/19) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+2. 💪 Opened PR [#18](https://github.com/ardaglobal/ardaos/pull/18) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+3. 🎉 Merged PR [#16](https://github.com/ardaglobal/ardaos/pull/16) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+4. 💪 Opened PR [#16](https://github.com/ardaglobal/ardaos/pull/16) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+5. ❗ Opened issue [#72](https://github.com/ardaglobal/arda-poc/issues/72) in [ardaglobal/arda-poc](https://github.com/ardaglobal/arda-poc)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
