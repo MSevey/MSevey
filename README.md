@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/ardaglobal/ardaos/pull/15#issuecomment-3109725020) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-2. ❌ Closed PR [#15](https://github.com/ardaglobal/ardaos/pull/15) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-3. 🎉 Merged PR [#17](https://github.com/ardaglobal/ardaos/pull/17) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-4. ❌ Closed PR [#5](https://github.com/ardaglobal/ardaos/pull/5) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
-5. ❌ Closed PR [#1](https://github.com/ardaglobal/ardaos/pull/1) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+1. 🗣 Commented on [#22](https://github.com/ardaglobal/ardaos/pull/22#issuecomment-3109896889) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+2. ❌ Closed PR [#22](https://github.com/ardaglobal/ardaos/pull/22) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+3. 🗣 Commented on [#21](https://github.com/ardaglobal/ardaos/pull/21#issuecomment-3109896499) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+4. ❌ Closed PR [#21](https://github.com/ardaglobal/ardaos/pull/21) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
+5. 🎉 Merged PR [#18](https://github.com/ardaglobal/ardaos/pull/18) in [ardaglobal/ardaos](https://github.com/ardaglobal/ardaos)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
