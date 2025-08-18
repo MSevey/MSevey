@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/ardaglobal/demo-vapp/pull/25) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-2. 🚀 Published release [v0.1.0](https://github.com/ardaglobal/demo-vapp/releases/tag/v0.1.0) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-3. 💪 Opened PR [#25](https://github.com/ardaglobal/demo-vapp/pull/25) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-4. 🎉 Merged PR [#24](https://github.com/ardaglobal/demo-vapp/pull/24) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-5. 💪 Opened PR [#24](https://github.com/ardaglobal/demo-vapp/pull/24) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+1. ❌ Closed PR [#34](https://github.com/ardaglobal/demo-vapp/pull/34) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+2. ❌ Closed PR [#33](https://github.com/ardaglobal/demo-vapp/pull/33) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+3. ❌ Closed PR [#32](https://github.com/ardaglobal/demo-vapp/pull/32) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+4. ❌ Closed PR [#31](https://github.com/ardaglobal/demo-vapp/pull/31) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+5. ❌ Closed PR [#30](https://github.com/ardaglobal/demo-vapp/pull/30) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
