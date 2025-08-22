@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/ardaglobal/arda-credit/issues/20) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
-2. ❗ Opened issue [#19](https://github.com/ardaglobal/arda-credit/issues/19) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
-3. ❗ Opened issue [#18](https://github.com/ardaglobal/arda-credit/issues/18) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
-4. ❗ Opened issue [#17](https://github.com/ardaglobal/arda-credit/issues/17) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
-5. ❗ Opened issue [#16](https://github.com/ardaglobal/arda-credit/issues/16) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+1. ❗ Opened issue [#26](https://github.com/ardaglobal/arda-credit/issues/26) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+2. ❗ Opened issue [#25](https://github.com/ardaglobal/arda-credit/issues/25) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+3. ❗ Opened issue [#24](https://github.com/ardaglobal/arda-credit/issues/24) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+4. ❗ Opened issue [#23](https://github.com/ardaglobal/arda-credit/issues/23) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+5. ❗ Opened issue [#22](https://github.com/ardaglobal/arda-credit/issues/22) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
