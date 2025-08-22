@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/ardaglobal/demo-vapp/pull/42) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-2. 💪 Opened PR [#42](https://github.com/ardaglobal/demo-vapp/pull/42) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-3. 🗣 Commented on [#41](https://github.com/ardaglobal/demo-vapp/pull/41#issuecomment-3210682737) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-4. 💪 Opened PR [#41](https://github.com/ardaglobal/demo-vapp/pull/41) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
-5. 🎉 Merged PR [#38](https://github.com/ardaglobal/demo-vapp/pull/38) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+1. ❗ Opened issue [#20](https://github.com/ardaglobal/arda-credit/issues/20) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+2. ❗ Opened issue [#19](https://github.com/ardaglobal/arda-credit/issues/19) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+3. ❗ Opened issue [#18](https://github.com/ardaglobal/arda-credit/issues/18) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+4. ❗ Opened issue [#17](https://github.com/ardaglobal/arda-credit/issues/17) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+5. ❗ Opened issue [#16](https://github.com/ardaglobal/arda-credit/issues/16) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
