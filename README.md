@@ -41,7 +41,7 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/ardaglobal/demo-vapp/pull/41) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
+1. ❌ Closed PR [#41](undefined) in [ardaglobal/demo-vapp](https://github.com/ardaglobal/demo-vapp)
 2. ❌ Closed PR [#1](https://github.com/ardaglobal/arda-homepage/pull/1) in [ardaglobal/arda-homepage](https://github.com/ardaglobal/arda-homepage)
 3. 🎉 Merged PR [#2](https://github.com/ardaglobal/arda-homepage/pull/2) in [ardaglobal/arda-homepage](https://github.com/ardaglobal/arda-homepage)
 4. 💪 Opened PR [#2](https://github.com/ardaglobal/arda-homepage/pull/2) in [ardaglobal/arda-homepage](https://github.com/ardaglobal/arda-homepage)
