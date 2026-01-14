@@ -24,8 +24,8 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="480" height="270"  /> 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Director of Engineering and Career Coach
-- 💼 Currently working on modular blockchains at [Celestia](https://celestia.org)
+- 🖥 CTO / Co-Founder
+- 💼 Currently working on AI Fintech at [Arda](https://arda.xyz)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Spent almost a year living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
