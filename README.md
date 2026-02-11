@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/oikonai/code-ingest/releases/tag/v0.1.0) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
-2. 🎉 Merged PR [#3](https://github.com/oikonai/code-ingest/pull/3) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
-3. 💪 Opened PR [#3](https://github.com/oikonai/code-ingest/pull/3) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
-4. 🎉 Merged PR [#2](https://github.com/oikonai/code-ingest/pull/2) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
-5. 💪 Opened PR [#2](https://github.com/oikonai/code-ingest/pull/2) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+1. 🚀 Published release [v0.2.0](https://github.com/oikonai/code-ingest/releases/tag/v0.2.0) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+2. 🚀 Published release [v0.1.0](https://github.com/oikonai/code-ingest/releases/tag/v0.1.0) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+3. 🎉 Merged PR [#3](https://github.com/oikonai/code-ingest/pull/3) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+4. 💪 Opened PR [#3](https://github.com/oikonai/code-ingest/pull/3) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+5. 🎉 Merged PR [#2](https://github.com/oikonai/code-ingest/pull/2) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
