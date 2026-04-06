@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/eco/routes-cli/pull/14) in [eco/routes-cli](https://github.com/eco/routes-cli)
-2. 💪 Opened PR [#43](https://github.com/eco/eco-routes-svm/pull/43) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
-3. 💪 Opened PR [#14](https://github.com/eco/routes-cli/pull/14) in [eco/routes-cli](https://github.com/eco/routes-cli)
-4. 💪 Opened PR [#378](https://github.com/eco/eco-routes/pull/378) in [eco/eco-routes](https://github.com/eco/eco-routes)
-5. 🎉 Merged PR [#2](https://github.com/oikonai/code-ingest/pull/2) in [oikonai/code-ingest](https://github.com/oikonai/code-ingest)
+1. 🎉 Merged PR [#378](https://github.com/eco/eco-routes/pull/378) in [eco/eco-routes](https://github.com/eco/eco-routes)
+2. 🎉 Merged PR [#43](https://github.com/eco/eco-routes-svm/pull/43) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
+3. 🎉 Merged PR [#14](https://github.com/eco/routes-cli/pull/14) in [eco/routes-cli](https://github.com/eco/routes-cli)
+4. 💪 Opened PR [#43](https://github.com/eco/eco-routes-svm/pull/43) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
+5. 💪 Opened PR [#14](https://github.com/eco/routes-cli/pull/14) in [eco/routes-cli](https://github.com/eco/routes-cli)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
