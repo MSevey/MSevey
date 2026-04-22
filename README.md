@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/eco-incorp/discord-accountant/pull/4) in [eco-incorp/discord-accountant](https://github.com/eco-incorp/discord-accountant)
-2. ❌ Closed PR [#29](https://github.com/eco-incorp/vdf-solver/pull/29) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
-3. ❌ Closed PR [#28](https://github.com/eco-incorp/vdf-solver/pull/28) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
-4. ❌ Closed PR [#27](https://github.com/eco-incorp/vdf-solver/pull/27) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
-5. ❌ Closed PR [#23](https://github.com/eco-incorp/vdf-solver/pull/23) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
+1. ❌ Closed PR [#375](https://github.com/ardaglobal/arda-credit/pull/375) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
+2. ❌ Closed PR [#2](https://github.com/eco-incorp/Cross-L2-Actions/pull/2) in [eco-incorp/Cross-L2-Actions](https://github.com/eco-incorp/Cross-L2-Actions)
+3. ❌ Closed PR [#4](https://github.com/eco-incorp/discord-accountant/pull/4) in [eco-incorp/discord-accountant](https://github.com/eco-incorp/discord-accountant)
+4. ❌ Closed PR [#29](https://github.com/eco-incorp/vdf-solver/pull/29) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
+5. ❌ Closed PR [#28](https://github.com/eco-incorp/vdf-solver/pull/28) in [eco-incorp/vdf-solver](https://github.com/eco-incorp/vdf-solver)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
