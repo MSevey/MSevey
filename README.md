@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/eco/eco-routes-svm/pull/54) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
-2. 💪 Opened PR [#54](https://github.com/eco/eco-routes-svm/pull/54) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
-3. ❌ Closed PR [#375](https://github.com/ardaglobal/arda-credit/pull/375) in [ardaglobal/arda-credit](https://github.com/ardaglobal/arda-credit)
-4. ❌ Closed PR [#2](https://github.com/eco-incorp/Cross-L2-Actions/pull/2) in [eco-incorp/Cross-L2-Actions](https://github.com/eco-incorp/Cross-L2-Actions)
-5. ❌ Closed PR [#4](https://github.com/eco-incorp/discord-accountant/pull/4) in [eco-incorp/discord-accountant](https://github.com/eco-incorp/discord-accountant)
+1. ❌ Closed PR [#48](https://github.com/eco/permit3/pull/48) in [eco/permit3](https://github.com/eco/permit3)
+2. ❌ Closed PR [#49](https://github.com/eco/permit3/pull/49) in [eco/permit3](https://github.com/eco/permit3)
+3. ❌ Closed PR [#50](https://github.com/eco/permit3/pull/50) in [eco/permit3](https://github.com/eco/permit3)
+4. ❌ Closed PR [#51](https://github.com/eco/permit3/pull/51) in [eco/permit3](https://github.com/eco/permit3)
+5. ❌ Closed PR [#52](https://github.com/eco/permit3/pull/52) in [eco/permit3](https://github.com/eco/permit3)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
