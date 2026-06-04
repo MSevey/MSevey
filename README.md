@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/eco/permit3/pull/48) in [eco/permit3](https://github.com/eco/permit3)
-2. ❌ Closed PR [#49](https://github.com/eco/permit3/pull/49) in [eco/permit3](https://github.com/eco/permit3)
-3. ❌ Closed PR [#50](https://github.com/eco/permit3/pull/50) in [eco/permit3](https://github.com/eco/permit3)
-4. ❌ Closed PR [#51](https://github.com/eco/permit3/pull/51) in [eco/permit3](https://github.com/eco/permit3)
-5. ❌ Closed PR [#52](https://github.com/eco/permit3/pull/52) in [eco/permit3](https://github.com/eco/permit3)
+1. ❌ Closed PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
+2. 💪 Opened PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
+3. ❌ Closed PR [#48](https://github.com/eco/permit3/pull/48) in [eco/permit3](https://github.com/eco/permit3)
+4. ❌ Closed PR [#49](https://github.com/eco/permit3/pull/49) in [eco/permit3](https://github.com/eco/permit3)
+5. ❌ Closed PR [#50](https://github.com/eco/permit3/pull/50) in [eco/permit3](https://github.com/eco/permit3)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
