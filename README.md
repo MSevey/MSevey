@@ -24,8 +24,8 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="480" height="270"  /> 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 CTO / Co-Founder
-- 💼 Currently working on AI Fintech at [Arda](https://arda.xyz)
+- 🖥 Head of Engineering; previous CTO / Co-Founder
+- 💼 Currently working on Stablecoins at [Eco](https://eco.com)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Spent almost a year living in a [Van!](https://www.instagram.com/trek2gether/) 
 <!-- - 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 SkyBuy -->
