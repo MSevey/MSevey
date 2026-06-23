@@ -41,8 +41,8 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
-2. 💪 Opened PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
+1. 🗣 Commented on [#387](https://github.com/eco/eco-routes/pull/387#issuecomment-4762354810) in [eco/eco-routes](https://github.com/eco/eco-routes)
+2. ❌ Closed PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
 3. 💪 Opened PR [#4](https://github.com/eco-incorp/sauce-sdk/pull/4) in [eco-incorp/sauce-sdk](https://github.com/eco-incorp/sauce-sdk)
 4. ❌ Closed PR [#49](https://github.com/eco/permit3/pull/49) in [eco/permit3](https://github.com/eco/permit3)
 5. ❌ Closed PR [#50](https://github.com/eco/permit3/pull/50) in [eco/permit3](https://github.com/eco/permit3)
