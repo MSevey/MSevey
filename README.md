@@ -41,7 +41,7 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#423](https://github.com/eco/eco-routes/pull/423) in [eco/eco-routes](https://github.com/eco/eco-routes)
+1. 🚀 Published release [v1.0.0](https://github.com/eco/eco-delivery/releases/tag/v1.0.0) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
 2. ℹ️ Labeled issue [#1717](https://github.com/asheshgoplani/agent-deck/issues/1717) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 3. ℹ️ Labeled issue [#1717](https://github.com/asheshgoplani/agent-deck/issues/1717) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 4. ❗ Opened issue [#1717](https://github.com/asheshgoplani/agent-deck/issues/1717) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
