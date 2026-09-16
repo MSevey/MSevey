@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/eco/eco-delivery/pull/7) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
-2. 💪 Opened PR [#7](https://github.com/eco/eco-delivery/pull/7) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
-3. 🚀 Published release [v1.0.0](https://github.com/eco/eco-delivery/releases/tag/v1.0.0) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
-4. ❗ Opened issue [#1717](https://github.com/asheshgoplani/agent-deck/issues/1717) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
-5. 🚀 Published release [v2.9.0](https://github.com/eco/eco-routes/releases/tag/v2.9.0) in [eco/eco-routes](https://github.com/eco/eco-routes)
+1. 🎉 Merged PR [#116](https://github.com/eco/eco-chains/pull/116) in [eco/eco-chains](https://github.com/eco/eco-chains)
+2. 💪 Opened PR [#116](https://github.com/eco/eco-chains/pull/116) in [eco/eco-chains](https://github.com/eco/eco-chains)
+3. 🎉 Merged PR [#7](https://github.com/eco/eco-delivery/pull/7) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
+4. 💪 Opened PR [#7](https://github.com/eco/eco-delivery/pull/7) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
+5. 🚀 Published release [v1.0.0](https://github.com/eco/eco-delivery/releases/tag/v1.0.0) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
