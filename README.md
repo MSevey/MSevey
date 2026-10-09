@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#444](https://github.com/eco/eco-routes/pull/444) in [eco/eco-routes](https://github.com/eco/eco-routes)
-2. 💪 Opened PR [#444](https://github.com/eco/eco-routes/pull/444) in [eco/eco-routes](https://github.com/eco/eco-routes)
-3. 🎉 Merged PR [#116](https://github.com/eco/eco-chains/pull/116) in [eco/eco-chains](https://github.com/eco/eco-chains)
-4. 💪 Opened PR [#116](https://github.com/eco/eco-chains/pull/116) in [eco/eco-chains](https://github.com/eco/eco-chains)
-5. 🎉 Merged PR [#7](https://github.com/eco/eco-delivery/pull/7) in [eco/eco-delivery](https://github.com/eco/eco-delivery)
+1. 🗣 Commented on [#34](https://github.com/eco-incorp/apollo-ethereum/pull/34#issuecomment-6084846213) in [eco-incorp/apollo-ethereum](https://github.com/eco-incorp/apollo-ethereum)
+2. 🗣 Commented on [#441](https://github.com/eco/eco-routes/pull/441#issuecomment-6084700859) in [eco/eco-routes](https://github.com/eco/eco-routes)
+3. 🗣 Commented on [#108](https://github.com/eco/eco-routes-svm/pull/108#issuecomment-6084698934) in [eco/eco-routes-svm](https://github.com/eco/eco-routes-svm)
+4. 🗣 Commented on [#31](https://github.com/eco-incorp/apollo-ethereum/pull/31#issuecomment-6084844959) in [eco-incorp/apollo-ethereum](https://github.com/eco-incorp/apollo-ethereum)
+5. 🗣 Commented on [#441](https://github.com/eco/eco-routes/pull/441#issuecomment-6084701252) in [eco/eco-routes](https://github.com/eco/eco-routes)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
