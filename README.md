@@ -41,11 +41,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#458](https://github.com/eco/eco-routes/pull/458#issuecomment-6196783602) in [eco/eco-routes](https://github.com/eco/eco-routes)
-2. 🗣 Commented on [#458](https://github.com/eco/eco-routes/pull/458#issuecomment-6196779684) in [eco/eco-routes](https://github.com/eco/eco-routes)
-3. 🗣 Commented on [#458](https://github.com/eco/eco-routes/pull/458#issuecomment-6196730723) in [eco/eco-routes](https://github.com/eco/eco-routes)
-4. 🗣 Commented on [#454](https://github.com/eco/eco-routes/pull/454#issuecomment-6172846207) in [eco/eco-routes](https://github.com/eco/eco-routes)
-5. 🗣 Commented on [#454](https://github.com/eco/eco-routes/pull/454#issuecomment-6172819135) in [eco/eco-routes](https://github.com/eco/eco-routes)
+1. ❌ Closed PR [#1](https://github.com/eco/eco-kms/pull/1) in [eco/eco-kms](https://github.com/eco/eco-kms)
+2. ❌ Closed PR [#3](https://github.com/eco/substreams-sink-mongodb/pull/3) in [eco/substreams-sink-mongodb](https://github.com/eco/substreams-sink-mongodb)
+3. ❌ Closed PR [#8](https://github.com/eco/eco_governance/pull/8) in [eco/eco_governance](https://github.com/eco/eco_governance)
+4. 🗣 Commented on [#458](https://github.com/eco/eco-routes/pull/458#issuecomment-6196783602) in [eco/eco-routes](https://github.com/eco/eco-routes)
+5. 🗣 Commented on [#458](https://github.com/eco/eco-routes/pull/458#issuecomment-6196779684) in [eco/eco-routes](https://github.com/eco/eco-routes)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
